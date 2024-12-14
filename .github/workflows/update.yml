@@ -17,13 +17,14 @@ jobs:
     name: Updating repository information
     runs-on: ubuntu-latest
     container: golang:latest
+    environment: production
     permissions:
       contents: write
     env:
       USER_GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
     steps:
       - name: Check env
-        run: echo $USER_GITHUB_TOKEN
+        run: echo $(USER_GITHUB_TOKEN)
 
       # step1
       - name: Check out repository
@@ -32,7 +33,7 @@ jobs:
           fetch-depth: 0
 
       - name: Check env
-        run: echo $USER_GITHUB_TOKEN
+        run: echo ${USER_GITHUB_TOKEN}
 
       # step2
       - name: Get dependencies
