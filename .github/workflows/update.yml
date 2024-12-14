@@ -19,30 +19,43 @@ jobs:
     container: golang:latest
     permissions:
       contents: write
+    env:
+      USER_GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
     steps:
+      - name: Check env
+        run: echo $USER_GITHUB_TOKEN
+
       # step1
       - name: Check out repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      - name: Check env
+        run: echo $USER_GITHUB_TOKEN
+
       # step2
       - name: Get dependencies
         run: go get -v -t ./...
 
+      - name: Check env
+        run: echo $USER_GITHUB_TOKEN
+
       # step3
       - name: Run script
         run: go run .
-        with:
-          USER_GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
+        continue-on-error: false
 
       # step4
       - name: Commit files
+        if: ${{ success() }}
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git commit -a -m "Update statistics"
+
       - name: Push changes
+        if: ${{ success() }}
         uses: ad-m/github-push-action@master
         with:
           branch: ${{ github.ref }}
