@@ -17,6 +17,7 @@ jobs:
     name: Updating repository information
     runs-on: ubuntu-latest
     container: golang:latest
+    environment: production
     permissions:
       contents: write
     env:
