@@ -18,6 +18,15 @@ const (
 	readme       = `README.md`
 )
 
+const (
+	OK = iota
+	ErrCodeNoTokenEnvGiven
+	ErrCodeFileNotFound
+	ErrCodeGithubQuery
+	ErrCodeRenderTemplate
+	ErrCodeWriteOutput
+)
+
 type RepositoryInfo struct {
 	Name           string
 	NameWithOwner  string
@@ -134,15 +143,17 @@ func main() {
 
 	// Step1: Check configuration
 	fmt.Print("Step1 - Check congfiguration: ")
-	token := os.Getenv("GITHUB_TOKEN")
+	token := os.Getenv("USER_GITHUB_TOKEN")
 	if token == "" {
-		fmt.Println("$GITHUB_TOKEN environment variable not set.")
+		fmt.Println("$USER_GITHUB_TOKEN environment variable not set.")
+		os.Exit(ErrCodeNoTokenEnvGiven)
 		return
 	}
-	
+
 	templateBytes, err := os.ReadFile(templateFile)
 	if err != nil {
 		fmt.Println(err)
+		os.Exit(ErrCodeFileNotFound)
 		return
 	}
 	fmt.Println("OK.")
@@ -152,6 +163,7 @@ func main() {
 	repos, err := getUserStaredRepositories(token)
 	if err != nil {
 		fmt.Println(err)
+		os.Exit(ErrCodeGithubQuery)
 		return
 	}
 	fmt.Println("OK.")
@@ -161,6 +173,7 @@ func main() {
 	data, err := executeTemplateToStr(string(templateBytes), repos)
 	if err != nil {
 		fmt.Println(err)
+		os.Exit(ErrCodeRenderTemplate)
 		return
 	}
 	fmt.Println("OK.")
@@ -169,8 +182,10 @@ func main() {
 	fmt.Print("Step4 - Write to README file: ")
 	if err := os.WriteFile(readme, []byte(data), 0644); err != nil {
 		fmt.Println(err)
+		os.Exit(ErrCodeWriteOutput)
 		return
 	}
 	fmt.Println("OK.")
-	fmt.Println("Finished!")	
+	fmt.Println("Finished!")
+	os.Exit(OK)
 }
