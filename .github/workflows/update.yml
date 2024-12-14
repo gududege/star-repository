@@ -3,7 +3,9 @@ name: update
 on:
   # Content update
   push:
-    branches: [ main ]
+    paths:
+      - '**.go'
+      - '**.tmpl'
   # Daily update
   schedule:
     - cron: "0 0 * * *"   # At 00:00
@@ -17,8 +19,6 @@ jobs:
     container: golang:latest
     permissions:
       contents: write
-    env:
-      USER_GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
     steps:
       # step1
       - name: Check out repository
@@ -33,6 +33,8 @@ jobs:
       # step3
       - name: Run script
         run: go run .
+        with:
+          USER_GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
 
       # step4
       - name: Commit files
