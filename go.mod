@@ -7,4 +7,7 @@ require (
 	golang.org/x/oauth2 v0.24.0
 )
 
-require github.com/shurcooL/graphql v0.0.0-20230722043721-ed46e5a46466 // indirect
+require (
+	github.com/shurcooL/graphql v0.0.0-20230722043721-ed46e5a46466 // indirect
+	github.com/yuin/goldmark v1.7.8 // indirect
+)

@@ -5,25 +5,48 @@ import (
 	"context"
 	"fmt"
 	"github.com/shurcooL/githubv4"
+	"github.com/yuin/goldmark"
 	"golang.org/x/oauth2"
 	"os"
+	"regexp"
 	"strings"
 	"text/template"
 	"unicode"
 )
 
-// setting
+// Configuration
 const (
-	templateFile = `README.tmpl`
-	readme       = `README.md`
+	readmeTmplFile = `README.tmpl`
+	indexTmplFile  = `index.tmpl`
+	readme         = `README.md`
+	index          = `index.html`
+	username       = `gududege`
+	repositoryName = `Starred-Repository-Monitor`
 )
 
+// Setting
+const (
+	envGithubTokenName          = `USER_GITHUB_TOKEN`
+	errTokenNotFoundDescription = `$USER_GITHUB_TOKEN environment variable not set.`
+	patternContentSymbol        = `[_|-]`
+	spaceChar                   = " "
+	emptyChar                   = ""
+	step1Description            = "Step1 - Check congfiguration: "
+	step2Description            = "Step2 - Get user starred repositories information via Github api: "
+	step3Description            = "Step3 - Render README template file with data: "
+	step4Description            = "Step4 - Render index.html template file with README content: "
+	step5Description            = "Step5 - Write output: "
+)
+
+// Return Code
 const (
 	OK = iota
-	ErrCodeNoTokenEnvGiven
+	ErrCodeRegexFault
+	ErrCodeNoTokenGiven
 	ErrCodeFileNotFound
 	ErrCodeGithubQuery
 	ErrCodeRenderTemplate
+	ErrCodeConvertMarkdown
 	ErrCodeWriteOutput
 )
 
@@ -50,6 +73,14 @@ func executeTemplateToStr(tmpl string, data any) (string, error) {
 	buf := new(bytes.Buffer)
 	err = parsedTmpl.Execute(buf, data)
 	return buf.String(), err
+}
+
+func convertMarkdownToHTML(markdown string) (string, error) {
+	var buf bytes.Buffer
+	if err := goldmark.Convert([]byte(markdown), &buf); err != nil {
+		return "", err
+	}
+	return buf.String(), nil
 }
 
 func getUserStaredRepositories(githubToken string) ([]RepositoryInfo, error) {
@@ -86,7 +117,7 @@ func getUserStaredRepositories(githubToken string) ([]RepositoryInfo, error) {
 						} `graphql:"languages(first: 3)"`
 					}
 				}
-			} `graphql:"starredRepositories(first: $count, after: $cursor)"`
+			} `graphql:"starredRepositories(first: $count, after: $cursor, orderBy: {field: STARRED_AT, direction: DESC})"`
 		}
 	}
 	variables := map[string]interface{}{
@@ -140,17 +171,31 @@ func getUserStaredRepositories(githubToken string) ([]RepositoryInfo, error) {
 }
 
 func main() {
-
 	// Step1: Check configuration
-	fmt.Print("Step1 - Check congfiguration: ")
-	token := os.Getenv("USER_GITHUB_TOKEN")
+	fmt.Print(step1Description)
+	token := os.Getenv(envGithubTokenName)
 	if token == "" {
-		fmt.Println("$USER_GITHUB_TOKEN environment variable not set.")
-		os.Exit(ErrCodeNoTokenEnvGiven)
+		fmt.Println(errTokenNotFoundDescription)
+		os.Exit(ErrCodeNoTokenGiven)
 		return
 	}
 
-	templateBytes, err := os.ReadFile(templateFile)
+	regex, err := regexp.Compile(patternContentSymbol)
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(ErrCodeRegexFault)
+		return
+	}
+	title := strings.Trim(regex.ReplaceAllString(repositoryName, spaceChar), spaceChar)
+
+	readmeTmplBytes, err := os.ReadFile(readmeTmplFile)
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(ErrCodeFileNotFound)
+		return
+	}
+
+	indexTmplBytes, err := os.ReadFile(indexTmplFile)
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(ErrCodeFileNotFound)
@@ -159,7 +204,7 @@ func main() {
 	fmt.Println("OK.")
 
 	// Step2: Query stars
-	fmt.Print("Step2 - Get user starred repositories information via Github api: ")
+	fmt.Print(step2Description)
 	repos, err := getUserStaredRepositories(token)
 	if err != nil {
 		fmt.Println(err)
@@ -168,9 +213,14 @@ func main() {
 	}
 	fmt.Println("OK.")
 
-	// Step3: Render template
-	fmt.Print("Step3 - Render template file with data: ")
-	data, err := executeTemplateToStr(string(templateBytes), repos)
+	// Step3: Render README template
+	fmt.Print(step3Description)
+	readmeContent, err := executeTemplateToStr(string(readmeTmplBytes), map[string]interface{}{
+		`Title`:            title,
+		`RepositoryName`:   repositoryName,
+		`UserName`:         username,
+		`RepositoriesInfo`: repos,
+	})
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(ErrCodeRenderTemplate)
@@ -178,9 +228,35 @@ func main() {
 	}
 	fmt.Println("OK.")
 
-	// Step4: Write to README
-	fmt.Print("Step4 - Write to README file: ")
-	if err := os.WriteFile(readme, []byte(data), 0644); err != nil {
+	// Step4: Render html template
+	fmt.Print(step4Description)
+	indexStr, err := convertMarkdownToHTML(readmeContent)
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(ErrCodeConvertMarkdown)
+		return
+	}
+	indexContent, err := executeTemplateToStr(string(indexTmplBytes), map[string]interface{}{
+		`Title`:             title,
+		`RepositoryName`:    repositoryName,
+		`ReadmeContent`:     indexStr,
+		`RepositoriesCount`: len(repos),
+	})
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(ErrCodeRenderTemplate)
+		return
+	}
+	fmt.Println("OK.")
+
+	// Step5: Write to README
+	fmt.Print(step5Description)
+	if err := os.WriteFile(readme, []byte(readmeContent), 0644); err != nil {
+		fmt.Println(err)
+		os.Exit(ErrCodeWriteOutput)
+		return
+	}
+	if err := os.WriteFile(index, []byte(indexContent), 0644); err != nil {
 		fmt.Println(err)
 		os.Exit(ErrCodeWriteOutput)
 		return
