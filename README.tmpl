@@ -1,14 +1,14 @@
-# Starred Repository Monitor
+# {{.Title}}
 
-![GitHub last commit](https://badgen.net/github/last-commit/gududege/Starred-Repository-Monitor)
+[![GitHub last commit](https://badgen.net/github/last-commit/{{.UserName}}/{{.RepositoryName}})](https://badgen.net/github/last-commit/{{.UserName}}/{{.RepositoryName}})
 
 Each repository information contains name, url, star count, last update date, a short description, and development languages
 
-{{range $index, $val := . -}}
+{{range $index, $val := .RepositoriesInfo -}}
 - [{{$val.Name}}]({{$val.Url}} "{{$val.NameWithOwner}}") - ⭐{{$val.StargazerCount}} 📅{{printf "%.10s" $val.UpdatedAt }} 📖{{$val.Description}}
 {{- range $index, $val := $val.Languages}}
 {{- /* a comment used for trim prefix char */}} `{{$val}}`{{/* a comment used for trim suffix char */ -}}
 {{end}}
 {{else -}}
-nothing found
+Nothing Found
 {{end -}}
