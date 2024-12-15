@@ -1,0 +1,26 @@
+<html lang="zh-Hans">
+<head>
+    <meta charset="utf-8">
+    <title>{{.Title}}</title></head>
+    <style>
+        li{
+            margin-bottom:14px;
+        }
+        code{
+            font-size: 14px;
+            font-family: "Segoe UI",serif;
+            background: #eeeff0;
+        }
+        p#statistics{
+            margin: 20px;
+            font-size: 18px;
+            text-align: center;
+        }
+    </style>
+<body>
+{{.ReadmeContent}}
+<p id="statistics">
+    Total: {{.RepositoriesCount}} repositories
+</p>
+</body>
+</html>
