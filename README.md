@@ -15,12 +15,12 @@ Each repository information contains name, url, star count, last update date, a 
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker "veggiemonk/awesome-docker") - ⭐30725 📅2024-12-15 📖whale: A curated list of Docker resources and projects
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core "thangchung/awesome-dotnet-core") - ⭐20065 📅2024-12-14 📖honeybee: A collection of awesome .NET core libraries, tools, frameworks and software `C#`
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps "agarrharr/awesome-cli-apps") - ⭐15520 📅2024-12-15 📖A curated list of command line apps `Shell`
-- [awesome](https://github.com/sindresorhus/awesome "sindresorhus/awesome") - ⭐337418 📅2024-12-15 📖Awesome lists about all kinds of interesting topics
+- [awesome](https://github.com/sindresorhus/awesome "sindresorhus/awesome") - ⭐337420 📅2024-12-15 📖Awesome lists about all kinds of interesting topics
 - [next-terminal](https://github.com/dushixiang/next-terminal "dushixiang/next-terminal") - ⭐4790 📅2024-12-13 📖Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议 `Dockerfile` `Go` `HTML`
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust "shadowsocks/shadowsocks-rust") - ⭐8769 📅2024-12-15 📖A Rust port of shadowsocks `Rust` `Shell` `Makefile`
-- [gitea](https://github.com/go-gitea/gitea "go-gitea/gitea") - ⭐45820 📅2024-12-15 📖Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD `Makefile` `Go` `Shell`
+- [gitea](https://github.com/go-gitea/gitea "go-gitea/gitea") - ⭐45822 📅2024-12-15 📖Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD `Makefile` `Go` `Shell`
 - [weekly](https://github.com/ruanyf/weekly "ruanyf/weekly") - ⭐49602 📅2024-12-15 📖科技爱好者周刊，每周五发布
-- [openai-cookbook](https://github.com/openai/openai-cookbook "openai/openai-cookbook") - ⭐60619 📅2024-12-15 📖Examples and guides for using the OpenAI API `MDX`
+- [openai-cookbook](https://github.com/openai/openai-cookbook "openai/openai-cookbook") - ⭐60618 📅2024-12-15 📖Examples and guides for using the OpenAI API `MDX`
 - [gfwlist](https://github.com/gfwlist/gfwlist "gfwlist/gfwlist") - ⭐23519 📅2024-12-15 📖The one and only one gfwlist here
 - [awesome-actions](https://github.com/sdras/awesome-actions "sdras/awesome-actions") - ⭐25345 📅2024-12-15 📖A curated list of awesome actions to use on GitHub
 - [Bark-Chrome-Extension](https://github.com/xlvecle/Bark-Chrome-Extension "xlvecle/Bark-Chrome-Extension") - ⭐151 📅2024-10-14 📖Chrome Extension for Bark. Bark is an iOS App which allows you to push customed notifications to your iPhone `JavaScript` `HTML`
@@ -38,7 +38,7 @@ Each repository information contains name, url, star count, last update date, a 
 - [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms "aalhour/C-Sharp-Algorithms") - ⭐5973 📅2024-12-15 📖books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C `C#` `Batchfile`
 - [SuperSocket](https://github.com/kerryjiang/SuperSocket "kerryjiang/SuperSocket") - ⭐3959 📅2024-12-14 📖SuperSocket is a light weight, cross platform and extensible socket server application framework `C#` `Shell`
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp "TheAlgorithms/C-Sharp") - ⭐7230 📅2024-12-15 📖All algorithms implemented in C `C#`
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt "LiLittleCat/awesome-free-chatgpt") - ⭐18838 📅2024-12-15 📖免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated `Python`
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt "LiLittleCat/awesome-free-chatgpt") - ⭐18839 📅2024-12-15 📖免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated `Python`
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation "FluentValidation/FluentValidation") - ⭐9159 📅2024-12-15 📖A popular .NET validation library for building strongly-typed validation rules `PowerShell` `C#` `Batchfile`
 - [LinuxMirrors](https://github.com/SuperManito/LinuxMirrors "SuperManito/LinuxMirrors") - ⭐2697 📅2024-12-15 📖GNU/Linux 更换系统软件源脚本及 Docker 安装脚本 `Shell`
 - [harbor](https://github.com/goharbor/harbor "goharbor/harbor") - ⭐24389 📅2024-12-15 📖An open source trusted cloud native registry project that stores, signs, and scans content `Shell` `Python` `Go`
@@ -53,7 +53,7 @@ Each repository information contains name, url, star count, last update date, a 
 - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet "graphql-dotnet/graphql-dotnet") - ⭐5886 📅2024-12-14 📖GraphQL for .NET `C#` `JavaScript` `CSS`
 - [JmesPath.Net](https://github.com/jdevillard/JmesPath.Net "jdevillard/JmesPath.Net") - ⭐126 📅2024-11-13 📖A fully compliant implementation of JMESPATH for .NetCore `C#` `Yacc` `Lex`
 - [ctop](https://github.com/bcicen/ctop "bcicen/ctop") - ⭐15645 📅2024-12-14 📖Top-like interface for container metrics `Go` `Makefile` `Shell`
-- [OpenWrt](https://github.com/haiibo/OpenWrt "haiibo/OpenWrt") - ⭐2872 📅2024-12-15 📖基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等 `Shell` `Dockerfile` `Perl`
+- [OpenWrt](https://github.com/haiibo/OpenWrt "haiibo/OpenWrt") - ⭐2873 📅2024-12-15 📖基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等 `Shell` `Dockerfile` `Perl`
 - [virtual-dsm](https://github.com/vdsm/virtual-dsm "vdsm/virtual-dsm") - ⭐2768 📅2024-12-15 📖Virtual DSM in a Docker container `Shell` `Dockerfile` `HTML`
 - [EPPlus](https://github.com/EPPlusSoftware/EPPlus "EPPlusSoftware/EPPlus") - ⭐1838 📅2024-12-14 📖EPPlus-Excel spreadsheets for .NET `C#`
 - [diff-match-patch](https://github.com/google/diff-match-patch "google/diff-match-patch") - ⭐7548 📅2024-12-14 📖Diff Match Patch is a high-performance library in multiple languages that manipulates plain text `C++` `QMake` `C#`
@@ -70,7 +70,7 @@ Each repository information contains name, url, star count, last update date, a 
 - [CliFx](https://github.com/Tyrrrz/CliFx "Tyrrrz/CliFx") - ⭐1514 📅2024-12-12 📖Class-first framework for building command-line interfaces `C#`
 - [Costura](https://github.com/Fody/Costura "Fody/Costura") - ⭐2416 📅2024-12-13 📖Embed references as resources `C#` `C++` `PowerShell`
 - [docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy "Tecnativa/docker-socket-proxy") - ⭐1536 📅2024-12-14 📖Proxy over your Docker socket to restrict which requests it accepts `Dockerfile` `Python` `Shell`
-- [acme.sh](https://github.com/acmesh-official/acme.sh "acmesh-official/acme.sh") - ⭐40202 📅2024-12-15 📖A pure Unix shell script implementing ACME client protocol `Shell` `Dockerfile`
+- [acme.sh](https://github.com/acmesh-official/acme.sh "acmesh-official/acme.sh") - ⭐40203 📅2024-12-15 📖A pure Unix shell script implementing ACME client protocol `Shell` `Dockerfile`
 - [ScottPlot](https://github.com/ScottPlot/ScottPlot "ScottPlot/ScottPlot") - ⭐5438 📅2024-12-14 📖Interactive plotting library for .NET `C#` `Batchfile` `Python`
 - [DDNS](https://github.com/NewFuture/DDNS "NewFuture/DDNS") - ⭐4392 📅2024-12-13 📖triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM `Python` `Batchfile` `Shell`
 - [ddns-go](https://github.com/jeessy2/ddns-go "jeessy2/ddns-go") - ⭐12500 📅2024-12-15 📖Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo `Go` `CSS` `HTML`
@@ -83,12 +83,12 @@ Each repository information contains name, url, star count, last update date, a 
 - [DataTables](https://github.com/DataTables/DataTables "DataTables/DataTables") - ⭐7328 📅2024-12-14 📖Tables plug-in for jQuery `CSS` `JavaScript`
 - [bootstrap-table](https://github.com/wenzhixin/bootstrap-table "wenzhixin/bootstrap-table") - ⭐11744 📅2024-12-14 📖An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js `JavaScript` `HTML` `Ruby`
 - [ovpn-admin](https://github.com/palark/ovpn-admin "palark/ovpn-admin") - ⭐1417 📅2024-12-14 📖Simple web UI to manage OpenVPN users `Shell` `Smarty` `JavaScript`
-- [ZeroTierOne](https://github.com/zerotier/ZeroTierOne "zerotier/ZeroTierOne") - ⭐14699 📅2024-12-15 📖A Smart Ethernet Switch for Earth `Makefile` `Shell` `C++`
+- [ZeroTierOne](https://github.com/zerotier/ZeroTierOne "zerotier/ZeroTierOne") - ⭐14700 📅2024-12-15 📖A Smart Ethernet Switch for Earth `Makefile` `Shell` `C++`
 - [ztncui](https://github.com/key-networks/ztncui "key-networks/ztncui") - ⭐1628 📅2024-12-14 📖ZeroTier network controller UI `JavaScript` `CSS` `Shell`
 - [webhook](https://github.com/adnanh/webhook "adnanh/webhook") - ⭐10506 📅2024-12-15 📖webhook is a lightweight incoming webhook server to run shell commands `Go` `Makefile`
 - [webhookd](https://github.com/ncarlier/webhookd "ncarlier/webhookd") - ⭐928 📅2024-12-10 📖A very simple webhook server launching shell scripts `Shell` `Go` `Makefile`
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy "nginx-proxy/nginx-proxy") - ⭐18638 📅2024-12-14 📖Automated nginx proxy for Docker containers using docker-gen `Shell` `Makefile` `Python`
-- [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager "NginxProxyManager/nginx-proxy-manager") - ⭐23645 📅2024-12-15 📖Docker container for managing Nginx proxy hosts with a simple, powerful interface `Shell` `JavaScript` `HTML`
+- [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager "NginxProxyManager/nginx-proxy-manager") - ⭐23646 📅2024-12-15 📖Docker container for managing Nginx proxy hosts with a simple, powerful interface `Shell` `JavaScript` `HTML`
 - [tabler](https://github.com/tabler/tabler "tabler/tabler") - ⭐38236 📅2024-12-15 📖Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap `HTML` `JavaScript` `Ruby`
 - [gum](https://github.com/charmbracelet/gum "charmbracelet/gum") - ⭐18428 📅2024-12-15 📖A tool for glamorous shell scripts `Go` `Dockerfile` `Nix`
 - [bashly](https://github.com/DannyBen/bashly "DannyBen/bashly") - ⭐2137 📅2024-12-14 📖Bash command line framework and CLI generator `Ruby` `Shell` `Dockerfile`
@@ -107,9 +107,9 @@ Each repository information contains name, url, star count, last update date, a 
 - [SJTUThesis](https://github.com/sjtug/SJTUThesis "sjtug/SJTUThesis") - ⭐3387 📅2024-12-14 📖上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template `TeX` `Makefile` `Batchfile`
 - [dive](https://github.com/wagoodman/dive "wagoodman/dive") - ⭐48459 📅2024-12-15 📖A tool for exploring each layer in a docker image `Go` `Makefile` `Dockerfile`
 - [lazydocker](https://github.com/jesseduffield/lazydocker "jesseduffield/lazydocker") - ⭐39328 📅2024-12-15 📖The lazier way to manage everything docker `Dockerfile` `Go` `Shell`
-- [micro](https://github.com/zyedidia/micro "zyedidia/micro") - ⭐25321 📅2024-12-15 📖A modern and intuitive terminal-based text editor `Go` `Makefile` `Lua`
+- [micro](https://github.com/zyedidia/micro "zyedidia/micro") - ⭐25322 📅2024-12-15 📖A modern and intuitive terminal-based text editor `Go` `Makefile` `Lua`
 - [SukiUI](https://github.com/kikipoulet/SukiUI "kikipoulet/SukiUI") - ⭐1545 📅2024-12-15 📖UI Theme for AvaloniaUI `C#`
-- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher "Flow-Launcher/Flow.Launcher") - ⭐8397 📅2024-12-15 📖mag: Quick file search & app launcher for Windows with community-made plugins `PowerShell` `Python` `C#`
+- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher "Flow-Launcher/Flow.Launcher") - ⭐8398 📅2024-12-15 📖mag: Quick file search & app launcher for Windows with community-made plugins `PowerShell` `Python` `C#`
 - [Thanks-Mirror](https://github.com/opsre/Thanks-Mirror "opsre/Thanks-Mirror") - ⭐2836 📅2024-12-13 📖整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞
 - [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy "dqzboy/Docker-Proxy") - ⭐2235 📅2024-12-15 📖自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb `Shell` `HTML` `Dockerfile`
 - [package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings "comwrg/package-manager-proxy-settings") - ⭐990 📅2024-12-12 📖记录各个包管理器代理设置坑点
@@ -118,7 +118,7 @@ Each repository information contains name, url, star count, last update date, a 
 - [RazorEngine](https://github.com/Antaris/RazorEngine "Antaris/RazorEngine") - ⭐2141 📅2024-12-04 📖Open source templating engine based on Microsoft's Razor parsing engine `Shell` `F#` `C#`
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX "sickcodes/Docker-OSX") - ⭐48987 📅2024-12-15 📖Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers `Dockerfile` `Shell` `Mustache`
 - [envsubst](https://github.com/a8m/envsubst "a8m/envsubst") - ⭐778 📅2024-12-13 📖Environment variables substitution for Go `Go`
-- [tabby](https://github.com/Eugeny/tabby "Eugeny/tabby") - ⭐60214 📅2024-12-15 📖A terminal for a more modern age `CSS` `JavaScript` `TypeScript`
+- [tabby](https://github.com/Eugeny/tabby "Eugeny/tabby") - ⭐60216 📅2024-12-15 📖A terminal for a more modern age `CSS` `JavaScript` `TypeScript`
 - [public-apis](https://github.com/toddmotto/public-apis "toddmotto/public-apis") - ⭐2165 📅2024-12-15 📖A collective list of free APIs `Shell` `Python`
 - [public-apis](https://github.com/public-apis/public-apis "public-apis/public-apis") - ⭐319892 📅2024-12-15 📖A collective list of free APIs `Shell` `Python`
 - [terraform](https://github.com/hashicorp/terraform "hashicorp/terraform") - ⭐43228 📅2024-12-15 📖Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned `Makefile` `Go` `Shell`
@@ -128,15 +128,15 @@ Each repository information contains name, url, star count, last update date, a 
 - [ntfy](https://github.com/binwiederhier/ntfy "binwiederhier/ntfy") - ⭐18790 📅2024-12-15 📖Send push notifications to your phone or desktop using PUT/POST `Go` `Dockerfile` `Makefile`
 - [koodo-reader](https://github.com/koodo-reader/koodo-reader "koodo-reader/koodo-reader") - ⭐19837 📅2024-12-15 📖A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web `TypeScript` `HTML` `JavaScript`
 - [AFFiNE](https://github.com/toeverything/AFFiNE "toeverything/AFFiNE") - ⭐43325 📅2024-12-15 📖There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use `JavaScript` `TypeScript` `CSS`
-- [siyuan](https://github.com/siyuan-note/siyuan "siyuan-note/siyuan") - ⭐23506 📅2024-12-15 📖A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang `Dockerfile` `JavaScript` `HTML`
+- [siyuan](https://github.com/siyuan-note/siyuan "siyuan-note/siyuan") - ⭐23507 📅2024-12-15 📖A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang `Dockerfile` `JavaScript` `HTML`
 - [halo](https://github.com/halo-dev/halo "halo-dev/halo") - ⭐34294 📅2024-12-15 📖强大易用的开源建站工具 `Java` `Dockerfile` `Vue`
-- [my-tv](https://github.com/lizongying/my-tv "lizongying/my-tv") - ⭐30661 📅2024-12-15 📖我的电视 电视直播软件，安装即可使用 `Kotlin` `CMake` `Makefile`
-- [hello-algo](https://github.com/krahets/hello-algo "krahets/hello-algo") - ⭐103340 📅2024-12-15 📖Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing `Java` `C++` `Python`
+- [my-tv](https://github.com/lizongying/my-tv "lizongying/my-tv") - ⭐30662 📅2024-12-15 📖我的电视 电视直播软件，安装即可使用 `Kotlin` `CMake` `Makefile`
+- [hello-algo](https://github.com/krahets/hello-algo "krahets/hello-algo") - ⭐103341 📅2024-12-15 📖Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing `Java` `C++` `Python`
 - [immich](https://github.com/immich-app/immich "immich-app/immich") - ⭐54115 📅2024-12-15 📖High performance self-hosted photo and video management solution `HTML` `Makefile` `Shell`
 - [Picsur](https://github.com/CaramelFur/Picsur "CaramelFur/Picsur") - ⭐890 📅2024-12-14 📖An easy to use, selfhostable image sharing service like Imgur with built in converting `JavaScript` `TypeScript` `HTML`
-- [Nexterm](https://github.com/gnmyt/Nexterm "gnmyt/Nexterm") - ⭐2238 📅2024-12-15 📖The open source server management software for SSH, VNC & RDP `JavaScript` `HTML` `Sass`
+- [Nexterm](https://github.com/gnmyt/Nexterm "gnmyt/Nexterm") - ⭐2237 📅2024-12-15 📖The open source server management software for SSH, VNC & RDP `JavaScript` `HTML` `Sass`
 - [UpSnap](https://github.com/seriousm4x/UpSnap "seriousm4x/UpSnap") - ⭐2692 📅2024-12-14 📖A simple wake on lan web app written with SvelteKit, Go and PocketBase `HTML` `JavaScript` `Svelte`
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS "RVC-Boss/GPT-SoVITS") - ⭐36910 📅2024-12-15 📖1 min voice data can also be used to train a good TTS model! (few shot voice cloning `Python` `Batchfile` `Shell`
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS "RVC-Boss/GPT-SoVITS") - ⭐36911 📅2024-12-15 📖1 min voice data can also be used to train a good TTS model! (few shot voice cloning `Python` `Batchfile` `Shell`
 - [neko](https://github.com/m1k1o/neko "m1k1o/neko") - ⭐8082 📅2024-12-15 📖A self hosted virtual browser that runs in docker and uses WebRTC `Dockerfile` `Shell` `HTML`
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox "vastsa/FileCodeBox") - ⭐4384 📅2024-12-15 📖文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files `Dockerfile` `Python` `JavaScript`
 - [pintree](https://github.com/Pintree-io/pintree "Pintree-io/pintree") - ⭐1660 📅2024-12-15 📖Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes `CSS` `TypeScript` `JavaScript`
@@ -144,14 +144,14 @@ Each repository information contains name, url, star count, last update date, a 
 - [excalidraw](https://github.com/excalidraw/excalidraw "excalidraw/excalidraw") - ⭐87531 📅2024-12-15 📖Virtual whiteboard for sketching hand-drawn like diagrams `HTML` `TypeScript` `JavaScript`
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template "othneildrew/Best-README-Template") - ⭐14375 📅2024-12-15 📖An awesome README template to jumpstart your projects
 - [v2rayN](https://github.com/2dust/v2rayN "2dust/v2rayN") - ⭐71589 📅2024-12-15 📖A GUI client for Windows and Linux, support Xray core and sing-box-core and others `C#` `PowerShell` `Shell`
-- [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx "paperless-ngx/paperless-ngx") - ⭐22959 📅2024-12-15 📖A community-supported supercharged version of paperless: scan, index and archive all your physical documents `CSS` `HTML` `JavaScript`
+- [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx "paperless-ngx/paperless-ngx") - ⭐22960 📅2024-12-15 📖A community-supported supercharged version of paperless: scan, index and archive all your physical documents `CSS` `HTML` `JavaScript`
 - [bubbletea](https://github.com/charmbracelet/bubbletea "charmbracelet/bubbletea") - ⭐28535 📅2024-12-15 📖A powerful little TUI framework `Go`
 - [go-tools](https://github.com/dominikh/go-tools "dominikh/go-tools") - ⭐6252 📅2024-12-15 📖Staticcheck - The advanced Go linter `Go` `Emacs Lisp` `Shell`
 - [lancet](https://github.com/duke-git/lancet "duke-git/lancet") - ⭐4792 📅2024-12-14 📖A comprehensive, efficient, and reusable util function library of Go `Go`
 - [cobra](https://github.com/spf13/cobra "spf13/cobra") - ⭐38579 📅2024-12-15 📖A Commander for modern Go CLI interactions `Go` `Makefile`
 - [yazi](https://github.com/sxyazi/yazi "sxyazi/yazi") - ⭐17662 📅2024-12-15 📖Blazing fast terminal file manager written in Rust, based on async I/O `Rust` `Shell` `Nix`
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis "rothgar/awesome-tuis") - ⭐8317 📅2024-12-15 📖List of projects that provide terminal user interfaces
-- [cli](https://github.com/urfave/cli "urfave/cli") - ⭐22466 📅2024-12-15 📖A simple, fast, and fun package for building command line apps in Go `Go` `Makefile` `Shell`
+- [cli](https://github.com/urfave/cli "urfave/cli") - ⭐22467 📅2024-12-15 📖A simple, fast, and fun package for building command line apps in Go `Go` `Makefile` `Shell`
 - [viper](https://github.com/spf13/viper "spf13/viper") - ⭐27460 📅2024-12-15 📖Go configuration with fangs `Go` `Makefile` `Nix`
 - [project-layout](https://github.com/golang-standards/project-layout "golang-standards/project-layout") - ⭐49939 📅2024-12-15 📖Standard Go Project Layout `Makefile`
 - [graphql](https://github.com/graphql-go/graphql "graphql-go/graphql") - ⭐9947 📅2024-12-14 📖An implementation of GraphQL for Go / Golang `Go`
