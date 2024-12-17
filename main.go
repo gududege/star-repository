@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"context"
+	"encoding/json"
 	"fmt"
 	"github.com/shurcooL/githubv4"
 	"github.com/yuin/goldmark"
@@ -20,6 +21,7 @@ const (
 	indexTmplFile  = `index.tmpl`
 	readme         = `README.md`
 	index          = `index.html`
+	data           = "repository.json"
 	username       = `gududege`
 	repositoryName = `Starred-Repository-Monitor`
 )
@@ -42,6 +44,7 @@ const (
 const (
 	OK = iota
 	ErrCodeRegexFault
+	ErrCodeMarshalData
 	ErrCodeNoTokenGiven
 	ErrCodeFileNotFound
 	ErrCodeGithubQuery
@@ -249,8 +252,19 @@ func main() {
 	}
 	fmt.Println("OK.")
 
-	// Step5: Write to README
+	// Step5: Write Output
 	fmt.Print(step5Description)
+	b, err := json.MarshalIndent(repos, "", "  ")
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(ErrCodeMarshalData)
+		return
+	}
+	if err := os.WriteFile(data, b, 0644); err != nil {
+		fmt.Println(err)
+		os.Exit(ErrCodeWriteOutput)
+		return
+	}
 	if err := os.WriteFile(readme, []byte(readmeContent), 0644); err != nil {
 		fmt.Println(err)
 		os.Exit(ErrCodeWriteOutput)
