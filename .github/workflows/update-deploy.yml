@@ -20,7 +20,7 @@ on:
 jobs:
   # Build job
   build:
-    name: Update repository statistics
+    name: update infomation
     runs-on: ubuntu-latest
     container: golang:latest
     environment: production
@@ -29,6 +29,8 @@ jobs:
       pages: write
     env:
       USER_GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
+    outputs: 
+      status: ${{job.status}}      
     steps:  
       # step1
       - name: Check out repository
@@ -61,12 +63,13 @@ jobs:
 
   # Deploy job
   deploy:
+    name: deploy github pages
     # Add a dependency to the build job
     needs: build
-    if: ${{ jobs.build.result == success }}
-
+    if: ${{ needs.build.outputs.status == 'success' }}
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
+      contents: read
       pages: write      # to deploy to Pages
       id-token: write   # to verify the deployment originates from an appropriate source
 
@@ -78,6 +81,17 @@ jobs:
     # Specify runner + deployment step
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:         
+          path: '.'     # Upload entire repository
+
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
+        uses: actions/deploy-pages@v4
