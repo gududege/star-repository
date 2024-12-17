@@ -1,13 +1,19 @@
-<html lang="zh-Hans">
+<!DOCTYPE html>
+<html>
 <head>
+	<meta name="keywords" content="Github,Star,Repository,Monitor">
+	<meta name="description" content="Monitor user starred repository statistics">
     <meta charset="utf-8">
-    <title>{{.Title}}</title></head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starred Repository Monitor</title>
+	<link rel="icon" href="icon.png">
     <style>
         li{
             margin-bottom:14px;
+			font-size: 18px;
         }
         code{
-            font-size: 14px;
+            font-size: 12px;
             font-family: "Segoe UI",serif;
             background: #eeeff0;
         }
@@ -17,6 +23,7 @@
             text-align: center;
         }
     </style>
+</head>
 <body>
 {{.ReadmeContent}}
 <p id="statistics">

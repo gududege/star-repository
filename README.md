@@ -1,6 +1,6 @@
 # Starred Repository Monitor
 
-[![GitHub last commit](https://badgen.net/github/last-commit/gududege/Starred-Repository-Monitor)](https://badgen.net/github/last-commit/gududege/Starred-Repository-Monitor)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gududege/Starred-Repository-Monitor)](https://img.shields.io/github/last-commit/gududege/Starred-Repository-Monitor)
 
 Each repository information contains name, url, star count, last update date, a short description, and development languages
 
