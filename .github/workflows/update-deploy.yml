@@ -19,7 +19,7 @@ on:
         default: false
 jobs:
   # Build job
-  build:
+  build-and-deploy:
     name: update infomation
     runs-on: ubuntu-latest
     container: golang:latest
@@ -54,39 +54,12 @@ jobs:
           git config --global user.name "github-action-bot"
           git config --global user.email "github-action-bot@users.noreply.github.com"
           git add . && git commit -m "Update statistics"
-          git push origin main   
-        
-      # Enable tmate debugging of manually-triggered workflows if the input option was provided
-      - name: Setup tmate session
-        uses: mxschmitt/action-tmate@v3
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled && failure() }}
-
-  # Deploy job
-  deploy:
-    name: deploy github pages
-    # Add a dependency to the build job
-    needs: build
-    if: ${{ needs.build.outputs.status == 'success' }}
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      contents: read
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
-
-    # Deploy to the github-pages environment
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    # Specify runner + deployment step
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
+          git push origin main
+          
+      # step5
       - name: Setup Pages
-        uses: actions/configure-pages@v5
-
+        uses: actions/configure-pages@v3
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:         
@@ -95,3 +68,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        
+      # Enable tmate debugging of manually-triggered workflows if the input option was provided
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled && failure() }}
+        
