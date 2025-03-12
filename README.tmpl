@@ -2,10 +2,10 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/{{.UserName}}/{{.RepositoryName}})](https://img.shields.io/github/last-commit/{{.UserName}}/{{.RepositoryName}})
 
-Each repository information contains name, url, star count, last update date, a short description, and development languages
+Each repository information contains name, url, star count, last push date, a short description, and development languages
 
 {{range $index, $val := .RepositoriesInfo -}}
-- [{{$val.Name}}]({{$val.Url}} "{{$val.NameWithOwner}}") - ⭐{{$val.StargazerCount}} 📅{{printf "%.10s" $val.UpdatedAt }} 📖{{$val.Description}}
+- [{{$val.Name}}]({{$val.Url}} "{{$val.NameWithOwner}}") - ⭐{{$val.StargazerCount}} 📅{{printf "%.10s" $val.PushedAt }} 📖{{$val.Description}}
 {{- range $index, $val := $val.Languages}}
 {{- /* a comment used for trim prefix char */}} `{{$val}}`{{/* a comment used for trim suffix char */ -}}
 {{end}}

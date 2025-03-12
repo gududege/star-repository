@@ -22,7 +22,6 @@ jobs:
   build-and-deploy:
     name: update infomation
     runs-on: ubuntu-latest
-    container: golang:latest
     environment: production
     permissions:
       contents: write
@@ -33,6 +32,7 @@ jobs:
     outputs: 
       status: ${{job.status}}      
     steps:  
+
       # step1
       - name: Check out repository
         uses: actions/checkout@v4
@@ -40,7 +40,12 @@ jobs:
           fetch-depth: 0
 
       # step2
-      - name: Get dependencies
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '>=1.23.2'
+
+      - name: Get Go dependencies
         run: go get -v -t ./...
 
       # step3
@@ -49,7 +54,7 @@ jobs:
           
       # step4
       - name: Setup Pages
-        if: ${{ success() }}
+        if: ${{ success() && !env.ACT }}
         uses: actions/configure-pages@v3
 
       - name: Upload artifact
@@ -58,13 +63,13 @@ jobs:
           path: '.'     # Upload entire repository
 
       - name: Deploy to GitHub Pages
-        if: ${{ success() }}
+        if: ${{ success() && !env.ACT }}
         id: deployment
         uses: actions/deploy-pages@v4
 
        # step5
       - name: Commit and push files
-        if: ${{ success() }}
+        if: ${{ success() && !env.ACT }}
         run: |
           git config --global --add safe.directory $GITHUB_WORKSPACE
           git config --global user.name "github-action-bot"
@@ -75,5 +80,5 @@ jobs:
       # Enable tmate debugging of manually-triggered workflows if the input option was provided
       - name: Setup tmate session
         uses: mxschmitt/action-tmate@v3
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled && failure() }}
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled && failure() && !env.ACT }}
         
