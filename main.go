@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"github.com/shurcooL/githubv4"
 	"github.com/yuin/goldmark"
+	"github.com/gobeam/stringy"
 	"golang.org/x/oauth2"
 	"os"
 	"regexp"
@@ -23,7 +24,7 @@ const (
 	index          = `index.html`
 	data           = "repository.json"
 	username       = `gududege`
-	repositoryName = `Starred-Repository-Monitor`
+	repositoryName = `star-repository`
 )
 
 // Setting
@@ -189,7 +190,7 @@ func main() {
 		os.Exit(ErrCodeRegexFault)
 		return
 	}
-	title := strings.Trim(regex.ReplaceAllString(repositoryName, spaceChar), spaceChar)
+	title := stringy.New(strings.Trim(regex.ReplaceAllString(repositoryName, spaceChar), spaceChar)).Title()
 
 	readmeTmplBytes, err := os.ReadFile(readmeTmplFile)
 	if err != nil {

@@ -1,10 +1,11 @@
-module starred-repository-monitor
+module star-repository
 
 go 1.23.2
 
 require (
 	github.com/shurcooL/githubv4 v0.0.0-20240727222349-48295856cce7
 	github.com/yuin/goldmark v1.7.8
+	github.com/gobeam/stringy v0.0.7
 	golang.org/x/oauth2 v0.24.0
 )
 
