@@ -5,443 +5,444 @@
 
 Each repository information contains name, url, star count, last push date, a short description, and development languages
 
+- [pdfcraft](https://github.com/PDFCraftTool/pdfcraft "PDFCraftTool/pdfcraft") - ⭐6304 📅2026-05-30 📖PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading them to a server `JavaScript` `TypeScript` `Fluent`
 - [sprig](https://github.com/Masterminds/sprig "Masterminds/sprig") - ⭐4716 📅2025-07-18 📖Useful template functions for Go templates `Go` `Makefile`
 - [xid](https://github.com/rs/xid "rs/xid") - ⭐4276 📅2026-03-08 📖xid is a globally unique id generator thought for the web `Go`
-- [ulid](https://github.com/oklog/ulid "oklog/ulid") - ⭐5032 📅2025-06-09 📖Universally Unique Lexicographically Sortable Identifier (ULID) in Go `Go`
-- [context-mode](https://github.com/mksglu/context-mode "mksglu/context-mode") - ⭐15922 📅2026-05-28 📖Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms `JavaScript` `TypeScript` `Shell`
-- [signoz](https://github.com/SigNoz/signoz "SigNoz/signoz") - ⭐27118 📅2026-05-29 📖SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool `JavaScript` `TypeScript` `Go`
-- [openobserve](https://github.com/openobserve/openobserve "openobserve/openobserve") - ⭐19027 📅2026-05-29 📖Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment `Rust` `Shell` `Dockerfile`
-- [dbx](https://github.com/t8y2/dbx "t8y2/dbx") - ⭐2380 📅2026-05-28 📖15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等 `HTML` `Rust` `Vue`
+- [ulid](https://github.com/oklog/ulid "oklog/ulid") - ⭐5033 📅2025-06-09 📖Universally Unique Lexicographically Sortable Identifier (ULID) in Go `Go`
+- [context-mode](https://github.com/mksglu/context-mode "mksglu/context-mode") - ⭐15986 📅2026-05-29 📖Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms `JavaScript` `TypeScript` `Shell`
+- [signoz](https://github.com/SigNoz/signoz "SigNoz/signoz") - ⭐27135 📅2026-05-29 📖SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool `JavaScript` `TypeScript` `Go`
+- [openobserve](https://github.com/openobserve/openobserve "openobserve/openobserve") - ⭐19048 📅2026-05-30 📖Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment `Rust` `Shell` `Dockerfile`
+- [dbx](https://github.com/t8y2/dbx "t8y2/dbx") - ⭐2485 📅2026-05-30 📖15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等 `HTML` `Rust` `Vue`
 - [strftime](https://github.com/lestrrat-go/strftime "lestrrat-go/strftime") - ⭐132 📅2026-05-23 📖Fast strftime for Go `Go` `Makefile`
-- [jint](https://github.com/sebastienros/jint "sebastienros/jint") - ⭐4641 📅2026-05-26 📖Javascript Interpreter for .NET `C#` `JavaScript` `Handlebars`
-- [pythonnet](https://github.com/pythonnet/pythonnet "pythonnet/pythonnet") - ⭐5472 📅2026-05-26 📖Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers `Python` `C#` `C`
+- [jint](https://github.com/sebastienros/jint "sebastienros/jint") - ⭐4644 📅2026-05-26 📖Javascript Interpreter for .NET `C#` `JavaScript` `Handlebars`
+- [pythonnet](https://github.com/pythonnet/pythonnet "pythonnet/pythonnet") - ⭐5471 📅2026-05-26 📖Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers `Python` `C#` `C`
 - [neolua](https://github.com/neolithos/neolua "neolithos/neolua") - ⭐501 📅2026-03-27 📖A Lua implementation for the Dynamic Language Runtime (DLR `C#` `Lua` `PowerShell`
 - [NLua](https://github.com/NLua/NLua "NLua/NLua") - ⭐2229 📅2026-05-01 📖Bridge between Lua and the .NET `C#` `PowerShell` `Lua`
-- [tengo](https://github.com/d5/tengo "d5/tengo") - ⭐3812 📅2026-04-29 📖A fast script language for Go `Makefile` `Go`
-- [goja](https://github.com/dop251/goja "dop251/goja") - ⭐6883 📅2026-03-11 📖ECMAScript/JavaScript engine in pure Go `Go` `Makefile` `Perl`
-- [wazero](https://github.com/wazero/wazero "wazero/wazero") - ⭐6152 📅2026-05-28 📖wazero: the zero dependency WebAssembly runtime for Go developers `Go` `Makefile` `Assembly`
+- [tengo](https://github.com/d5/tengo "d5/tengo") - ⭐3813 📅2026-04-29 📖A fast script language for Go `Makefile` `Go`
+- [goja](https://github.com/dop251/goja "dop251/goja") - ⭐6882 📅2026-03-11 📖ECMAScript/JavaScript engine in pure Go `Go` `Makefile` `Perl`
+- [wazero](https://github.com/wazero/wazero "wazero/wazero") - ⭐6154 📅2026-05-29 📖wazero: the zero dependency WebAssembly runtime for Go developers `Go` `Makefile` `Assembly`
 - [go-sqlite3](https://github.com/ncruces/go-sqlite3 "ncruces/go-sqlite3") - ⭐1016 📅2026-05-28 📖Go bindings to SQLite using wasm2go `Go` `Shell`
-- [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI "router-for-me/CLIProxyAPI") - ⭐35279 📅2026-05-29 📖Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API `Go` `Dockerfile` `PowerShell`
-- [sub2api](https://github.com/Wei-Shaw/sub2api "Wei-Shaw/sub2api") - ⭐24165 📅2026-05-29 📖Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用 `Dockerfile` `Go` `Shell`
-- [new-api](https://github.com/QuantumNous/new-api "QuantumNous/new-api") - ⭐35963 📅2026-05-28 📖A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management `Dockerfile` `Shell` `Go`
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR "hiroi-sora/Umi-OCR") - ⭐44561 📅2025-11-20 📖OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库 `Python` `QML`
-- [DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains "dnshe/DNSHE-FreeDomains") - ⭐2246 📅2026-04-26 📖DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc
-- [ProxyBridge](https://github.com/InterceptSuite/ProxyBridge "InterceptSuite/ProxyBridge") - ⭐4783 📅2026-05-28 📖Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy `C` `PowerShell` `C#`
-- [meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat "MetaCubeX/meta-rules-dat") - ⭐4412 📅2026-05-28 📖rules-dat for mihomo `Python` `Shell`
-- [Xray-core](https://github.com/XTLS/Xray-core "XTLS/Xray-core") - ⭐39010 📅2026-05-28 📖Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses `Go` `Shell` `Assembly`
-- [panel](https://github.com/remnawave/panel "remnawave/panel") - ⭐4134 📅2026-05-25 📖A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use `JavaScript` `TypeScript` `CSS`
-- [pongo2](https://github.com/flosch/pongo2 "flosch/pongo2") - ⭐3065 📅2026-05-02 📖Django-syntax like template-engine for Go `Go` `Smarty` `HTML`
+- [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI "router-for-me/CLIProxyAPI") - ⭐35413 📅2026-05-29 📖Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API `Go` `Dockerfile` `PowerShell`
+- [sub2api](https://github.com/Wei-Shaw/sub2api "Wei-Shaw/sub2api") - ⭐24333 📅2026-05-30 📖Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用 `Dockerfile` `Go` `Shell`
+- [new-api](https://github.com/QuantumNous/new-api "QuantumNous/new-api") - ⭐36115 📅2026-05-29 📖A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management `Dockerfile` `Shell` `Go`
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR "hiroi-sora/Umi-OCR") - ⭐44577 📅2025-11-20 📖OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库 `Python` `QML`
+- [DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains "dnshe/DNSHE-FreeDomains") - ⭐2275 📅2026-04-26 📖DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc
+- [ProxyBridge](https://github.com/InterceptSuite/ProxyBridge "InterceptSuite/ProxyBridge") - ⭐4795 📅2026-05-28 📖Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy `C` `PowerShell` `C#`
+- [meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat "MetaCubeX/meta-rules-dat") - ⭐4413 📅2026-05-29 📖rules-dat for mihomo `Python` `Shell`
+- [Xray-core](https://github.com/XTLS/Xray-core "XTLS/Xray-core") - ⭐39034 📅2026-05-29 📖Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses `Go` `Shell` `Assembly`
+- [panel](https://github.com/remnawave/panel "remnawave/panel") - ⭐4146 📅2026-05-25 📖A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use `JavaScript` `TypeScript` `CSS`
+- [pongo2](https://github.com/flosch/pongo2 "flosch/pongo2") - ⭐3066 📅2026-05-02 📖Django-syntax like template-engine for Go `Go` `Smarty` `HTML`
 - [goversioninfo](https://github.com/josephspurrier/goversioninfo "josephspurrier/goversioninfo") - ⭐904 📅2026-05-11 📖Golang Microsoft Windows File Properties/Version Info and Icon Resource Generator `Go` `Makefile`
-- [markitdown](https://github.com/microsoft/markitdown "microsoft/markitdown") - ⭐127877 📅2026-05-26 📖Python tool for converting files and office documents to Markdown `Python` `Dockerfile`
-- [cc-switch](https://github.com/farion1231/cc-switch "farion1231/cc-switch") - ⭐83835 📅2026-05-28 📖A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io `TypeScript` `CSS` `HTML`
-- [FlClash](https://github.com/chen08209/FlClash "chen08209/FlClash") - ⭐39984 📅2026-05-27 📖A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free `Kotlin` `Swift` `Dart`
-- [uPlot](https://github.com/leeoniya/uPlot "leeoniya/uPlot") - ⭐10194 📅2026-04-22 📖A small, fast chart for time series, lines, areas, ohlc & bars `JavaScript` `CSS` `HTML`
-- [fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service "haierkeys/fast-note-sync-service") - ⭐1366 📅2026-05-26 📖High-performance, low-latency note synchronization, online management, and remote REST API service platform `Dockerfile` `Makefile` `Go`
-- [obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync "haierkeys/obsidian-fast-note-sync") - ⭐2182 📅2026-05-27 📖Can be privately deployed, focusing on providing Obsidian users with a seamless, distraction-free note synchronization plugin with real-time sync across multiple platforms, supporting Mac, Windows, Android, iOS, and offering multilingual support.可私有化部署，专注为 Obsidian 用户提供无打扰、丝般顺滑、多端实时同步的多平台笔记同步插件 `JavaScript` `TypeScript` `SCSS`
-- [memreduct](https://github.com/henrypp/memreduct "henrypp/memreduct") - ⭐9519 📅2026-05-16 📖Lightweight real-time memory management application to monitor and clean system memory on your computer `Batchfile` `C`
-- [cypht](https://github.com/cypht-org/cypht "cypht-org/cypht") - ⭐1577 📅2026-05-28 📖Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services `PHP` `CSS` `JavaScript`
-- [tcping](https://github.com/pouriyajamshidi/tcping "pouriyajamshidi/tcping") - ⭐1255 📅2026-05-28 📖Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go `Go` `Makefile` `Dockerfile`
-- [Office-Tool](https://github.com/YerongAI/Office-Tool "YerongAI/Office-Tool") - ⭐13518 📅2026-05-13 📖Office Tool Plus localization projects `PowerShell`
-- [basex](https://github.com/BaseXdb/basex "BaseXdb/basex") - ⭐759 📅2026-05-28 📖BaseX Main Repository `Shell` `ActionScript` `C#`
-- [wireshark](https://github.com/wireshark/wireshark "wireshark/wireshark") - ⭐9406 📅2026-05-28 📖Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there `CMake` `Shell` `C`
-- [duckdb](https://github.com/duckdb/duckdb "duckdb/duckdb") - ⭐38490 📅2026-05-28 📖DuckDB is an analytical in-process SQL database management system `CMake` `Makefile` `Python`
-- [vscode](https://github.com/microsoft/vscode "microsoft/vscode") - ⭐185485 📅2026-05-29 📖Visual Studio Code `JavaScript` `TypeScript` `Batchfile`
-- [obsidian-releases](https://github.com/obsidianmd/obsidian-releases "obsidianmd/obsidian-releases") - ⭐18189 📅2026-05-29 📖Community plugins list, theme list, and releases of Obsidian
-- [QuickLook](https://github.com/QL-Win/QuickLook "QL-Win/QuickLook") - ⭐23597 📅2026-05-26 📖Bring macOS “Quick Look” feature to Windows `C++` `C` `C#`
-- [Sunshine](https://github.com/LizardByte/Sunshine "LizardByte/Sunshine") - ⭐37415 📅2026-05-28 📖Self-hosted game stream host for Moonlight `CMake` `HLSL` `GLSL`
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif "NickeManarin/ScreenToGif") - ⭐27009 📅2026-04-27 📖ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video `C#` `CSS`
-- [obs-studio](https://github.com/obsproject/obs-studio "obsproject/obs-studio") - ⭐72767 📅2026-05-29 📖OBS Studio - Free and open source software for live streaming and screen recording `CMake` `C` `Shell`
-- [mactype](https://github.com/snowie2000/mactype "snowie2000/mactype") - ⭐11778 📅2026-04-29 📖Better font rendering for Windows `C++` `Makefile` `Batchfile`
-- [greenshot](https://github.com/greenshot/greenshot "greenshot/greenshot") - ⭐4952 📅2026-05-14 📖Greenshot for Windows - for more information look here `C#` `HTML` `Inno Setup`
-- [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language "Chuyu-Team/Dism-Multi-language") - ⭐19582 📅2024-12-17 📖Dism++ Multi-language Support & BUG Report `CSS` `HTML` `PHP`
-- [7zip](https://github.com/ip7z/7zip "ip7z/7zip") - ⭐3205 📅2026-04-27 📖7-Zip `Assembly` `C` `Makefile`
-- [cascadia-code](https://github.com/microsoft/cascadia-code "microsoft/cascadia-code") - ⭐27705 📅2025-03-06 📖This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal `Python`
-- [stalwart](https://github.com/stalwartlabs/stalwart "stalwartlabs/stalwart") - ⭐12969 📅2026-05-28 📖All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV `Rust` `Sieve` `Shell`
-- [goreleaser](https://github.com/goreleaser/goreleaser "goreleaser/goreleaser") - ⭐15822 📅2026-05-28 📖Release engineering, simplified `Go` `Dockerfile` `Shell`
-- [codex](https://github.com/openai/codex "openai/codex") - ⭐86665 📅2026-05-29 📖Lightweight coding agent that runs in your terminal `JavaScript` `Dockerfile` `Shell`
-- [cline](https://github.com/cline/cline "cline/cline") - ⭐62478 📅2026-05-29 📖Autonomous coding agent as an SDK, IDE extension, or CLI assistant `JavaScript` `TypeScript` `HTML`
-- [opencode](https://github.com/anomalyco/opencode "anomalyco/opencode") - ⭐166730 📅2026-05-29 📖The open source coding agent `Shell` `JavaScript` `Astro`
-- [ExHyperV](https://github.com/Justsenger/ExHyperV "Justsenger/ExHyperV") - ⭐4126 📅2026-05-28 📖The Excalibur of Hyper-V / Hyper-V 神器 `C#` `Shell`
-- [bleve](https://github.com/blevesearch/bleve "blevesearch/bleve") - ⭐11055 📅2026-05-28 📖A modern text/numeric/geo-spatial/vector indexing library for go `Go` `Shell` `Yacc`
-- [streamlit](https://github.com/streamlit/streamlit "streamlit/streamlit") - ⭐44744 📅2026-05-28 📖Streamlit — A faster way to build and share data apps `Makefile` `Shell` `JavaScript`
-- [gradio](https://github.com/gradio-app/gradio "gradio-app/gradio") - ⭐42747 📅2026-05-28 📖Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work `Python` `JavaScript` `HTML`
+- [markitdown](https://github.com/microsoft/markitdown "microsoft/markitdown") - ⭐130075 📅2026-05-26 📖Python tool for converting files and office documents to Markdown `Python` `Dockerfile`
+- [cc-switch](https://github.com/farion1231/cc-switch "farion1231/cc-switch") - ⭐84717 📅2026-05-29 📖A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io `TypeScript` `CSS` `HTML`
+- [FlClash](https://github.com/chen08209/FlClash "chen08209/FlClash") - ⭐40186 📅2026-05-29 📖A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free `Kotlin` `Swift` `Dart`
+- [uPlot](https://github.com/leeoniya/uPlot "leeoniya/uPlot") - ⭐10198 📅2026-04-22 📖A small, fast chart for time series, lines, areas, ohlc & bars `JavaScript` `CSS` `HTML`
+- [fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service "haierkeys/fast-note-sync-service") - ⭐1376 📅2026-05-29 📖High-performance, low-latency note synchronization, online management, and remote REST API service platform `Dockerfile` `Makefile` `Go`
+- [obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync "haierkeys/obsidian-fast-note-sync") - ⭐2189 📅2026-05-29 📖Can be privately deployed, focusing on providing Obsidian users with a seamless, distraction-free note synchronization plugin with real-time sync across multiple platforms, supporting Mac, Windows, Android, iOS, and offering multilingual support.可私有化部署，专注为 Obsidian 用户提供无打扰、丝般顺滑、多端实时同步的多平台笔记同步插件 `JavaScript` `TypeScript` `SCSS`
+- [memreduct](https://github.com/henrypp/memreduct "henrypp/memreduct") - ⭐9528 📅2026-05-16 📖Lightweight real-time memory management application to monitor and clean system memory on your computer `Batchfile` `C`
+- [cypht](https://github.com/cypht-org/cypht "cypht-org/cypht") - ⭐1578 📅2026-05-28 📖Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services `PHP` `CSS` `JavaScript`
+- [tcping](https://github.com/pouriyajamshidi/tcping "pouriyajamshidi/tcping") - ⭐1256 📅2026-05-28 📖Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go `Go` `Makefile` `Dockerfile`
+- [Office-Tool](https://github.com/YerongAI/Office-Tool "YerongAI/Office-Tool") - ⭐13527 📅2026-05-29 📖Office Tool Plus localization projects `PowerShell`
+- [basex](https://github.com/BaseXdb/basex "BaseXdb/basex") - ⭐759 📅2026-05-29 📖BaseX Main Repository `Shell` `ActionScript` `C#`
+- [wireshark](https://github.com/wireshark/wireshark "wireshark/wireshark") - ⭐9411 📅2026-05-29 📖Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there `CMake` `Shell` `C`
+- [duckdb](https://github.com/duckdb/duckdb "duckdb/duckdb") - ⭐38506 📅2026-05-29 📖DuckDB is an analytical in-process SQL database management system `CMake` `Makefile` `Python`
+- [vscode](https://github.com/microsoft/vscode "microsoft/vscode") - ⭐185533 📅2026-05-30 📖Visual Studio Code `JavaScript` `TypeScript` `Batchfile`
+- [obsidian-releases](https://github.com/obsidianmd/obsidian-releases "obsidianmd/obsidian-releases") - ⭐18223 📅2026-05-30 📖Community plugins list, theme list, and releases of Obsidian
+- [QuickLook](https://github.com/QL-Win/QuickLook "QL-Win/QuickLook") - ⭐23613 📅2026-05-29 📖Bring macOS “Quick Look” feature to Windows `C++` `C` `C#`
+- [Sunshine](https://github.com/LizardByte/Sunshine "LizardByte/Sunshine") - ⭐37451 📅2026-05-29 📖Self-hosted game stream host for Moonlight `CMake` `HLSL` `GLSL`
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif "NickeManarin/ScreenToGif") - ⭐27013 📅2026-04-27 📖ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video `C#` `CSS`
+- [obs-studio](https://github.com/obsproject/obs-studio "obsproject/obs-studio") - ⭐72806 📅2026-05-29 📖OBS Studio - Free and open source software for live streaming and screen recording `CMake` `C` `Shell`
+- [mactype](https://github.com/snowie2000/mactype "snowie2000/mactype") - ⭐11776 📅2026-04-29 📖Better font rendering for Windows `C++` `Makefile` `Batchfile`
+- [greenshot](https://github.com/greenshot/greenshot "greenshot/greenshot") - ⭐4954 📅2026-05-14 📖Greenshot for Windows - for more information look here `C#` `HTML` `Inno Setup`
+- [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language "Chuyu-Team/Dism-Multi-language") - ⭐19585 📅2024-12-17 📖Dism++ Multi-language Support & BUG Report `CSS` `HTML` `PHP`
+- [7zip](https://github.com/ip7z/7zip "ip7z/7zip") - ⭐3211 📅2026-04-27 📖7-Zip `Assembly` `C` `Makefile`
+- [cascadia-code](https://github.com/microsoft/cascadia-code "microsoft/cascadia-code") - ⭐27710 📅2025-03-06 📖This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal `Python`
+- [stalwart](https://github.com/stalwartlabs/stalwart "stalwartlabs/stalwart") - ⭐12980 📅2026-05-29 📖All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV `Rust` `Sieve` `Shell`
+- [goreleaser](https://github.com/goreleaser/goreleaser "goreleaser/goreleaser") - ⭐15823 📅2026-05-30 📖Release engineering, simplified `Go` `Dockerfile` `Shell`
+- [codex](https://github.com/openai/codex "openai/codex") - ⭐86944 📅2026-05-30 📖Lightweight coding agent that runs in your terminal `JavaScript` `Dockerfile` `Shell`
+- [cline](https://github.com/cline/cline "cline/cline") - ⭐62526 📅2026-05-30 📖Autonomous coding agent as an SDK, IDE extension, or CLI assistant `JavaScript` `TypeScript` `HTML`
+- [opencode](https://github.com/anomalyco/opencode "anomalyco/opencode") - ⭐167176 📅2026-05-30 📖The open source coding agent `Shell` `JavaScript` `Astro`
+- [ExHyperV](https://github.com/Justsenger/ExHyperV "Justsenger/ExHyperV") - ⭐4136 📅2026-05-28 📖The Excalibur of Hyper-V / Hyper-V 神器 `C#` `Shell`
+- [bleve](https://github.com/blevesearch/bleve "blevesearch/bleve") - ⭐11056 📅2026-05-29 📖A modern text/numeric/geo-spatial/vector indexing library for go `Go` `Shell` `Yacc`
+- [streamlit](https://github.com/streamlit/streamlit "streamlit/streamlit") - ⭐44760 📅2026-05-29 📖Streamlit — A faster way to build and share data apps `Makefile` `Shell` `JavaScript`
+- [gradio](https://github.com/gradio-app/gradio "gradio-app/gradio") - ⭐42749 📅2026-05-29 📖Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work `Python` `JavaScript` `HTML`
 - [giscus](https://github.com/giscus/giscus "giscus/giscus") - ⭐11722 📅2026-05-26 📖A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem `JavaScript` `TypeScript` `CSS`
-- [rustfs](https://github.com/rustfs/rustfs "rustfs/rustfs") - ⭐28104 📅2026-05-29 📖2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph `Dockerfile` `Makefile` `Rust`
-- [scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn "lzwme/scoop-proxy-cn") - ⭐393 📅2026-05-28 📖适合中国大陆的 Scoop buckets 代理镜像库。从多个开源 bucket 仓库同步更新，包含应用 1.6w `PowerShell` `Batchfile` `AutoHotkey`
-- [eza](https://github.com/eza-community/eza "eza-community/eza") - ⭐21966 📅2026-04-10 📖A modern alternative to ls `Shell` `Rust` `Just`
-- [winscp](https://github.com/winscp/winscp "winscp/winscp") - ⭐3639 📅2026-05-28 📖WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly `C++` `C` `Inno Setup`
-- [AuroraStore](https://github.com/whyorean/AuroraStore "whyorean/AuroraStore") - ⭐2460 📅2026-05-28 📖 `Kotlin` `Java` `AIDL`
+- [rustfs](https://github.com/rustfs/rustfs "rustfs/rustfs") - ⭐28140 📅2026-05-30 📖2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph `Dockerfile` `Makefile` `Rust`
+- [scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn "lzwme/scoop-proxy-cn") - ⭐393 📅2026-05-29 📖适合中国大陆的 Scoop buckets 代理镜像库。从多个开源 bucket 仓库同步更新，包含应用 1.6w `PowerShell` `Batchfile` `AutoHotkey`
+- [eza](https://github.com/eza-community/eza "eza-community/eza") - ⭐21980 📅2026-04-10 📖A modern alternative to ls `Shell` `Rust` `Just`
+- [winscp](https://github.com/winscp/winscp "winscp/winscp") - ⭐3641 📅2026-05-28 📖WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly `C++` `C` `Inno Setup`
+- [AuroraStore](https://github.com/whyorean/AuroraStore "whyorean/AuroraStore") - ⭐2468 📅2026-05-30 📖 `Kotlin` `Java` `AIDL`
 - [AnExplorer](https://github.com/1hakr/AnExplorer "1hakr/AnExplorer") - ⭐1978 📅2025-10-10 📖Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a fully designed with Material guidelines by Google `Java` `Shell` `HTML`
-- [BBLLV5](https://github.com/swyefun/BBLLV5 "swyefun/BBLLV5") - ⭐1458 📅2026-01-31 📖一个第三方哔哩哔哩客户端修复
-- [bv](https://github.com/fantasytyx/bv "fantasytyx/bv") - ⭐676 📅2026-05-13 📖哔哩哔哩 的第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android app `Kotlin`
-- [xpipe](https://github.com/xpipe-io/xpipe "xpipe-io/xpipe") - ⭐14113 📅2026-05-29 📖Access your entire server infrastructure from your local desktop `Java` `CSS` `Shell`
-- [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "BluePointLilac/ContextMenuManager") - ⭐19132 📅2024-08-17 📖纯粹的Windows右键菜单管理程序 `C#` `C` `HTML`
-- [dnSpy](https://github.com/dnSpyEx/dnSpy "dnSpyEx/dnSpy") - ⭐10336 📅2026-05-17 📖Unofficial revival of the well known .NET debugger and assembly editor, dnSpy `C#` `Batchfile` `PowerShell`
+- [BBLLV5](https://github.com/swyefun/BBLLV5 "swyefun/BBLLV5") - ⭐1459 📅2026-01-31 📖一个第三方哔哩哔哩客户端修复
+- [bv](https://github.com/fantasytyx/bv "fantasytyx/bv") - ⭐677 📅2026-05-13 📖哔哩哔哩 的第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android app `Kotlin`
+- [xpipe](https://github.com/xpipe-io/xpipe "xpipe-io/xpipe") - ⭐14128 📅2026-05-29 📖Access your entire server infrastructure from your local desktop `Java` `CSS` `Shell`
+- [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "BluePointLilac/ContextMenuManager") - ⭐19145 📅2024-08-17 📖纯粹的Windows右键菜单管理程序 `C#` `C` `HTML`
+- [dnSpy](https://github.com/dnSpyEx/dnSpy "dnSpyEx/dnSpy") - ⭐10342 📅2026-05-17 📖Unofficial revival of the well known .NET debugger and assembly editor, dnSpy `C#` `Batchfile` `PowerShell`
 - [NetBeauty2](https://github.com/nulastudio/NetBeauty2 "nulastudio/NetBeauty2") - ⭐497 📅2025-12-01 📖Move a .NET Framework/.NET Core app runtime components and dependencies into a sub-directory and make it beauty `Go` `Makefile` `C#`
-- [XmlNotepad](https://github.com/microsoft/XmlNotepad "microsoft/XmlNotepad") - ⭐1161 📅2026-05-23 📖XML Notepad provides a simple intuitive User Interface for browsing and editing XML documents `HTML` `CSS` `C#`
+- [XmlNotepad](https://github.com/microsoft/XmlNotepad "microsoft/XmlNotepad") - ⭐1162 📅2026-05-23 📖XML Notepad provides a simple intuitive User Interface for browsing and editing XML documents `HTML` `CSS` `C#`
 - [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils "natemcmaster/CommandLineUtils") - ⭐2272 📅2026-05-02 📖Command line parsing and utilities for .NET `PowerShell` `C#`
 - [awesome-vba](https://github.com/sancarn/awesome-vba "sancarn/awesome-vba") - ⭐601 📅2026-05-15 📖A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
-- [VBA-JSON](https://github.com/VBA-tools/VBA-JSON "VBA-tools/VBA-JSON") - ⭐2108 📅2024-03-14 📖JSON conversion and parsing for VBA `Visual Basic`
+- [VBA-JSON](https://github.com/VBA-tools/VBA-JSON "VBA-tools/VBA-JSON") - ⭐2109 📅2024-03-14 📖JSON conversion and parsing for VBA `Visual Basic`
 - [LunarParser](https://github.com/Relfos/LunarParser "Relfos/LunarParser") - ⭐49 📅2025-08-03 📖XML/JSON/YAML/CSV parsers for C `C#`
-- [Polly](https://github.com/App-vNext/Polly "App-vNext/Polly") - ⭐14175 📅2026-05-22 📖Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0 `C#` `PowerShell` `Batchfile`
-- [GoGoGo](https://github.com/ZCShou/GoGoGo "ZCShou/GoGoGo") - ⭐10544 📅2025-11-20 📖一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 `Java`
-- [LSPosed](https://github.com/LSPosed/LSPosed "LSPosed/LSPosed") - ⭐23830 📅2025-03-04 📖LSPosed Framework `Java` `C++` `C`
-- [Hail](https://github.com/aistra0528/Hail "aistra0528/Hail") - ⭐5896 📅2026-05-27 📖Disable / Hide / Suspend / Uninstall Android apps without root `Kotlin`
-- [Shizuku](https://github.com/RikkaApps/Shizuku "RikkaApps/Shizuku") - ⭐25633 📅2025-06-18 📖Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process `Java` `CMake` `C`
+- [Polly](https://github.com/App-vNext/Polly "App-vNext/Polly") - ⭐14176 📅2026-05-29 📖Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0 `C#` `PowerShell` `Batchfile`
+- [GoGoGo](https://github.com/ZCShou/GoGoGo "ZCShou/GoGoGo") - ⭐10546 📅2025-11-20 📖一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 `Java`
+- [LSPosed](https://github.com/LSPosed/LSPosed "LSPosed/LSPosed") - ⭐23838 📅2025-03-04 📖LSPosed Framework `Java` `C++` `C`
+- [Hail](https://github.com/aistra0528/Hail "aistra0528/Hail") - ⭐5900 📅2026-05-27 📖Disable / Hide / Suspend / Uninstall Android apps without root `Kotlin`
+- [Shizuku](https://github.com/RikkaApps/Shizuku "RikkaApps/Shizuku") - ⭐25673 📅2025-06-18 📖Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process `Java` `CMake` `C`
 - [markwhen](https://github.com/mark-when/markwhen "mark-when/markwhen") - ⭐4842 📅2023-12-11 📖Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more `Vue` `TypeScript` `JavaScript`
-- [go-wxpush](https://github.com/hezhizheng/go-wxpush "hezhizheng/go-wxpush") - ⭐1640 📅2026-05-27 📖极简且免费的微信消息推送服务 (基于golang `Go` `Dockerfile`
-- [bentopdf](https://github.com/alam00000/bentopdf "alam00000/bentopdf") - ⭐13487 📅2026-05-27 📖The Privacy First PDF Toolkit `Dockerfile` `HTML` `JavaScript`
-- [venera](https://github.com/venera-app/venera "venera-app/venera") - ⭐9872 📅2026-04-05 📖A comic app `Kotlin` `JavaScript` `Ruby`
+- [go-wxpush](https://github.com/hezhizheng/go-wxpush "hezhizheng/go-wxpush") - ⭐1641 📅2026-05-27 📖极简且免费的微信消息推送服务 (基于golang `Go` `Dockerfile`
+- [bentopdf](https://github.com/alam00000/bentopdf "alam00000/bentopdf") - ⭐13497 📅2026-05-29 📖The Privacy First PDF Toolkit `Dockerfile` `HTML` `JavaScript`
+- [venera](https://github.com/venera-app/venera "venera-app/venera") - ⭐9887 📅2026-04-05 📖A comic app `Kotlin` `JavaScript` `Ruby`
 - [tcp-udp-tool](https://github.com/danielnilsson9/tcp-udp-tool "danielnilsson9/tcp-udp-tool") - ⭐86 📅2022-01-21 📖A tcp/udp testing tool for developers written in C `C#`
-- [swingmusic](https://github.com/swingmx/swingmusic "swingmx/swingmusic") - ⭐1901 📅2026-05-28 📖Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music `Python` `Dockerfile` `Shell`
-- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons "microsoft/fluentui-system-icons") - ⭐10582 📅2026-05-28 📖Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft `Kotlin` `Java` `JavaScript`
-- [awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia "AvaloniaCommunity/awesome-avalonia") - ⭐3167 📅2026-04-24 📖A collection of interesting libraries and tools for Avalonia project
+- [swingmusic](https://github.com/swingmx/swingmusic "swingmx/swingmusic") - ⭐1903 📅2026-05-28 📖Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music `Python` `Dockerfile` `Shell`
+- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons "microsoft/fluentui-system-icons") - ⭐10581 📅2026-05-28 📖Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft `Kotlin` `Java` `JavaScript`
+- [awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia "AvaloniaCommunity/awesome-avalonia") - ⭐3168 📅2026-04-24 📖A collection of interesting libraries and tools for Avalonia project
 - [MdXaml](https://github.com/whistyun/MdXaml "whistyun/MdXaml") - ⭐328 📅2026-03-08 📖Markdown for WPF - alternate version of Markdown.Xaml `C#` `HTML`
-- [netbird](https://github.com/netbirdio/netbird "netbirdio/netbird") - ⭐25580 📅2026-05-28 📖Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls `Go` `Shell` `Dockerfile`
-- [SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN "SoftEtherVPN/SoftEtherVPN") - ⭐13264 📅2026-05-22 📖Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable `Shell` `Makefile` `C#`
-- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas "Atarity/deploy-your-own-saas") - ⭐9402 📅2026-05-28 📖List of "only yours" cloud services for everyday needs :black_flag `Python`
-- [RyTuneX](https://github.com/rayenghanmi/RyTuneX "rayenghanmi/RyTuneX") - ⭐5067 📅2026-05-17 📖RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11 `C#` `PowerShell`
-- [winutil](https://github.com/ChrisTitusTech/winutil "ChrisTitusTech/winutil") - ⭐55229 📅2026-05-28 📖Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates `PowerShell` `HTML` `Batchfile`
-- [Ditto](https://github.com/sabrogden/Ditto "sabrogden/Ditto") - ⭐6481 📅2026-05-06 📖Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time `C++` `C` `Batchfile`
-- [PicView](https://github.com/Ruben2776/PicView "Ruben2776/PicView") - ⭐3252 📅2026-05-28 📖Fast, free and customizable picture viewer `C#` `PowerShell` `Inno Setup`
-- [lada](https://github.com/ladaapp/lada "ladaapp/lada") - ⭐4836 📅2026-02-27 📖Restore videos with pixelated/mosaic regions `Python` `CSS` `Shell`
+- [netbird](https://github.com/netbirdio/netbird "netbirdio/netbird") - ⭐25614 📅2026-05-29 📖Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls `Go` `Shell` `Dockerfile`
+- [SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN "SoftEtherVPN/SoftEtherVPN") - ⭐13272 📅2026-05-22 📖Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable `Shell` `Makefile` `C#`
+- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas "Atarity/deploy-your-own-saas") - ⭐9404 📅2026-05-29 📖List of "only yours" cloud services for everyday needs :black_flag `Python`
+- [RyTuneX](https://github.com/rayenghanmi/RyTuneX "rayenghanmi/RyTuneX") - ⭐5068 📅2026-05-17 📖RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11 `C#` `PowerShell`
+- [winutil](https://github.com/ChrisTitusTech/winutil "ChrisTitusTech/winutil") - ⭐55264 📅2026-05-29 📖Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates `PowerShell` `HTML` `Batchfile`
+- [Ditto](https://github.com/sabrogden/Ditto "sabrogden/Ditto") - ⭐6484 📅2026-05-06 📖Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time `C++` `C` `Batchfile`
+- [PicView](https://github.com/Ruben2776/PicView "Ruben2776/PicView") - ⭐3255 📅2026-05-29 📖Fast, free and customizable picture viewer `C#` `PowerShell` `Inno Setup`
+- [lada](https://github.com/ladaapp/lada "ladaapp/lada") - ⭐4845 📅2026-02-27 📖Restore videos with pixelated/mosaic regions `Python` `CSS` `Shell`
 - [fancywm](https://github.com/FancyWM/fancywm "FancyWM/fancywm") - ⭐1134 📅2026-03-14 📖FancyWM - Dynamic Tiling Window Manager for Windows `C#` `Batchfile`
-- [glazewm](https://github.com/glzr-io/glazewm "glzr-io/glazewm") - ⭐12142 📅2026-05-10 📖GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm `Rust` `PowerShell`
+- [glazewm](https://github.com/glzr-io/glazewm "glzr-io/glazewm") - ⭐12147 📅2026-05-10 📖GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm `Rust` `PowerShell`
 - [PacketSender](https://github.com/dannagle/PacketSender "dannagle/PacketSender") - ⭐2648 📅2026-04-24 📖Network utility for sending / receiving TCP, UDP, SSL, HTTP `C++` `CSS` `QMake`
-- [niri](https://github.com/niri-wm/niri "niri-wm/niri") - ⭐24675 📅2026-05-28 📖A scrollable-tiling Wayland compositor `Rust` `Shell` `Nix`
-- [ZeroOmega](https://github.com/zero-peak/ZeroOmega "zero-peak/ZeroOmega") - ⭐7443 📅2026-05-23 📖Manage and switch between multiple proxies quickly & easily `JavaScript` `CoffeeScript` `CSS`
-- [CopyQ](https://github.com/hluk/CopyQ "hluk/CopyQ") - ⭐11770 📅2026-05-23 📖Clipboard manager with advanced features `CMake` `C++` `C`
+- [niri](https://github.com/niri-wm/niri "niri-wm/niri") - ⭐24691 📅2026-05-29 📖A scrollable-tiling Wayland compositor `Rust` `Shell` `Nix`
+- [ZeroOmega](https://github.com/zero-peak/ZeroOmega "zero-peak/ZeroOmega") - ⭐7446 📅2026-05-23 📖Manage and switch between multiple proxies quickly & easily `JavaScript` `CoffeeScript` `CSS`
+- [CopyQ](https://github.com/hluk/CopyQ "hluk/CopyQ") - ⭐11773 📅2026-05-29 📖Clipboard manager with advanced features `CMake` `C++` `C`
 - [OpenWrt-CI](https://github.com/KFERMercer/OpenWrt-CI "KFERMercer/OpenWrt-CI") - ⭐1417 📅2023-04-24 📖OpenWrt CI 在线集成自动编译环境
-- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt "P3TERX/Actions-OpenWrt") - ⭐7639 📅2024-03-02 📖A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件 `Shell`
+- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt "P3TERX/Actions-OpenWrt") - ⭐7640 📅2024-03-02 📖A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件 `Shell`
 - [Kwrt](https://github.com/kiddin9/Kwrt "kiddin9/Kwrt") - ⭐8908 📅2026-04-23 📖openwrt 软路由固件 `Shell` `Brainfuck`
-- [immortalwrt](https://github.com/immortalwrt/immortalwrt "immortalwrt/immortalwrt") - ⭐10861 📅2026-05-28 📖An opensource OpenWrt variant for mainland China users `Makefile` `Awk` `Shell`
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD "FreeCAD/FreeCAD") - ⭐31200 📅2026-05-28 📖Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler `Shell` `Python` `CMake`
-- [Shell](https://github.com/moudey/Shell "moudey/Shell") - ⭐6614 📅2026-02-09 📖Powerful context menu manager for Windows File Explorer `NWScript` `PowerShell` `Batchfile`
-- [sing-box](https://github.com/SagerNet/sing-box "SagerNet/sing-box") - ⭐34321 📅2026-05-26 📖The universal proxy platform `Go` `Shell` `Makefile`
+- [immortalwrt](https://github.com/immortalwrt/immortalwrt "immortalwrt/immortalwrt") - ⭐10867 📅2026-05-28 📖An opensource OpenWrt variant for mainland China users `Makefile` `Awk` `Shell`
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD "FreeCAD/FreeCAD") - ⭐31217 📅2026-05-29 📖Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler `Shell` `Python` `CMake`
+- [Shell](https://github.com/moudey/Shell "moudey/Shell") - ⭐6616 📅2026-02-09 📖Powerful context menu manager for Windows File Explorer `NWScript` `PowerShell` `Batchfile`
+- [sing-box](https://github.com/SagerNet/sing-box "SagerNet/sing-box") - ⭐34347 📅2026-05-26 📖The universal proxy platform `Go` `Shell` `Makefile`
 - [draw-io-obsidian](https://github.com/somesanity/draw-io-obsidian "somesanity/draw-io-obsidian") - ⭐133 📅2026-05-09 📖A plugin for Obsidian that integrates the draw.io editor into Obsidian `JavaScript` `TypeScript` `CSS`
-- [immersive-translate](https://github.com/immersive-translate/immersive-translate "immersive-translate/immersive-translate") - ⭐17764 📅2026-05-28 📖沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-- [zed](https://github.com/zed-industries/zed "zed-industries/zed") - ⭐84014 📅2026-05-28 📖Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter `Rust` `JavaScript` `Metal`
-- [ShareX](https://github.com/ShareX/ShareX "ShareX/ShareX") - ⭐37798 📅2026-05-28 📖ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations `C#` `Inno Setup` `CSS`
-- [outline](https://github.com/outline/outline "outline/outline") - ⭐38668 📅2026-05-29 📖The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible `JavaScript` `HTML` `Shell`
-- [coder](https://github.com/coder/coder "coder/coder") - ⭐13313 📅2026-05-29 📖Secure environments for developers and their agents `Makefile` `Go` `Shell`
-- [Cap](https://github.com/CapSoftware/Cap "CapSoftware/Cap") - ⭐19262 📅2026-05-28 📖Open source Loom alternative. Beautiful, shareable screen recordings `TypeScript` `JavaScript` `Rust`
-- [authentik](https://github.com/goauthentik/authentik "goauthentik/authentik") - ⭐21696 📅2026-05-28 📖The authentication glue you need `Dockerfile` `HTML` `Python`
-- [ceph](https://github.com/ceph/ceph "ceph/ceph") - ⭐16658 📅2026-05-29 📖Ceph is a distributed object, block, and file storage platform `C++` `Shell` `Python`
-- [dbeaver](https://github.com/dbeaver/dbeaver "dbeaver/dbeaver") - ⭐50289 📅2026-05-28 📖Free universal database tool and SQL client `Batchfile` `Java` `CSS`
-- [coolify](https://github.com/coollabsio/coolify "coollabsio/coolify") - ⭐56141 📅2026-05-29 📖An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers `JavaScript` `Dockerfile` `CSS`
-- [docmost](https://github.com/docmost/docmost "docmost/docmost") - ⭐20412 📅2026-05-28 📖Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion `JavaScript` `TypeScript` `CSS`
-- [onedev](https://github.com/theonedev/onedev "theonedev/onedev") - ⭐15022 📅2026-05-27 📖Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience `Java` `ANTLR` `JavaScript`
-- [typst](https://github.com/typst/typst "typst/typst") - ⭐53826 📅2026-05-28 📖A markup-based typesetting system that is powerful and easy to learn `Rust` `Dockerfile` `Typst`
-- [github-hosts](https://github.com/maxiaof/github-hosts "maxiaof/github-hosts") - ⭐2637 📅2026-05-29 📖通过修改Hosts解决国内Github经常抽风访问不到,每日更新 `Java`
-- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG "mRemoteNG/mRemoteNG") - ⭐10839 📅2026-05-27 📖mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager `C#` `XSLT` `PowerShell`
-- [yq](https://github.com/mikefarah/yq "mikefarah/yq") - ⭐15453 📅2026-05-28 📖yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor `Go` `Shell` `Makefile`
-- [x-cmd](https://github.com/x-cmd/x-cmd "x-cmd/x-cmd") - ⭐4425 📅2026-05-29 📖Shell Superpowers for AI Agents `Shell` `Awk` `Batchfile`
-- [HuYaTv](https://github.com/jayjd/HuYaTv "jayjd/HuYaTv") - ⭐696 📅2026-05-06 📖聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机
-- [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr "FlareSolverr/FlareSolverr") - ⭐14072 📅2026-05-26 📖Proxy server to bypass Cloudflare protection `Dockerfile` `HTML` `Python`
+- [immersive-translate](https://github.com/immersive-translate/immersive-translate "immersive-translate/immersive-translate") - ⭐17765 📅2026-05-28 📖沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+- [zed](https://github.com/zed-industries/zed "zed-industries/zed") - ⭐84091 📅2026-05-30 📖Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter `Rust` `JavaScript` `Metal`
+- [ShareX](https://github.com/ShareX/ShareX "ShareX/ShareX") - ⭐37815 📅2026-05-29 📖ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations `C#` `Inno Setup` `CSS`
+- [outline](https://github.com/outline/outline "outline/outline") - ⭐38680 📅2026-05-30 📖The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible `JavaScript` `HTML` `Shell`
+- [coder](https://github.com/coder/coder "coder/coder") - ⭐13323 📅2026-05-30 📖Secure environments for developers and their agents `Makefile` `Go` `Shell`
+- [Cap](https://github.com/CapSoftware/Cap "CapSoftware/Cap") - ⭐19277 📅2026-05-29 📖Open source Loom alternative. Beautiful, shareable screen recordings `TypeScript` `JavaScript` `Rust`
+- [authentik](https://github.com/goauthentik/authentik "goauthentik/authentik") - ⭐21708 📅2026-05-30 📖The authentication glue you need `Dockerfile` `HTML` `Python`
+- [ceph](https://github.com/ceph/ceph "ceph/ceph") - ⭐16659 📅2026-05-29 📖Ceph is a distributed object, block, and file storage platform `C++` `Shell` `Python`
+- [dbeaver](https://github.com/dbeaver/dbeaver "dbeaver/dbeaver") - ⭐50300 📅2026-05-29 📖Free universal database tool and SQL client `Batchfile` `Java` `CSS`
+- [coolify](https://github.com/coollabsio/coolify "coollabsio/coolify") - ⭐56192 📅2026-05-29 📖An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers `JavaScript` `Dockerfile` `CSS`
+- [docmost](https://github.com/docmost/docmost "docmost/docmost") - ⭐20430 📅2026-05-28 📖Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion `JavaScript` `TypeScript` `CSS`
+- [onedev](https://github.com/theonedev/onedev "theonedev/onedev") - ⭐15021 📅2026-05-30 📖Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience `Java` `ANTLR` `JavaScript`
+- [typst](https://github.com/typst/typst "typst/typst") - ⭐53844 📅2026-05-29 📖A markup-based typesetting system that is powerful and easy to learn `Rust` `Dockerfile` `Typst`
+- [github-hosts](https://github.com/maxiaof/github-hosts "maxiaof/github-hosts") - ⭐2639 📅2026-05-30 📖通过修改Hosts解决国内Github经常抽风访问不到,每日更新 `Java`
+- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG "mRemoteNG/mRemoteNG") - ⭐10839 📅2026-05-30 📖mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager `C#` `XSLT` `PowerShell`
+- [yq](https://github.com/mikefarah/yq "mikefarah/yq") - ⭐15461 📅2026-05-28 📖yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor `Go` `Shell` `Makefile`
+- [x-cmd](https://github.com/x-cmd/x-cmd "x-cmd/x-cmd") - ⭐4429 📅2026-05-30 📖Shell Superpowers for AI Agents `Shell` `Awk` `Batchfile`
+- [HuYaTv](https://github.com/jayjd/HuYaTv "jayjd/HuYaTv") - ⭐697 📅2026-05-06 📖聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机
+- [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr "FlareSolverr/FlareSolverr") - ⭐14083 📅2026-05-26 📖Proxy server to bypass Cloudflare protection `Dockerfile` `HTML` `Python`
 - [taosync](https://github.com/dr34m-cn/taosync "dr34m-cn/taosync") - ⭐1465 📅2026-01-06 📖TaoSync是一个适用于OpenList v3+的自动化同步工具/Sync for OpenList/AList `Dockerfile` `Python` `JavaScript`
-- [meilisearch](https://github.com/meilisearch/meilisearch "meilisearch/meilisearch") - ⭐57805 📅2026-05-28 📖A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications `Rust` `Dockerfile` `Shell`
-- [CloudSaver](https://github.com/jiangrui1994/CloudSaver "jiangrui1994/CloudSaver") - ⭐8939 📅2026-04-20 📖一个基于 Vue 3 + Express 的网盘资源搜索与转存工具 `TypeScript` `HTML` `Vue`
-- [PairDrop](https://github.com/schlagmichdoch/PairDrop "schlagmichdoch/PairDrop") - ⭐10488 📅2026-04-22 📖PairDrop: Transfer Files Cross-Platform. No Setup, No Signup `HTML` `JavaScript` `CSS`
-- [NBping](https://github.com/hanshuaikang/NBping "hanshuaikang/NBping") - ⭐2195 📅2026-05-20 📖Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations `Rust`
-- [SideStore](https://github.com/SideStore/SideStore "SideStore/SideStore") - ⭐5566 📅2026-05-26 📖SideStore is a fork of AltStore that doesn't require an AltServer `Swift` `Objective-C` `Makefile`
-- [etcher](https://github.com/balena-io/etcher "balena-io/etcher") - ⭐33790 📅2026-05-13 📖Flash OS images to SD cards & USB drives, safely and easily `CSS` `JavaScript` `HTML`
-- [fort](https://github.com/tnodir/fort "tnodir/fort") - ⭐3102 📅2026-05-10 📖Fort Firewall for Windows `C` `Batchfile` `QMake`
-- [FiraCode](https://github.com/tonsky/FiraCode "tonsky/FiraCode") - ⭐81669 📅2026-05-18 📖Free monospaced font with programming ligatures `Clojure` `CSS` `HTML`
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono "JetBrains/JetBrainsMono") - ⭐12730 📅2025-01-31 📖JetBrains Mono – the free and open-source typeface for developers `Kotlin` `Shell` `Python`
+- [meilisearch](https://github.com/meilisearch/meilisearch "meilisearch/meilisearch") - ⭐57837 📅2026-05-29 📖A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications `Rust` `Dockerfile` `Shell`
+- [CloudSaver](https://github.com/jiangrui1994/CloudSaver "jiangrui1994/CloudSaver") - ⭐8940 📅2026-04-20 📖一个基于 Vue 3 + Express 的网盘资源搜索与转存工具 `TypeScript` `HTML` `Vue`
+- [PairDrop](https://github.com/schlagmichdoch/PairDrop "schlagmichdoch/PairDrop") - ⭐10494 📅2026-04-22 📖PairDrop: Transfer Files Cross-Platform. No Setup, No Signup `HTML` `JavaScript` `CSS`
+- [NBping](https://github.com/hanshuaikang/NBping "hanshuaikang/NBping") - ⭐2194 📅2026-05-20 📖Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations `Rust`
+- [SideStore](https://github.com/SideStore/SideStore "SideStore/SideStore") - ⭐5574 📅2026-05-26 📖SideStore is a fork of AltStore that doesn't require an AltServer `Swift` `Objective-C` `Makefile`
+- [etcher](https://github.com/balena-io/etcher "balena-io/etcher") - ⭐33792 📅2026-05-13 📖Flash OS images to SD cards & USB drives, safely and easily `CSS` `JavaScript` `HTML`
+- [fort](https://github.com/tnodir/fort "tnodir/fort") - ⭐3101 📅2026-05-10 📖Fort Firewall for Windows `C` `Batchfile` `QMake`
+- [FiraCode](https://github.com/tonsky/FiraCode "tonsky/FiraCode") - ⭐81678 📅2026-05-18 📖Free monospaced font with programming ligatures `Clojure` `CSS` `HTML`
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono "JetBrains/JetBrainsMono") - ⭐12734 📅2025-01-31 📖JetBrains Mono – the free and open-source typeface for developers `Kotlin` `Shell` `Python`
 - [drawio-obsidian](https://github.com/zapthedingbat/drawio-obsidian "zapthedingbat/drawio-obsidian") - ⭐643 📅2026-02-22 📖Draw.io plugin for obsidian.md `JavaScript` `TypeScript` `CSS`
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop "jgraph/drawio-desktop") - ⭐61363 📅2026-05-27 📖Official electron build of draw.io `JavaScript` `Shell` `HTML`
-- [f2](https://github.com/ayoisaiah/f2 "ayoisaiah/f2") - ⭐2411 📅2026-04-13 📖F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go `Go` `Shell` `Just`
-- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus "notepad-plus-plus/notepad-plus-plus") - ⭐28166 📅2026-05-26 📖Notepad++ official repository `Shell` `C` `C++`
-- [go-echarts](https://github.com/go-echarts/go-echarts "go-echarts/go-echarts") - ⭐7616 📅2026-05-11 📖The adorable charts library for Golang `Go` `Shell` `Go Template`
-- [roundcubemail](https://github.com/roundcube/roundcubemail "roundcube/roundcubemail") - ⭐6989 📅2026-05-28 📖The Roundcube Webmail suite `Shell` `PHP` `JavaScript`
-- [snappymail](https://github.com/the-djmaze/snappymail "the-djmaze/snappymail") - ⭐1617 📅2026-03-11 📖Simple, modern & fast web-based email client `PHP` `CSS` `JavaScript`
-- [remotely-save](https://github.com/remotely-save/remotely-save "remotely-save/remotely-save") - ⭐7543 📅2024-11-10 📖Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage `TypeScript` `CSS` `JavaScript`
-- [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE "community-scripts/ProxmoxVE") - ⭐28289 📅2026-05-29 📖Proxmox VE Helper-Scripts (Community Edition `Shell`
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop "jgraph/drawio-desktop") - ⭐61370 📅2026-05-27 📖Official electron build of draw.io `JavaScript` `Shell` `HTML`
+- [f2](https://github.com/ayoisaiah/f2 "ayoisaiah/f2") - ⭐2412 📅2026-04-13 📖F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go `Go` `Shell` `Just`
+- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus "notepad-plus-plus/notepad-plus-plus") - ⭐28179 📅2026-05-26 📖Notepad++ official repository `Shell` `C` `C++`
+- [go-echarts](https://github.com/go-echarts/go-echarts "go-echarts/go-echarts") - ⭐7617 📅2026-05-11 📖The adorable charts library for Golang `Go` `Shell` `Go Template`
+- [roundcubemail](https://github.com/roundcube/roundcubemail "roundcube/roundcubemail") - ⭐6991 📅2026-05-29 📖The Roundcube Webmail suite `Shell` `PHP` `JavaScript`
+- [snappymail](https://github.com/the-djmaze/snappymail "the-djmaze/snappymail") - ⭐1616 📅2026-03-11 📖Simple, modern & fast web-based email client `PHP` `CSS` `JavaScript`
+- [remotely-save](https://github.com/remotely-save/remotely-save "remotely-save/remotely-save") - ⭐7544 📅2024-11-10 📖Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage `TypeScript` `CSS` `JavaScript`
+- [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE "community-scripts/ProxmoxVE") - ⭐28298 📅2026-05-30 📖Proxmox VE Helper-Scripts (Community Edition `Shell`
 - [dnsmgr](https://github.com/netcccyun/dnsmgr "netcccyun/dnsmgr") - ⭐1379 📅2026-05-26 📖彩虹聚合DNS管理系统 `PHP` `HTML` `JavaScript`
-- [Marzban](https://github.com/Gozargah/Marzban "Gozargah/Marzban") - ⭐6792 📅2025-11-05 📖Unified GUI Censorship Resistant Solution Powered by Xray `Python` `Mako` `Dockerfile`
+- [Marzban](https://github.com/Gozargah/Marzban "Gozargah/Marzban") - ⭐6801 📅2025-11-05 📖Unified GUI Censorship Resistant Solution Powered by Xray `Python` `Mako` `Dockerfile`
 - [SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM "Anankke/SSPanel-UIM") - ⭐10317 📅2026-04-25 📖Multi-purpose proxy service management system `PHP` `JavaScript` `Smarty`
-- [Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager "hiddify/Hiddify-Manager") - ⭐8942 📅2026-05-26 📖Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy `Shell` `HTML` `Python`
-- [3x-ui](https://github.com/MHSanaei/3x-ui "MHSanaei/3x-ui") - ⭐38604 📅2026-05-29 📖Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun `Go` `Shell` `JavaScript`
-- [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox "VirtualHotBar/HotPEToolBox") - ⭐2007 📅2025-10-19 📖一个纯净、强大、优雅的WinPE `Python` `Batchfile` `Lua`
+- [Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager "hiddify/Hiddify-Manager") - ⭐8952 📅2026-05-29 📖Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy `Shell` `HTML` `Python`
+- [3x-ui](https://github.com/MHSanaei/3x-ui "MHSanaei/3x-ui") - ⭐38733 📅2026-05-29 📖Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun `Go` `Shell` `JavaScript`
+- [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox "VirtualHotBar/HotPEToolBox") - ⭐2012 📅2025-10-19 📖一个纯净、强大、优雅的WinPE `Python` `Batchfile` `Lua`
 - [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement "gdraheim/docker-systemctl-replacement") - ⭐1580 📅2026-03-08 📖docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16 `Python` `Makefile` `Dockerfile`
-- [vitepress](https://github.com/vuejs/vitepress "vuejs/vitepress") - ⭐17780 📅2026-05-25 📖Vite & Vue powered static site generator `JavaScript` `Vue` `TypeScript`
-- [Fabric](https://github.com/danielmiessler/Fabric "danielmiessler/Fabric") - ⭐41872 📅2026-05-28 📖Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere `Go` `Shell` `Batchfile`
-- [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync "vrtmrz/obsidian-livesync") - ⭐11017 📅2026-05-28 📖 `TypeScript` `JavaScript` `CSS`
-- [goaccess](https://github.com/allinurl/goaccess "allinurl/goaccess") - ⭐20575 📅2026-04-23 📖GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser `C` `Makefile` `M4`
+- [vitepress](https://github.com/vuejs/vitepress "vuejs/vitepress") - ⭐17783 📅2026-05-25 📖Vite & Vue powered static site generator `JavaScript` `Vue` `TypeScript`
+- [Fabric](https://github.com/danielmiessler/Fabric "danielmiessler/Fabric") - ⭐41878 📅2026-05-28 📖Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere `Go` `Shell` `Batchfile`
+- [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync "vrtmrz/obsidian-livesync") - ⭐11033 📅2026-05-29 📖 `TypeScript` `JavaScript` `CSS`
+- [goaccess](https://github.com/allinurl/goaccess "allinurl/goaccess") - ⭐20577 📅2026-04-23 📖GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser `C` `Makefile` `M4`
 - [nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter "nginx/nginx-prometheus-exporter") - ⭐1979 📅2026-05-28 📖NGINX Prometheus Exporter for NGINX and NGINX Plus `Makefile` `Go` `Dockerfile`
-- [node_exporter](https://github.com/prometheus/node_exporter "prometheus/node_exporter") - ⭐13446 📅2026-05-28 📖Exporter for machine metrics `Go` `Makefile` `Shell`
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic "be5invis/Sarasa-Gothic") - ⭐12290 📅2026-05-24 📖Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 `JavaScript`
-- [gkd](https://github.com/gkd-kit/gkd "gkd-kit/gkd") - ⭐38980 📅2026-05-26 📖基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules `Kotlin` `AIDL` `Java`
-- [hugo](https://github.com/gohugoio/hugo "gohugoio/hugo") - ⭐88297 📅2026-05-28 📖The world’s fastest framework for building websites `Go` `Shell` `HTML`
+- [node_exporter](https://github.com/prometheus/node_exporter "prometheus/node_exporter") - ⭐13451 📅2026-05-29 📖Exporter for machine metrics `Go` `Makefile` `Shell`
+- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic "be5invis/Sarasa-Gothic") - ⭐12295 📅2026-05-24 📖Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 `JavaScript`
+- [gkd](https://github.com/gkd-kit/gkd "gkd-kit/gkd") - ⭐39001 📅2026-05-26 📖基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules `Kotlin` `AIDL` `Java`
+- [hugo](https://github.com/gohugoio/hugo "gohugoio/hugo") - ⭐88314 📅2026-05-29 📖The world’s fastest framework for building websites `Go` `Shell` `HTML`
 - [bpkg](https://github.com/bpkg/bpkg "bpkg/bpkg") - ⭐1971 📅2025-07-07 📖Lightweight bash package manager `Makefile` `Shell`
-- [ui](https://github.com/shadcn-ui/ui "shadcn-ui/ui") - ⭐115218 📅2026-05-27 📖A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code `Shell` `TypeScript` `JavaScript`
-- [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC "Gar-b-age/CookLikeHOC") - ⭐23544 📅2026-05-08 📖像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC `Dockerfile`
-- [newsnow](https://github.com/ourongxing/newsnow "ourongxing/newsnow") - ⭐20433 📅2026-02-27 📖Elegant reading of real-time and hottest news `JavaScript` `TypeScript` `CSS`
+- [ui](https://github.com/shadcn-ui/ui "shadcn-ui/ui") - ⭐115275 📅2026-05-29 📖A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code `Shell` `TypeScript` `JavaScript`
+- [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC "Gar-b-age/CookLikeHOC") - ⭐23549 📅2026-05-08 📖像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC `Dockerfile`
+- [newsnow](https://github.com/ourongxing/newsnow "ourongxing/newsnow") - ⭐20447 📅2026-02-27 📖Elegant reading of real-time and hottest news `JavaScript` `TypeScript` `CSS`
 - [huntly](https://github.com/lcomplete/huntly "lcomplete/huntly") - ⭐2322 📅2026-05-24 📖Your Personal AI-Powered Information Hub `JavaScript` `HTML` `TypeScript`
-- [Kazumi](https://github.com/Predidit/Kazumi "Predidit/Kazumi") - ⭐25669 📅2026-05-29 📖基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率 `Kotlin` `Swift` `Objective-C`
-- [animeko](https://github.com/open-ani/animeko "open-ani/animeko") - ⭐17998 📅2026-05-28 📖集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform `Kotlin` `Shell` `Batchfile`
+- [Kazumi](https://github.com/Predidit/Kazumi "Predidit/Kazumi") - ⭐25732 📅2026-05-29 📖基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率 `Kotlin` `Swift` `Objective-C`
+- [animeko](https://github.com/open-ani/animeko "open-ani/animeko") - ⭐18016 📅2026-05-28 📖集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform `Kotlin` `Shell` `Batchfile`
 - [transmission-next-ui](https://github.com/hisproc/transmission-next-ui "hisproc/transmission-next-ui") - ⭐235 📅2026-04-30 📖一个Transmission的第三方Web UI。 / A modern web-based frontend for Transmission, offering a sleek and responsive UI for managing your torrents with ease, built using shadcn/ui and Vite `Shell` `JavaScript` `HTML`
-- [CookieCloud](https://github.com/easychen/CookieCloud "easychen/CookieCloud") - ⭐3026 📅2026-05-03 📖CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code `PHP` `JavaScript` `TypeScript`
+- [CookieCloud](https://github.com/easychen/CookieCloud "easychen/CookieCloud") - ⭐3029 📅2026-05-03 📖CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code `PHP` `JavaScript` `TypeScript`
 - [docker-msedge](https://github.com/linuxserver/docker-msedge "linuxserver/docker-msedge") - ⭐63 📅2026-05-28 📖Web accessible Edge inside a Debian Container `Dockerfile` `Shell`
-- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection "XIU2/TrackersListCollection") - ⭐31398 📅2026-05-29 📖Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表
-- [dashboard-icons](https://github.com/homarr-labs/dashboard-icons "homarr-labs/dashboard-icons") - ⭐8219 📅2026-05-28 📖Your definitive source for dashboard icons `Python` `TypeScript` `JavaScript`
-- [flame](https://github.com/pawelmalak/flame "pawelmalak/flame") - ⭐6384 📅2026-05-25 📖Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors `HTML` `TypeScript` `CSS`
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR "PaddlePaddle/PaddleOCR") - ⭐78886 📅2026-05-28 📖Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages `Python` `Makefile` `C++`
-- [s6-overlay](https://github.com/just-containers/s6-overlay "just-containers/s6-overlay") - ⭐4483 📅2026-05-09 📖s6 overlay for containers (includes execline, s6-linux-utils & a custom init `Shell` `Makefile`
-- [gin](https://github.com/gin-gonic/gin "gin-gonic/gin") - ⭐88559 📅2026-05-09 📖Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices `Go` `Makefile`
-- [nginx-ui](https://github.com/0xJacky/nginx-ui "0xJacky/nginx-ui") - ⭐11172 📅2026-05-28 📖Yet another WebUI for Nginx `Go` `JavaScript` `HTML`
-- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos "Zeyi-Lin/HivisionIDPhotos") - ⭐21133 📅2026-03-19 📖HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法 `Python` `Dockerfile` `Shell`
-- [UniGetUI](https://github.com/Devolutions/UniGetUI "Devolutions/UniGetUI") - ⭐24097 📅2026-05-28 📖UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers `Batchfile` `Inno Setup` `PowerShell`
-- [mdcx](https://github.com/sqzw-x/mdcx "sqzw-x/mdcx") - ⭐3606 📅2025-11-17 📖Movie metadata scraper `Python` `Shell` `TypeScript`
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection "XIU2/TrackersListCollection") - ⭐31407 📅2026-05-30 📖Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表
+- [dashboard-icons](https://github.com/homarr-labs/dashboard-icons "homarr-labs/dashboard-icons") - ⭐8222 📅2026-05-28 📖Your definitive source for dashboard icons `Python` `TypeScript` `JavaScript`
+- [flame](https://github.com/pawelmalak/flame "pawelmalak/flame") - ⭐6385 📅2026-05-25 📖Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors `HTML` `TypeScript` `CSS`
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR "PaddlePaddle/PaddleOCR") - ⭐78973 📅2026-05-29 📖Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages `Python` `Makefile` `C++`
+- [s6-overlay](https://github.com/just-containers/s6-overlay "just-containers/s6-overlay") - ⭐4488 📅2026-05-09 📖s6 overlay for containers (includes execline, s6-linux-utils & a custom init `Shell` `Makefile`
+- [gin](https://github.com/gin-gonic/gin "gin-gonic/gin") - ⭐88564 📅2026-05-09 📖Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices `Go` `Makefile`
+- [nginx-ui](https://github.com/0xJacky/nginx-ui "0xJacky/nginx-ui") - ⭐11173 📅2026-05-29 📖Yet another WebUI for Nginx `Go` `JavaScript` `HTML`
+- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos "Zeyi-Lin/HivisionIDPhotos") - ⭐21134 📅2026-03-19 📖HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法 `Python` `Dockerfile` `Shell`
+- [UniGetUI](https://github.com/Devolutions/UniGetUI "Devolutions/UniGetUI") - ⭐24127 📅2026-05-29 📖UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers `Batchfile` `Inno Setup` `PowerShell`
+- [mdcx](https://github.com/sqzw-x/mdcx "sqzw-x/mdcx") - ⭐3608 📅2025-11-17 📖Movie metadata scraper `Python` `Shell` `TypeScript`
 - [AVDC](https://github.com/moyy996/AVDC "moyy996/AVDC") - ⭐2682 📅2023-05-30 📖日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像 `Python`
-- [tiny11builder](https://github.com/ntdevlabs/tiny11builder "ntdevlabs/tiny11builder") - ⭐18798 📅2025-09-12 📖Scripts to build a trimmed-down Windows 11 image `PowerShell`
-- [ani-rss](https://github.com/wushuo894/ani-rss "wushuo894/ani-rss") - ⭐3354 📅2026-05-26 📖基于RSS自动追番、订阅、下载、刮削、洗版 `Shell` `Java` `HTML`
+- [tiny11builder](https://github.com/ntdevlabs/tiny11builder "ntdevlabs/tiny11builder") - ⭐18807 📅2025-09-12 📖Scripts to build a trimmed-down Windows 11 image `PowerShell`
+- [ani-rss](https://github.com/wushuo894/ani-rss "wushuo894/ani-rss") - ⭐3356 📅2026-05-29 📖基于RSS自动追番、订阅、下载、刮削、洗版 `Shell` `Java` `HTML`
 - [bmm](https://github.com/Y80/bmm "Y80/bmm") - ⭐328 📅2026-05-22 📖BMM - Your Personal Bookmark Manager | 你的专属书签管家 `TypeScript` `JavaScript` `Shell`
-- [i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms "strongtz/i915-sriov-dkms") - ⭐2394 📅2026-05-06 📖dkms module of Linux i915 driver with SR-IOV support `Makefile` `Shell` `C`
-- [pve-diy](https://github.com/xiangfeidexiaohuo/pve-diy "xiangfeidexiaohuo/pve-diy") - ⭐846 📅2025-11-27 📖Proxmox VE 7.x~9.x 换源、关掉订阅提示、直通、配置CPU模式一键脚本 `Shell`
+- [i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms "strongtz/i915-sriov-dkms") - ⭐2397 📅2026-05-06 📖dkms module of Linux i915 driver with SR-IOV support `Makefile` `Shell` `C`
+- [pve-diy](https://github.com/xiangfeidexiaohuo/pve-diy "xiangfeidexiaohuo/pve-diy") - ⭐849 📅2025-11-27 📖Proxmox VE 7.x~9.x 换源、关掉订阅提示、直通、配置CPU模式一键脚本 `Shell`
 - [pvetools](https://github.com/ivanhao/pvetools "ivanhao/pvetools") - ⭐5273 📅2024-09-23 📖proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme `Shell`
-- [MoviePilot](https://github.com/jxxghp/MoviePilot "jxxghp/MoviePilot") - ⭐11121 📅2026-05-28 📖NAS媒体库自动化管理工具 `Python` `Mako` `Dockerfile`
-- [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless "Steam-Headless/docker-steam-headless") - ⭐3163 📅2026-04-20 📖A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI `Shell`
-- [One-KVM](https://github.com/mofeng-git/One-KVM "mofeng-git/One-KVM") - ⭐2367 📅2026-05-26 📖One-KVM Rust 是一个用 Rust 编写的轻量级 IP-KVM 解决方案，可通过网络远程管理服务器和工作站，实现 BIOS 级远程控制。One-KVM Rust  is a lightweight IP-KVM solution written in Rust. It lets you manage servers and workstations over the network, including at BIOS level `Shell` `CSS` `C++`
-- [copyparty](https://github.com/9001/copyparty "9001/copyparty") - ⭐45027 📅2026-05-26 📖Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file `Python` `Batchfile` `Shell`
+- [MoviePilot](https://github.com/jxxghp/MoviePilot "jxxghp/MoviePilot") - ⭐11124 📅2026-05-30 📖NAS媒体库自动化管理工具 `Python` `Mako` `Dockerfile`
+- [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless "Steam-Headless/docker-steam-headless") - ⭐3165 📅2026-04-20 📖A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI `Shell`
+- [One-KVM](https://github.com/mofeng-git/One-KVM "mofeng-git/One-KVM") - ⭐2370 📅2026-05-26 📖One-KVM Rust 是一个用 Rust 编写的轻量级 IP-KVM 解决方案，可通过网络远程管理服务器和工作站，实现 BIOS 级远程控制。One-KVM Rust  is a lightweight IP-KVM solution written in Rust. It lets you manage servers and workstations over the network, including at BIOS level `Shell` `CSS` `C++`
+- [copyparty](https://github.com/9001/copyparty "9001/copyparty") - ⭐45033 📅2026-05-26 📖Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file `Python` `Batchfile` `Shell`
 - [go-exiftool](https://github.com/barasher/go-exiftool "barasher/go-exiftool") - ⭐293 📅2025-08-03 📖Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents `Go`
-- [tablewriter](https://github.com/olekukonko/tablewriter "olekukonko/tablewriter") - ⭐4791 📅2026-04-07 📖ASCII table in golang `Go` `HCL`
-- [go-pretty](https://github.com/jedib0t/go-pretty "jedib0t/go-pretty") - ⭐3434 📅2026-05-20 📖Table-writer and more in golang `Makefile` `Go` `Shell`
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy "AppFlowy-IO/AppFlowy") - ⭐71404 📅2026-05-27 📖Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative `Makefile` `Kotlin` `Ruby`
-- [tia-portal-openness-code-snippets](https://github.com/siemens/tia-portal-openness-code-snippets "siemens/tia-portal-openness-code-snippets") - ⭐55 📅2026-04-09 📖A collection of practical code snippets demonstrating TIA Portal Openness API (V20) implementation with easy-to-understand examples. Designed to help developers and automation engineers learn and experiment with TIA Portal automation through modular, ready-to-use code samples `C#`
-- [logging-log4net](https://github.com/apache/logging-log4net "apache/logging-log4net") - ⭐927 📅2026-05-19 📖Apache Log4net is a versatile, feature-rich, efficient logging API and backend for .NET `C#` `PowerShell` `Dockerfile`
-- [NLog](https://github.com/NLog/NLog "NLog/NLog") - ⭐6536 📅2026-05-28 📖NLog - Flexible and Structured Logging for various .NET Platforms `C#` `PowerShell` `Batchfile`
+- [tablewriter](https://github.com/olekukonko/tablewriter "olekukonko/tablewriter") - ⭐4792 📅2026-04-07 📖ASCII table in golang `Go` `HCL`
+- [go-pretty](https://github.com/jedib0t/go-pretty "jedib0t/go-pretty") - ⭐3436 📅2026-05-20 📖Table-writer and more in golang `Makefile` `Go` `Shell`
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy "AppFlowy-IO/AppFlowy") - ⭐71447 📅2026-05-27 📖Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative `Makefile` `Kotlin` `Ruby`
+- [tia-portal-openness-code-snippets](https://github.com/siemens/tia-portal-openness-code-snippets "siemens/tia-portal-openness-code-snippets") - ⭐56 📅2026-04-09 📖A collection of practical code snippets demonstrating TIA Portal Openness API (V20) implementation with easy-to-understand examples. Designed to help developers and automation engineers learn and experiment with TIA Portal automation through modular, ready-to-use code samples `C#`
+- [logging-log4net](https://github.com/apache/logging-log4net "apache/logging-log4net") - ⭐929 📅2026-05-19 📖Apache Log4net is a versatile, feature-rich, efficient logging API and backend for .NET `C#` `PowerShell` `Dockerfile`
+- [NLog](https://github.com/NLog/NLog "NLog/NLog") - ⭐6537 📅2026-05-28 📖NLog - Flexible and Structured Logging for various .NET Platforms `C#` `PowerShell` `Batchfile`
 - [tia-portal-openness-unified-library](https://github.com/tia-portal-applications/tia-portal-openness-unified-library "tia-portal-applications/tia-portal-openness-unified-library") - ⭐11 📅2024-09-02 📖Use this library in case of creating a new TIA Openness tool. It will provide the basic functionality: analyzing command arguments, connecting to TIA, getting the HMI, etc `C#`
 - [NetPad](https://github.com/tareqimbasher/NetPad "tareqimbasher/NetPad") - ⭐2237 📅2026-05-26 📖A cross-platform C# editor and playground `C#` `TypeScript` `JavaScript`
-- [awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn "coracoo/awesome_docker_cn") - ⭐3567 📅2025-12-23 📖上百款可docker部署的项目，包含项目地址、项目部署教程等
-- [reference](https://github.com/jaywcjlove/reference "jaywcjlove/reference") - ⭐15116 📅2026-05-28 📖面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率 `Dockerfile`
-- [send](https://github.com/timvisee/send "timvisee/send") - ⭐5728 📅2025-07-01 📖mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send `JavaScript` `CSS` `Dockerfile`
-- [lazygit](https://github.com/jesseduffield/lazygit "jesseduffield/lazygit") - ⭐78600 📅2026-05-28 📖simple terminal UI for git commands `Go` `Shell` `Dockerfile`
-- [legado](https://github.com/gedoor/legado "gedoor/legado") - ⭐46928 📅2026-05-27 📖Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验 `Kotlin` `Java` `CSS`
-- [linkwarden](https://github.com/linkwarden/linkwarden "linkwarden/linkwarden") - ⭐18480 📅2026-05-27 📖Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place `TypeScript` `JavaScript` `CSS`
+- [awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn "coracoo/awesome_docker_cn") - ⭐3568 📅2025-12-23 📖上百款可docker部署的项目，包含项目地址、项目部署教程等
+- [reference](https://github.com/jaywcjlove/reference "jaywcjlove/reference") - ⭐15113 📅2026-05-28 📖面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率 `Dockerfile`
+- [send](https://github.com/timvisee/send "timvisee/send") - ⭐5729 📅2025-07-01 📖mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send `JavaScript` `CSS` `Dockerfile`
+- [lazygit](https://github.com/jesseduffield/lazygit "jesseduffield/lazygit") - ⭐78635 📅2026-05-28 📖simple terminal UI for git commands `Go` `Shell` `Dockerfile`
+- [legado](https://github.com/gedoor/legado "gedoor/legado") - ⭐46916 📅2026-05-27 📖Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验 `Kotlin` `Java` `CSS`
+- [linkwarden](https://github.com/linkwarden/linkwarden "linkwarden/linkwarden") - ⭐18483 📅2026-05-27 📖Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place `TypeScript` `JavaScript` `CSS`
 - [ModbusTool](https://github.com/ClassicDIY/ModbusTool "ClassicDIY/ModbusTool") - ⭐967 📅2024-10-02 📖A modbus master and slave test tool with import and export functionality, supports TCP, UDP and RTU `C#`
-- [OpenSpeedy](https://github.com/game1024/OpenSpeedy "game1024/OpenSpeedy") - ⭐15994 📅2026-05-27 📖An open-source game speed modifier `CMake` `C++` `C`
-- [automa](https://github.com/AutomaApp/automa "AutomaApp/automa") - ⭐21359 📅2026-03-02 📖A browser extension for automating your browser by connecting blocks `JavaScript` `CSS` `Vue`
-- [qd](https://github.com/qd-today/qd "qd-today/qd") - ⭐5518 📅2025-08-16 📖QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server `Dockerfile` `Python` `CSS`
-- [qinglong](https://github.com/whyour/qinglong "whyour/qinglong") - ⭐19579 📅2026-05-24 📖支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript `TypeScript` `Shell` `Less`
+- [OpenSpeedy](https://github.com/game1024/OpenSpeedy "game1024/OpenSpeedy") - ⭐16009 📅2026-05-27 📖An open-source game speed modifier `CMake` `C++` `C`
+- [automa](https://github.com/AutomaApp/automa "AutomaApp/automa") - ⭐21365 📅2026-03-02 📖A browser extension for automating your browser by connecting blocks `JavaScript` `CSS` `Vue`
+- [qd](https://github.com/qd-today/qd "qd-today/qd") - ⭐5519 📅2025-08-16 📖QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server `Dockerfile` `Python` `CSS`
+- [qinglong](https://github.com/whyour/qinglong "whyour/qinglong") - ⭐19581 📅2026-05-24 📖支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript `TypeScript` `Shell` `Less`
 - [docker-webtop](https://github.com/linuxserver/docker-webtop "linuxserver/docker-webtop") - ⭐4187 📅2026-05-26 📖Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments `Dockerfile` `Shell`
-- [Radarr](https://github.com/Radarr/Radarr "Radarr/Radarr") - ⭐13693 📅2026-05-28 📖Movie organizer/manager for usenet and torrent users `Shell` `JavaScript` `Inno Setup`
-- [dpanel](https://github.com/donknap/dpanel "donknap/dpanel") - ⭐3980 📅2026-05-19 📖轻量化 docker 可视化管理面板。lightweight  panel for docker `Makefile` `Go` `Shell`
+- [Radarr](https://github.com/Radarr/Radarr "Radarr/Radarr") - ⭐13698 📅2026-05-28 📖Movie organizer/manager for usenet and torrent users `Shell` `JavaScript` `Inno Setup`
+- [dpanel](https://github.com/donknap/dpanel "donknap/dpanel") - ⭐3983 📅2026-05-29 📖轻量化 docker 可视化管理面板。lightweight  panel for docker `Makefile` `Go` `Shell`
 - [image-syncer](https://github.com/AliyunContainerService/image-syncer "AliyunContainerService/image-syncer") - ⭐1015 📅2025-02-05 📖Docker image synchronization tool for Docker Registry V2 based services `Makefile` `Go` `Dockerfile`
 - [winpython](https://github.com/winpython/winpython "winpython/winpython") - ⭐2262 📅2026-05-25 📖A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python `Python` `Batchfile` `C++`
-- [mkdocs](https://github.com/mkdocs/mkdocs "mkdocs/mkdocs") - ⭐22118 📅2025-10-20 📖Project documentation with Markdown `Python` `HTML` `CSS`
-- [docsify](https://github.com/docsifyjs/docsify "docsifyjs/docsify") - ⭐31235 📅2026-05-24 📖A magical documentation site generator `JavaScript` `Shell` `Dockerfile`
-- [OpenList](https://github.com/OpenListTeam/OpenList "OpenListTeam/OpenList") - ⭐22729 📅2026-05-27 📖A new AList Fork to Anti Trust Crisis `Dockerfile` `Shell` `Go`
-- [v2rayNG](https://github.com/2dust/v2rayNG "2dust/v2rayNG") - ⭐57008 📅2026-05-28 📖A V2Ray client for Android, support Xray core and v2fly core `Kotlin` `HTML` `Shell`
-- [pikapika](https://github.com/ComicSparks/pikapika "ComicSparks/pikapika") - ⭐8146 📅2026-03-04 📖A comic browser，support Android / iOS / MacOS / Windows / Linux `Kotlin` `Go` `Shell`
+- [mkdocs](https://github.com/mkdocs/mkdocs "mkdocs/mkdocs") - ⭐22120 📅2025-10-20 📖Project documentation with Markdown `Python` `HTML` `CSS`
+- [docsify](https://github.com/docsifyjs/docsify "docsifyjs/docsify") - ⭐31236 📅2026-05-29 📖A magical documentation site generator `JavaScript` `Shell` `Dockerfile`
+- [OpenList](https://github.com/OpenListTeam/OpenList "OpenListTeam/OpenList") - ⭐22758 📅2026-05-30 📖A new AList Fork to Anti Trust Crisis `Dockerfile` `Shell` `Go`
+- [v2rayNG](https://github.com/2dust/v2rayNG "2dust/v2rayNG") - ⭐57073 📅2026-05-28 📖A V2Ray client for Android, support Xray core and v2fly core `Kotlin` `HTML` `Shell`
+- [pikapika](https://github.com/ComicSparks/pikapika "ComicSparks/pikapika") - ⭐8149 📅2026-03-04 📖A comic browser，support Android / iOS / MacOS / Windows / Linux `Kotlin` `Go` `Shell`
 - [dockerCopilot](https://github.com/onlyLTY/dockerCopilot "onlyLTY/dockerCopilot") - ⭐825 📅2026-01-10 📖一键更新容器 `Dockerfile` `Go` `Shell`
 - [LiteDB](https://github.com/litedb-org/LiteDB "litedb-org/LiteDB") - ⭐9400 📅2026-05-16 📖LiteDB - A .NET NoSQL Document Store in a single data file `C#`
-- [grafana](https://github.com/grafana/grafana "grafana/grafana") - ⭐74021 📅2026-05-29 📖The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more `Shell` `JavaScript` `Go`
-- [prometheus](https://github.com/prometheus/prometheus "prometheus/prometheus") - ⭐64183 📅2026-05-28 📖The Prometheus monitoring system and time series database `Makefile` `Go` `HTML`
-- [influxdb](https://github.com/influxdata/influxdb "influxdata/influxdb") - ⭐31514 📅2026-05-28 📖Scalable datastore for metrics, events, and real-time analytics `Shell` `Rust` `Dockerfile`
-- [redroid-doc](https://github.com/remote-android/redroid-doc "remote-android/redroid-doc") - ⭐6346 📅2026-05-17 📖redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here `Dockerfile` `Shell`
-- [LuaJIT](https://github.com/LuaJIT/LuaJIT "LuaJIT/LuaJIT") - ⭐5562 📅2026-05-24 📖Mirror of the LuaJIT git repository `Makefile` `C` `Lua`
-- [gopher-lua](https://github.com/yuin/gopher-lua "yuin/gopher-lua") - ⭐6917 📅2026-04-01 📖GopherLua: VM and compiler for Lua in Go `Lua` `Go` `Makefile`
-- [upx](https://github.com/upx/upx "upx/upx") - ⭐17533 📅2026-05-28 📖UPX - the Ultimate Packer for eXecutables `Makefile` `C++` `C`
+- [grafana](https://github.com/grafana/grafana "grafana/grafana") - ⭐74046 📅2026-05-30 📖The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more `Shell` `JavaScript` `Go`
+- [prometheus](https://github.com/prometheus/prometheus "prometheus/prometheus") - ⭐64197 📅2026-05-29 📖The Prometheus monitoring system and time series database `Makefile` `Go` `HTML`
+- [influxdb](https://github.com/influxdata/influxdb "influxdata/influxdb") - ⭐31517 📅2026-05-30 📖Scalable datastore for metrics, events, and real-time analytics `Shell` `Rust` `Dockerfile`
+- [redroid-doc](https://github.com/remote-android/redroid-doc "remote-android/redroid-doc") - ⭐6347 📅2026-05-17 📖redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here `Dockerfile` `Shell`
+- [LuaJIT](https://github.com/LuaJIT/LuaJIT "LuaJIT/LuaJIT") - ⭐5561 📅2026-05-29 📖Mirror of the LuaJIT git repository `Makefile` `C` `Lua`
+- [gopher-lua](https://github.com/yuin/gopher-lua "yuin/gopher-lua") - ⭐6918 📅2026-04-01 📖GopherLua: VM and compiler for Lua in Go `Lua` `Go` `Makefile`
+- [upx](https://github.com/upx/upx "upx/upx") - ⭐17538 📅2026-05-29 📖UPX - the Ultimate Packer for eXecutables `Makefile` `C++` `C`
 - [go-bindata](https://github.com/go-bindata/go-bindata "go-bindata/go-bindata") - ⭐1911 📅2024-07-13 📖Turn data file into go code `Makefile` `Go`
-- [vector](https://github.com/vectordotdev/vector "vectordotdev/vector") - ⭐21939 📅2026-05-28 📖A high-performance observability data pipeline `Rust` `Dockerfile` `Shell`
-- [blinko](https://github.com/blinkospace/blinko "blinkospace/blinko") - ⭐10465 📅2026-05-27 📖An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript `TypeScript` `JavaScript` `CSS`
-- [telegraf](https://github.com/influxdata/telegraf "influxdata/telegraf") - ⭐17583 📅2026-05-28 📖Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data `Go` `Shell` `Makefile`
-- [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat "Loyalsoldier/v2ray-rules-dat") - ⭐19884 📅2026-05-28 📖V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf
-- [bl-mt798x](https://github.com/hanwckf/bl-mt798x "hanwckf/bl-mt798x") - ⭐1214 📅2025-09-08 📖ATF and u-boot for mt798x `Shell` `JavaScript` `C++`
-- [vaultwarden](https://github.com/dani-garcia/vaultwarden "dani-garcia/vaultwarden") - ⭐61475 📅2026-05-17 📖Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs `Rust` `Shell` `Makefile`
-- [uptime-kuma](https://github.com/louislam/uptime-kuma "louislam/uptime-kuma") - ⭐87381 📅2026-05-29 📖A fancy self-hosted monitoring tool `HTML` `JavaScript` `Vue`
-- [changedetection.io](https://github.com/dgtlmoon/changedetection.io "dgtlmoon/changedetection.io") - ⭐31754 📅2026-05-28 📖Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan `Python` `Dockerfile` `HTML`
-- [server](https://github.com/gotify/server "gotify/server") - ⭐15042 📅2026-05-28 📖A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui `Go` `Makefile` `HTML`
-- [git](https://github.com/git-for-windows/git "git-for-windows/git") - ⭐9219 📅2026-05-27 📖A fork of Git containing Windows-specific patches `C` `Shell` `C++`
-- [awesome-vscode](https://github.com/viatsko/awesome-vscode "viatsko/awesome-vscode") - ⭐28687 📅2024-06-21 📖A curated list of delightful VS Code packages and resources `JavaScript`
+- [vector](https://github.com/vectordotdev/vector "vectordotdev/vector") - ⭐21942 📅2026-05-30 📖A high-performance observability data pipeline `Rust` `Dockerfile` `Shell`
+- [blinko](https://github.com/blinkospace/blinko "blinkospace/blinko") - ⭐10471 📅2026-05-29 📖An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript `TypeScript` `JavaScript` `CSS`
+- [telegraf](https://github.com/influxdata/telegraf "influxdata/telegraf") - ⭐17587 📅2026-05-29 📖Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data `Go` `Shell` `Makefile`
+- [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat "Loyalsoldier/v2ray-rules-dat") - ⭐19887 📅2026-05-29 📖V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf
+- [bl-mt798x](https://github.com/hanwckf/bl-mt798x "hanwckf/bl-mt798x") - ⭐1215 📅2025-09-08 📖ATF and u-boot for mt798x `Shell` `JavaScript` `C++`
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden "dani-garcia/vaultwarden") - ⭐61539 📅2026-05-17 📖Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs `Rust` `Shell` `Makefile`
+- [uptime-kuma](https://github.com/louislam/uptime-kuma "louislam/uptime-kuma") - ⭐87416 📅2026-05-30 📖A fancy self-hosted monitoring tool `HTML` `JavaScript` `Vue`
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io "dgtlmoon/changedetection.io") - ⭐31765 📅2026-05-29 📖Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan `Python` `Dockerfile` `HTML`
+- [server](https://github.com/gotify/server "gotify/server") - ⭐15043 📅2026-05-30 📖A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui `Go` `Makefile` `HTML`
+- [git](https://github.com/git-for-windows/git "git-for-windows/git") - ⭐9220 📅2026-05-29 📖A fork of Git containing Windows-specific patches `C` `Shell` `C++`
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode "viatsko/awesome-vscode") - ⭐28689 📅2024-06-21 📖A curated list of delightful VS Code packages and resources `JavaScript`
 - [vscode-scl](https://github.com/Gunders89/vscode-scl "Gunders89/vscode-scl") - ⭐40 📅2024-08-15 📖Siemens SCL language support for Visual Studio Code
 - [ini](https://github.com/go-ini/ini "go-ini/ini") - ⭐3539 📅2026-05-03 📖Package ini provides INI file read and write functionality in Go `Go` `Makefile`
-- [Scoop](https://github.com/ScoopInstaller/Scoop "ScoopInstaller/Scoop") - ⭐24198 📅2026-05-03 📖A command-line installer for Windows `PowerShell` `C#`
+- [Scoop](https://github.com/ScoopInstaller/Scoop "ScoopInstaller/Scoop") - ⭐24201 📅2026-05-03 📖A command-line installer for Windows `PowerShell` `C#`
 - [log](https://github.com/charmbracelet/log "charmbracelet/log") - ⭐3274 📅2026-04-22 📖A minimal, colorful Go logging library `Go`
-- [logrus](https://github.com/sirupsen/logrus "sirupsen/logrus") - ⭐25727 📅2026-05-08 📖Structured, pluggable logging for Go `Go`
-- [vhs](https://github.com/charmbracelet/vhs "charmbracelet/vhs") - ⭐19802 📅2026-05-04 📖Your CLI home video recorder `Go` `Dockerfile` `Makefile`
-- [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility "w4po/ExplorerTabUtility") - ⭐2777 📅2025-05-04 📖Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more `C#` `PowerShell` `Inno Setup`
+- [logrus](https://github.com/sirupsen/logrus "sirupsen/logrus") - ⭐25726 📅2026-05-08 📖Structured, pluggable logging for Go `Go`
+- [vhs](https://github.com/charmbracelet/vhs "charmbracelet/vhs") - ⭐19814 📅2026-05-04 📖Your CLI home video recorder `Go` `Dockerfile` `Makefile`
+- [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility "w4po/ExplorerTabUtility") - ⭐2780 📅2025-05-04 📖Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more `C#` `PowerShell` `Inno Setup`
 - [stringy](https://github.com/gobeam/stringy "gobeam/stringy") - ⭐250 📅2025-05-19 📖Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package `Go`
-- [dozzle](https://github.com/amir20/dozzle "amir20/dozzle") - ⭐13094 📅2026-05-29 📖Realtime log viewer for containers.  Supports Docker, Swarm and K8s `Vue` `JavaScript` `Go`
-- [waveterm](https://github.com/wavetermdev/waveterm "wavetermdev/waveterm") - ⭐20890 📅2026-05-27 📖An open-source, AI-integrated, cross-platform terminal for seamless workflows `TypeScript` `HTML` `JavaScript`
+- [dozzle](https://github.com/amir20/dozzle "amir20/dozzle") - ⭐13109 📅2026-05-29 📖Realtime log viewer for containers.  Supports Docker, Swarm and K8s `Vue` `JavaScript` `Go`
+- [waveterm](https://github.com/wavetermdev/waveterm "wavetermdev/waveterm") - ⭐20911 📅2026-05-29 📖An open-source, AI-integrated, cross-platform terminal for seamless workflows `TypeScript` `HTML` `JavaScript`
 - [dcm](https://github.com/ajnart/dcm "ajnart/dcm") - ⭐1432 📅2026-05-16 📖DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks `Dockerfile` `CSS` `TypeScript`
-- [bark-server](https://github.com/Finb/bark-server "Finb/bark-server") - ⭐3457 📅2026-05-21 📖Backend of Bark `Go` `Dockerfile` `Shell`
-- [kutt](https://github.com/thedevs-network/kutt "thedevs-network/kutt") - ⭐10855 📅2026-05-17 📖Free Modern URL Shortener `JavaScript` `HTML` `Dockerfile`
-- [gh-proxy](https://github.com/hunshcn/gh-proxy "hunshcn/gh-proxy") - ⭐8774 📅2025-10-09 📖github release、archive以及项目文件的加速项目 `JavaScript` `Dockerfile` `Python`
-- [rustdesk-api](https://github.com/lejianwen/rustdesk-api "lejianwen/rustdesk-api") - ⭐2882 📅2025-09-29 📖Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login `Batchfile` `Shell` `Go`
-- [stash](https://github.com/stashapp/stash "stashapp/stash") - ⭐12412 📅2026-05-28 📖An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc `Makefile` `Go` `TypeScript`
+- [bark-server](https://github.com/Finb/bark-server "Finb/bark-server") - ⭐3458 📅2026-05-21 📖Backend of Bark `Go` `Dockerfile` `Shell`
+- [kutt](https://github.com/thedevs-network/kutt "thedevs-network/kutt") - ⭐10858 📅2026-05-17 📖Free Modern URL Shortener `JavaScript` `HTML` `Dockerfile`
+- [gh-proxy](https://github.com/hunshcn/gh-proxy "hunshcn/gh-proxy") - ⭐8779 📅2025-10-09 📖github release、archive以及项目文件的加速项目 `JavaScript` `Dockerfile` `Python`
+- [rustdesk-api](https://github.com/lejianwen/rustdesk-api "lejianwen/rustdesk-api") - ⭐2884 📅2025-09-29 📖Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login `Batchfile` `Shell` `Go`
+- [stash](https://github.com/stashapp/stash "stashapp/stash") - ⭐12419 📅2026-05-28 📖An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc `Makefile` `Go` `TypeScript`
 - [mytv-android](https://github.com/yaoxieyoulei/mytv-android "yaoxieyoulei/mytv-android") - ⭐1776 📅2025-09-06 📖使用Android原生开发的视频播放软件 `Kotlin` `HTML`
-- [live](https://github.com/fanmingming/live "fanmingming/live") - ⭐28072 📅2026-05-28 📖可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 `HTML` `JavaScript`
-- [LocalAI](https://github.com/mudler/LocalAI "mudler/LocalAI") - ⭐46519 📅2026-05-28 📖LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required `Go` `Dockerfile` `Makefile`
-- [opengist](https://github.com/thomiceli/opengist "thomiceli/opengist") - ⭐3173 📅2026-05-21 📖Self-hosted pastebin powered by Git, open-source alternative to Github Gist `Dockerfile` `Makefile` `Go`
-- [wiliwili](https://github.com/xfangfang/wiliwili "xfangfang/wiliwili") - ⭐5171 📅2026-04-25 📖第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上 `CMake` `C++` `Shell`
-- [tailwindcss](https://github.com/tailwindlabs/tailwindcss "tailwindlabs/tailwindcss") - ⭐95144 📅2026-05-28 📖A utility-first CSS framework for rapid UI development `JavaScript` `CSS` `HTML`
-- [LibreTV](https://github.com/LibreSpark/LibreTV "LibreSpark/LibreTV") - ⭐13612 📅2025-08-12 📖一分钟搭建影视站，支持Vercel/Docker等部署方式 `CSS` `HTML` `JavaScript`
-- [Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server "Suwayomi/Suwayomi-Server") - ⭐7005 📅2026-05-28 📖A rewrite of Tachiyomi for the Desktop `Kotlin` `Java` `HTML`
-- [extensions](https://github.com/keiyoushi/extensions "keiyoushi/extensions") - ⭐13947 📅2026-05-25 📖Extension repository for Mihon and variants `HTML` `PureBasic`
-- [ofelia](https://github.com/mcuadros/ofelia "mcuadros/ofelia") - ⭐3864 📅2026-05-07 📖A docker job scheduler (aka. crontab for docker `Go` `Makefile` `Dockerfile`
-- [calibre-web](https://github.com/janeczku/calibre-web "janeczku/calibre-web") - ⭐17226 📅2026-05-24 📖books: Web app for browsing, reading and downloading eBooks stored in a Calibre database `Python` `CSS` `JavaScript`
-- [navidrome](https://github.com/navidrome/navidrome "navidrome/navidrome") - ⭐21325 📅2026-05-29 📖Your Personal Streaming Service `Go` `Shell` `Makefile`
-- [music-tag-web](https://github.com/xhongc/music-tag-web "xhongc/music-tag-web") - ⭐5736 📅2026-04-27 📖音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata `Python` `Dockerfile` `HTML`
-- [caddy](https://github.com/caddyserver/caddy "caddyserver/caddy") - ⭐72809 📅2026-05-28 📖Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS `Go` `Shell` `HTML`
-- [windhawk](https://github.com/ramensoftware/windhawk "ramensoftware/windhawk") - ⭐7987 📅2025-12-08 📖The customization marketplace for Windows programs: https://windhawk.net `TypeScript` `CSS` `Less`
+- [live](https://github.com/fanmingming/live "fanmingming/live") - ⭐28076 📅2026-05-29 📖可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 `HTML` `JavaScript`
+- [LocalAI](https://github.com/mudler/LocalAI "mudler/LocalAI") - ⭐46536 📅2026-05-29 📖LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required `Go` `Dockerfile` `Makefile`
+- [opengist](https://github.com/thomiceli/opengist "thomiceli/opengist") - ⭐3176 📅2026-05-21 📖Self-hosted pastebin powered by Git, open-source alternative to Github Gist `Dockerfile` `Makefile` `Go`
+- [wiliwili](https://github.com/xfangfang/wiliwili "xfangfang/wiliwili") - ⭐5174 📅2026-04-25 📖第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上 `CMake` `C++` `Shell`
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss "tailwindlabs/tailwindcss") - ⭐95153 📅2026-05-29 📖A utility-first CSS framework for rapid UI development `JavaScript` `CSS` `HTML`
+- [LibreTV](https://github.com/LibreSpark/LibreTV "LibreSpark/LibreTV") - ⭐13611 📅2025-08-12 📖一分钟搭建影视站，支持Vercel/Docker等部署方式 `CSS` `HTML` `JavaScript`
+- [Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server "Suwayomi/Suwayomi-Server") - ⭐7009 📅2026-05-29 📖A rewrite of Tachiyomi for the Desktop `Kotlin` `Java` `HTML`
+- [extensions](https://github.com/keiyoushi/extensions "keiyoushi/extensions") - ⭐13945 📅2026-05-29 📖Extension repository for Mihon and variants `HTML` `PureBasic`
+- [ofelia](https://github.com/mcuadros/ofelia "mcuadros/ofelia") - ⭐3866 📅2026-05-29 📖A docker job scheduler (aka. crontab for docker `Go` `Makefile` `Dockerfile`
+- [calibre-web](https://github.com/janeczku/calibre-web "janeczku/calibre-web") - ⭐17232 📅2026-05-24 📖books: Web app for browsing, reading and downloading eBooks stored in a Calibre database `Python` `CSS` `JavaScript`
+- [navidrome](https://github.com/navidrome/navidrome "navidrome/navidrome") - ⭐21339 📅2026-05-29 📖Your Personal Streaming Service `Go` `Shell` `Makefile`
+- [music-tag-web](https://github.com/xhongc/music-tag-web "xhongc/music-tag-web") - ⭐5737 📅2026-04-27 📖音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata `Python` `Dockerfile` `HTML`
+- [caddy](https://github.com/caddyserver/caddy "caddyserver/caddy") - ⭐72837 📅2026-05-29 📖Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS `Go` `Shell` `HTML`
+- [windhawk](https://github.com/ramensoftware/windhawk "ramensoftware/windhawk") - ⭐7996 📅2025-12-08 📖The customization marketplace for Windows programs: https://windhawk.net `TypeScript` `CSS` `Less`
 - [go-licenses](https://github.com/google/go-licenses "google/go-licenses") - ⭐996 📅2026-05-22 📖A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time `Go` `Dockerfile` `Makefile`
-- [zap](https://github.com/uber-go/zap "uber-go/zap") - ⭐24479 📅2026-04-28 📖Blazing fast, structured, leveled logging in Go `Makefile` `Go` `Shell`
-- [fd](https://github.com/sharkdp/fd "sharkdp/fd") - ⭐43149 📅2026-05-28 📖A simple, fast and user-friendly alternative to 'find `Rust` `Shell` `Makefile`
-- [modern-go-application](https://github.com/sagikazarmark/modern-go-application "sagikazarmark/modern-go-application") - ⭐1946 📅2024-11-01 📖Modern Go Application example `Dockerfile` `Makefile` `Go`
-- [gofumpt](https://github.com/mvdan/gofumpt "mvdan/gofumpt") - ⭐3995 📅2026-05-04 📖A stricter gofmt `Go`
-- [wire](https://github.com/google/wire "google/wire") - ⭐14393 📅2025-08-22 📖Compile-time Dependency Injection for Go `Go` `Shell`
-- [svelte](https://github.com/sveltejs/svelte "sveltejs/svelte") - ⭐86653 📅2026-05-28 📖web development for the rest of us `JavaScript` `TypeScript` `Svelte`
-- [release-please](https://github.com/googleapis/release-please "googleapis/release-please") - ⭐6955 📅2026-05-28 📖generate release PRs based on the conventionalcommits.org spec `TypeScript` `JavaScript` `Python`
-- [godotenv](https://github.com/joho/godotenv "joho/godotenv") - ⭐10441 📅2026-05-25 📖A Go port of Ruby's dotenv library (Loads environment variables from .env files `Go`
-- [github-local-actions](https://github.com/SanjulaGanepola/github-local-actions "SanjulaGanepola/github-local-actions") - ⭐753 📅2025-04-05 📖Run your GitHub Actions locally in VS Code `JavaScript` `TypeScript`
-- [act](https://github.com/nektos/act "nektos/act") - ⭐70531 📅2026-05-19 📖Run your GitHub Actions locally `Shell` `Makefile` `Go`
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat "Raphire/Win11Debloat") - ⭐46845 📅2026-05-28 📖A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11 `PowerShell` `Batchfile`
+- [zap](https://github.com/uber-go/zap "uber-go/zap") - ⭐24482 📅2026-04-28 📖Blazing fast, structured, leveled logging in Go `Makefile` `Go` `Shell`
+- [fd](https://github.com/sharkdp/fd "sharkdp/fd") - ⭐43156 📅2026-05-28 📖A simple, fast and user-friendly alternative to 'find `Rust` `Shell` `Makefile`
+- [modern-go-application](https://github.com/sagikazarmark/modern-go-application "sagikazarmark/modern-go-application") - ⭐1947 📅2024-11-01 📖Modern Go Application example `Dockerfile` `Makefile` `Go`
+- [gofumpt](https://github.com/mvdan/gofumpt "mvdan/gofumpt") - ⭐3996 📅2026-05-04 📖A stricter gofmt `Go`
+- [wire](https://github.com/google/wire "google/wire") - ⭐14396 📅2025-08-22 📖Compile-time Dependency Injection for Go `Go` `Shell`
+- [svelte](https://github.com/sveltejs/svelte "sveltejs/svelte") - ⭐86659 📅2026-05-29 📖web development for the rest of us `JavaScript` `TypeScript` `Svelte`
+- [release-please](https://github.com/googleapis/release-please "googleapis/release-please") - ⭐6959 📅2026-05-29 📖generate release PRs based on the conventionalcommits.org spec `TypeScript` `JavaScript` `Python`
+- [godotenv](https://github.com/joho/godotenv "joho/godotenv") - ⭐10443 📅2026-05-25 📖A Go port of Ruby's dotenv library (Loads environment variables from .env files `Go`
+- [github-local-actions](https://github.com/SanjulaGanepola/github-local-actions "SanjulaGanepola/github-local-actions") - ⭐754 📅2025-04-05 📖Run your GitHub Actions locally in VS Code `JavaScript` `TypeScript`
+- [act](https://github.com/nektos/act "nektos/act") - ⭐70543 📅2026-05-19 📖Run your GitHub Actions locally `Shell` `Makefile` `Go`
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat "Raphire/Win11Debloat") - ⭐46891 📅2026-05-28 📖A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11 `PowerShell` `Batchfile`
 - [github-issue-templates](https://github.com/stevemao/github-issue-templates "stevemao/github-issue-templates") - ⭐4435 📅2024-03-20 📖A collection of GitHub issue, pull request and security templates
-- [gitignore](https://github.com/github/gitignore "github/gitignore") - ⭐174136 📅2026-05-21 📖A collection of useful .gitignore templates
-- [commitlint](https://github.com/conventional-changelog/commitlint "conventional-changelog/commitlint") - ⭐18560 📅2026-05-28 📖Lint commit messages `JavaScript` `TypeScript`
-- [wails](https://github.com/wailsapp/wails "wailsapp/wails") - ⭐34495 📅2026-05-29 📖Create beautiful applications using Go `Go` `JavaScript` `HTML`
-- [fyne](https://github.com/fyne-io/fyne "fyne-io/fyne") - ⭐28319 📅2026-05-27 📖Cross platform GUI toolkit in Go inspired by Material Design `Go` `Objective-C` `C`
+- [gitignore](https://github.com/github/gitignore "github/gitignore") - ⭐174148 📅2026-05-21 📖A collection of useful .gitignore templates
+- [commitlint](https://github.com/conventional-changelog/commitlint "conventional-changelog/commitlint") - ⭐18561 📅2026-05-29 📖Lint commit messages `JavaScript` `TypeScript`
+- [wails](https://github.com/wailsapp/wails "wailsapp/wails") - ⭐34521 📅2026-05-30 📖Create beautiful applications using Go `Go` `JavaScript` `HTML`
+- [fyne](https://github.com/fyne-io/fyne "fyne-io/fyne") - ⭐28321 📅2026-05-29 📖Cross platform GUI toolkit in Go inspired by Material Design `Go` `Objective-C` `C`
 - [qt](https://github.com/therecipe/qt "therecipe/qt") - ⭐10793 📅2024-03-04 📖Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly `Go` `C++` `C`
-- [gnet](https://github.com/panjf2000/gnet "panjf2000/gnet") - ⭐11163 📅2026-05-25 📖gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go `Go`
-- [WindTerm](https://github.com/kingToolbox/WindTerm "kingToolbox/WindTerm") - ⭐31136 📅2025-03-11 📖A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal `Shell` `Makefile` `C`
+- [gnet](https://github.com/panjf2000/gnet "panjf2000/gnet") - ⭐11162 📅2026-05-25 📖gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go `Go`
+- [WindTerm](https://github.com/kingToolbox/WindTerm "kingToolbox/WindTerm") - ⭐31149 📅2025-03-11 📖A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal `Shell` `Makefile` `C`
 - [SerialTest](https://github.com/wh201906/SerialTest "wh201906/SerialTest") - ⭐1595 📅2024-06-17 📖Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用 `QMake` `C++` `Java`
-- [handsontable](https://github.com/handsontable/handsontable "handsontable/handsontable") - ⭐21907 📅2026-05-28 📖JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team `CSS` `JavaScript` `TypeScript`
-- [MyIP](https://github.com/jason5ng32/MyIP "jason5ng32/MyIP") - ⭐10588 📅2026-05-28 📖The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more `HTML` `JavaScript` `CSS`
-- [drawdb](https://github.com/drawdb-io/drawdb "drawdb-io/drawdb") - ⭐37314 📅2026-05-28 📖Free, simple, and intuitive online database diagram editor and SQL generator `HTML` `JavaScript` `CSS`
-- [Sandboxie](https://github.com/sandboxie-plus/Sandboxie "sandboxie-plus/Sandboxie") - ⭐18455 📅2026-05-26 📖Sandboxie Plus & Classic `C++` `C` `Assembly`
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch "hoppscotch/hoppscotch") - ⭐79342 📅2026-05-28 📖Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia `JavaScript` `Vue` `Dockerfile`
-- [windows](https://github.com/dockur/windows "dockur/windows") - ⭐51536 📅2026-05-19 📖Windows inside a Docker container `Dockerfile` `Shell`
+- [handsontable](https://github.com/handsontable/handsontable "handsontable/handsontable") - ⭐21907 📅2026-05-29 📖JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team `CSS` `JavaScript` `TypeScript`
+- [MyIP](https://github.com/jason5ng32/MyIP "jason5ng32/MyIP") - ⭐10593 📅2026-05-30 📖The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more `HTML` `JavaScript` `CSS`
+- [drawdb](https://github.com/drawdb-io/drawdb "drawdb-io/drawdb") - ⭐37316 📅2026-05-29 📖Free, simple, and intuitive online database diagram editor and SQL generator `HTML` `JavaScript` `CSS`
+- [Sandboxie](https://github.com/sandboxie-plus/Sandboxie "sandboxie-plus/Sandboxie") - ⭐18461 📅2026-05-26 📖Sandboxie Plus & Classic `C++` `C` `Assembly`
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch "hoppscotch/hoppscotch") - ⭐79352 📅2026-05-28 📖Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia `JavaScript` `Vue` `Dockerfile`
+- [windows](https://github.com/dockur/windows "dockur/windows") - ⭐51542 📅2026-05-29 📖Windows inside a Docker container `Dockerfile` `Shell`
 - [sokit](https://github.com/sinpolib/sokit "sinpolib/sokit") - ⭐1290 📅2022-08-11 📖Sokit is a TCP & UDP package send / receive / transfer tool `QMake` `C++` `C`
-- [tailscale](https://github.com/tailscale/tailscale "tailscale/tailscale") - ⭐31995 📅2026-05-29 📖The easiest, most secure way to use WireGuard and 2FA `Go` `Shell` `Dockerfile`
+- [tailscale](https://github.com/tailscale/tailscale "tailscale/tailscale") - ⭐32017 📅2026-05-30 📖The easiest, most secure way to use WireGuard and 2FA `Go` `Shell` `Dockerfile`
 - [cicada](https://github.com/mebtte/cicada "mebtte/cicada") - ⭐1102 📅2026-05-28 📖A multi-user music service for self-hosting `JavaScript` `TypeScript` `HTML`
 - [supervisord](https://github.com/ochinchina/supervisord "ochinchina/supervisord") - ⭐4253 📅2025-06-10 📖a go-lang supervisor implementation `Go` `Dockerfile` `HTML`
-- [sftpgo](https://github.com/drakkan/sftpgo "drakkan/sftpgo") - ⭐12105 📅2026-05-23 📖Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob `Go` `Dockerfile` `Shell`
+- [sftpgo](https://github.com/drakkan/sftpgo "drakkan/sftpgo") - ⭐12110 📅2026-05-23 📖Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob `Go` `Dockerfile` `Shell`
 - [chsrc](https://github.com/RubyMetric/chsrc "RubyMetric/chsrc") - ⭐6745 📅2026-05-22 📖chsrc 全平台通用换源工具与框架. Change Source everywhere for every software `Makefile` `C` `PowerShell`
-- [mkcert](https://github.com/FiloSottile/mkcert "FiloSottile/mkcert") - ⭐58963 📅2024-08-13 📖A simple zero-config tool to make locally trusted development certificates with any names you'd like `Go`
-- [gotty](https://github.com/yudai/gotty "yudai/gotty") - ⭐19480 📅2024-08-01 📖Share your terminal as a web application `Makefile` `Go` `JavaScript`
-- [Macast](https://github.com/xfangfang/Macast "xfangfang/Macast") - ⭐6849 📅2023-01-26 📖Macast is a cross-platform application which using mpv as DLNA Media Renderer `Python` `Dockerfile` `HTML`
-- [ImHex](https://github.com/WerWolv/ImHex "WerWolv/ImHex") - ⭐53704 📅2026-05-29 📖A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM `CMake` `C++` `GLSL`
-- [ollama](https://github.com/ollama/ollama "ollama/ollama") - ⭐172541 📅2026-05-28 📖Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models `TypeScript` `JavaScript` `CSS`
-- [HD-Icons](https://github.com/xushier/HD-Icons "xushier/HD-Icons") - ⭐1865 📅2026-02-05 📖高清仪表盘图标（1024x1024 分辨率 `Python`
-- [Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch "XITRIX/Moonlight-Switch") - ⭐1519 📅2026-05-28 📖Moonlight port for Nintendo Switch `Makefile` `C++` `C`
+- [mkcert](https://github.com/FiloSottile/mkcert "FiloSottile/mkcert") - ⭐58976 📅2024-08-13 📖A simple zero-config tool to make locally trusted development certificates with any names you'd like `Go`
+- [gotty](https://github.com/yudai/gotty "yudai/gotty") - ⭐19479 📅2024-08-01 📖Share your terminal as a web application `Makefile` `Go` `JavaScript`
+- [Macast](https://github.com/xfangfang/Macast "xfangfang/Macast") - ⭐6848 📅2023-01-26 📖Macast is a cross-platform application which using mpv as DLNA Media Renderer `Python` `Dockerfile` `HTML`
+- [ImHex](https://github.com/WerWolv/ImHex "WerWolv/ImHex") - ⭐53715 📅2026-05-30 📖A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM `CMake` `C++` `GLSL`
+- [ollama](https://github.com/ollama/ollama "ollama/ollama") - ⭐172621 📅2026-05-29 📖Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models `TypeScript` `JavaScript` `CSS`
+- [HD-Icons](https://github.com/xushier/HD-Icons "xushier/HD-Icons") - ⭐1866 📅2026-02-05 📖高清仪表盘图标（1024x1024 分辨率 `Python`
+- [Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch "XITRIX/Moonlight-Switch") - ⭐1520 📅2026-05-28 📖Moonlight port for Nintendo Switch `Makefile` `C++` `C`
 - [yet-another-bench-script](https://github.com/masonr/yet-another-bench-script "masonr/yet-another-bench-script") - ⭐6446 📅2026-05-12 📖YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench `Shell`
-- [server](https://github.com/screego/server "screego/server") - ⭐10387 📅2026-05-13 📖screen sharing for developers https://screego.net `HTML` `CSS` `TypeScript`
-- [nocodb](https://github.com/nocodb/nocodb "nocodb/nocodb") - ⭐63141 📅2026-05-29 📖A Free & Self-hostable Airtable Alternative `JavaScript` `Shell` `TypeScript`
-- [lossless-cut](https://github.com/mifi/lossless-cut "mifi/lossless-cut") - ⭐40754 📅2026-05-28 📖The swiss army knife of lossless video/audio editing `JavaScript` `CSS` `HTML`
-- [genact](https://github.com/svenstaro/genact "svenstaro/genact") - ⭐12064 📅2026-05-01 📖A nonsense activity generator `Makefile` `Rust` `HTML`
-- [syncthing](https://github.com/syncthing/syncthing "syncthing/syncthing") - ⭐84710 📅2026-05-27 📖Open Source Continuous File Synchronization `Go` `Shell` `CSS`
-- [rclone](https://github.com/rclone/rclone "rclone/rclone") - ⭐57452 📅2026-05-28 📖rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files `Makefile` `Shell` `Go`
-- [TrollStore](https://github.com/opa334/TrollStore "opa334/TrollStore") - ⭐21467 📅2026-04-01 📖Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple `Objective-C` `Makefile` `C`
-- [iptv-api](https://github.com/Guovin/iptv-api "Guovin/iptv-api") - ⭐23934 📅2026-05-16 📖IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform `Python` `Dockerfile` `Shell`
-- [maple-font](https://github.com/subframe7536/maple-font "subframe7536/maple-font") - ⭐26234 📅2026-04-05 📖Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 `Python` `Dockerfile`
-- [TVBoxOSC](https://github.com/j4Uq/TVBoxOSC "j4Uq/TVBoxOSC") - ⭐16706 📅2026-03-24 📖
-- [sub-web](https://github.com/CareyWang/sub-web "CareyWang/sub-web") - ⭐6348 📅2026-01-12 📖 `JavaScript` `HTML` `Vue`
-- [bash-oo-framework](https://github.com/niieani/bash-oo-framework "niieani/bash-oo-framework") - ⭐5622 📅2023-12-15 📖Bash Infinity is a modern standard library / framework / boilerplate for Bash `Shell`
-- [starship](https://github.com/starship/starship "starship/starship") - ⭐57795 📅2026-05-28 📖The minimal, blazing-fast, and infinitely customizable prompt for any shell `Rust` `Shell` `PowerShell`
-- [bat](https://github.com/sharkdp/bat "sharkdp/bat") - ⭐59067 📅2026-05-20 📖A cat(1) clone with wings `Rust` `Shell` `Batchfile`
+- [server](https://github.com/screego/server "screego/server") - ⭐10388 📅2026-05-13 📖screen sharing for developers https://screego.net `HTML` `CSS` `TypeScript`
+- [nocodb](https://github.com/nocodb/nocodb "nocodb/nocodb") - ⭐63147 📅2026-05-29 📖A Free & Self-hostable Airtable Alternative `JavaScript` `Shell` `TypeScript`
+- [lossless-cut](https://github.com/mifi/lossless-cut "mifi/lossless-cut") - ⭐40772 📅2026-05-29 📖The swiss army knife of lossless video/audio editing `JavaScript` `CSS` `HTML`
+- [genact](https://github.com/svenstaro/genact "svenstaro/genact") - ⭐12070 📅2026-05-01 📖A nonsense activity generator `Makefile` `Rust` `HTML`
+- [syncthing](https://github.com/syncthing/syncthing "syncthing/syncthing") - ⭐84737 📅2026-05-27 📖Open Source Continuous File Synchronization `Go` `Shell` `CSS`
+- [rclone](https://github.com/rclone/rclone "rclone/rclone") - ⭐57462 📅2026-05-29 📖rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files `Makefile` `Shell` `Go`
+- [TrollStore](https://github.com/opa334/TrollStore "opa334/TrollStore") - ⭐21473 📅2026-04-01 📖Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple `Objective-C` `Makefile` `C`
+- [iptv-api](https://github.com/Guovin/iptv-api "Guovin/iptv-api") - ⭐23941 📅2026-05-16 📖IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform `Python` `Dockerfile` `Shell`
+- [maple-font](https://github.com/subframe7536/maple-font "subframe7536/maple-font") - ⭐26261 📅2026-04-05 📖Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 `Python` `Dockerfile`
+- [TVBoxOSC](https://github.com/j4Uq/TVBoxOSC "j4Uq/TVBoxOSC") - ⭐16709 📅2026-03-24 📖
+- [sub-web](https://github.com/CareyWang/sub-web "CareyWang/sub-web") - ⭐6353 📅2026-01-12 📖 `JavaScript` `HTML` `Vue`
+- [bash-oo-framework](https://github.com/niieani/bash-oo-framework "niieani/bash-oo-framework") - ⭐5623 📅2023-12-15 📖Bash Infinity is a modern standard library / framework / boilerplate for Bash `Shell`
+- [starship](https://github.com/starship/starship "starship/starship") - ⭐57821 📅2026-05-29 📖The minimal, blazing-fast, and infinitely customizable prompt for any shell `Rust` `Shell` `PowerShell`
+- [bat](https://github.com/sharkdp/bat "sharkdp/bat") - ⭐59077 📅2026-05-20 📖A cat(1) clone with wings `Rust` `Shell` `Batchfile`
 - [basher](https://github.com/basherpm/basher "basherpm/basher") - ⭐1283 📅2025-11-18 📖A package manager for shell scripts `Shell` `Makefile` `Dockerfile`
-- [keep](https://github.com/keephq/keep "keephq/keep") - ⭐11878 📅2026-05-28 📖The open-source AIOps and alert management platform `Python` `TypeScript` `CSS`
-- [reader](https://github.com/hectorqin/reader "hectorqin/reader") - ⭐11029 📅2026-04-20 📖阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬 `Dockerfile` `Kotlin` `JavaScript`
-- [Ventoy](https://github.com/ventoy/Ventoy "ventoy/Ventoy") - ⭐76900 📅2026-05-07 📖A new bootable USB solution `C` `Shell` `Assembly`
-- [dasel](https://github.com/TomWright/dasel "TomWright/dasel") - ⭐7956 📅2026-05-22 📖Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV `Go` `Dockerfile`
-- [rufus](https://github.com/pbatard/rufus "pbatard/rufus") - ⭐36224 📅2026-05-18 📖The Reliable USB Formatting Utility `Shell` `C` `Assembly`
-- [mermaid](https://github.com/mermaid-js/mermaid "mermaid-js/mermaid") - ⭐88323 📅2026-05-28 📖Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown `JavaScript` `Yacc` `HTML`
-- [layui](https://github.com/layui/layui "layui/layui") - ⭐30537 📅2026-05-27 📖一套遵循浏览器原生态开发模式的 Web UI 组件库 `JavaScript` `CSS` `HTML`
+- [keep](https://github.com/keephq/keep "keephq/keep") - ⭐11879 📅2026-05-28 📖The open-source AIOps and alert management platform `Python` `TypeScript` `CSS`
+- [reader](https://github.com/hectorqin/reader "hectorqin/reader") - ⭐11031 📅2026-04-20 📖阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬 `Dockerfile` `Kotlin` `JavaScript`
+- [Ventoy](https://github.com/ventoy/Ventoy "ventoy/Ventoy") - ⭐76916 📅2026-05-07 📖A new bootable USB solution `C` `Shell` `Assembly`
+- [dasel](https://github.com/TomWright/dasel "TomWright/dasel") - ⭐7957 📅2026-05-22 📖Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV `Go` `Dockerfile`
+- [rufus](https://github.com/pbatard/rufus "pbatard/rufus") - ⭐36237 📅2026-05-18 📖The Reliable USB Formatting Utility `Shell` `C` `Assembly`
+- [mermaid](https://github.com/mermaid-js/mermaid "mermaid-js/mermaid") - ⭐88344 📅2026-05-29 📖Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown `JavaScript` `Yacc` `HTML`
+- [layui](https://github.com/layui/layui "layui/layui") - ⭐30538 📅2026-05-29 📖一套遵循浏览器原生态开发模式的 Web UI 组件库 `JavaScript` `CSS` `HTML`
 - [go-toml](https://github.com/pelletier/go-toml "pelletier/go-toml") - ⭐1940 📅2026-05-01 📖Go library for the TOML file format `Shell` `Go` `Dockerfile`
 - [rustdesk-api-server](https://github.com/kingmo888/rustdesk-api-server "kingmo888/rustdesk-api-server") - ⭐1567 📅2024-09-25 📖基于Django的RustDesk Api&Web Server，除了支持api所有功能，还支持web注册、管理、展示等。已支持到最新1.3.1版本 `Python` `Dockerfile` `Shell`
 - [githubv4](https://github.com/shurcooL/githubv4 "shurcooL/githubv4") - ⭐1189 📅2026-02-09 📖Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql `Go`
-- [gjson](https://github.com/tidwall/gjson "tidwall/gjson") - ⭐15502 📅2026-05-14 📖Get JSON values quickly - JSON parser for Go `Go`
+- [gjson](https://github.com/tidwall/gjson "tidwall/gjson") - ⭐15503 📅2026-05-14 📖Get JSON values quickly - JSON parser for Go `Go`
 - [jsonparser](https://github.com/buger/jsonparser "buger/jsonparser") - ⭐5630 📅2026-05-03 📖One of the fastest alternative JSON parser for Go that does not require schema `Makefile` `Go` `Dockerfile`
-- [genqlient](https://github.com/Khan/genqlient "Khan/genqlient") - ⭐1311 📅2026-05-27 📖a truly type-safe Go GraphQL client `Go` `Makefile` `Go Template`
-- [awesome-go](https://github.com/avelino/awesome-go "avelino/awesome-go") - ⭐173901 📅2026-05-28 📖A curated list of awesome Go frameworks, libraries and software `Go`
+- [genqlient](https://github.com/Khan/genqlient "Khan/genqlient") - ⭐1310 📅2026-05-27 📖a truly type-safe Go GraphQL client `Go` `Makefile` `Go Template`
+- [awesome-go](https://github.com/avelino/awesome-go "avelino/awesome-go") - ⭐173995 📅2026-05-28 📖A curated list of awesome Go frameworks, libraries and software `Go`
 - [seed](https://github.com/golang-templates/seed "golang-templates/seed") - ⭐558 📅2026-05-24 📖Go application GitHub repository template `Go` `Makefile` `Dockerfile`
 - [goldmark](https://github.com/yuin/goldmark "yuin/goldmark") - ⭐4817 📅2026-03-25 📖trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured `Makefile` `Go` `C`
 - [graphql](https://github.com/graphql-go/graphql "graphql-go/graphql") - ⭐10154 📅2025-12-27 📖An implementation of GraphQL for Go / Golang `Go`
-- [project-layout](https://github.com/golang-standards/project-layout "golang-standards/project-layout") - ⭐56036 📅2026-04-28 📖Standard Go Project Layout `Makefile`
+- [project-layout](https://github.com/golang-standards/project-layout "golang-standards/project-layout") - ⭐56040 📅2026-04-28 📖Standard Go Project Layout `Makefile`
 - [viper](https://github.com/spf13/viper "spf13/viper") - ⭐30268 📅2026-01-12 📖Go configuration with fangs `Go` `Makefile` `Nix`
-- [cli](https://github.com/urfave/cli "urfave/cli") - ⭐24095 📅2026-05-28 📖A declarative, simple, fast, and fun package for building command line tools in Go `Go` `Makefile` `PowerShell`
-- [awesome-tuis](https://github.com/rothgar/awesome-tuis "rothgar/awesome-tuis") - ⭐19092 📅2026-05-29 📖List of projects that provide terminal user interfaces
-- [yazi](https://github.com/sxyazi/yazi "sxyazi/yazi") - ⭐38706 📅2026-05-28 📖Blazing fast terminal file manager written in Rust, based on async I/O `Rust` `Shell` `Nix`
-- [cobra](https://github.com/spf13/cobra "spf13/cobra") - ⭐44004 📅2026-04-25 📖A Commander for modern Go CLI interactions `Go` `Makefile`
-- [lancet](https://github.com/duke-git/lancet "duke-git/lancet") - ⭐5290 📅2026-03-07 📖A comprehensive, efficient, and reusable util function library of Go `Go`
-- [go-tools](https://github.com/dominikh/go-tools "dominikh/go-tools") - ⭐6805 📅2026-05-24 📖Staticcheck - The advanced Go linter `Go` `Emacs Lisp` `Shell`
-- [bubbletea](https://github.com/charmbracelet/bubbletea "charmbracelet/bubbletea") - ⭐42754 📅2026-05-18 📖A powerful little TUI framework `Go`
-- [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx "paperless-ngx/paperless-ngx") - ⭐41679 📅2026-05-29 📖A community-supported supercharged document management system: scan, index and archive all your documents `CSS` `HTML` `JavaScript`
-- [v2rayN](https://github.com/2dust/v2rayN "2dust/v2rayN") - ⭐107164 📅2026-05-29 📖A GUI client for Windows, Linux and macOS, support Xray and sing-box and others `C#` `Shell`
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template "othneildrew/Best-README-Template") - ⭐16086 📅2026-04-18 📖An awesome README template to jumpstart your projects
-- [excalidraw](https://github.com/excalidraw/excalidraw "excalidraw/excalidraw") - ⭐124215 📅2026-05-25 📖Virtual whiteboard for sketching hand-drawn like diagrams `HTML` `TypeScript` `JavaScript`
-- [localsend](https://github.com/localsend/localsend "localsend/localsend") - ⭐82307 📅2026-04-30 📖An open-source cross-platform alternative to AirDrop `Kotlin` `Swift` `Objective-C`
-- [FileCodeBox](https://github.com/vastsa/FileCodeBox "vastsa/FileCodeBox") - ⭐8298 📅2026-02-27 📖文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files `Dockerfile` `Python`
-- [neko](https://github.com/m1k1o/neko "m1k1o/neko") - ⭐21004 📅2026-05-08 📖A self hosted virtual browser that runs in docker and uses WebRTC `Dockerfile` `Shell` `HTML`
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS "RVC-Boss/GPT-SoVITS") - ⭐58152 📅2026-04-30 📖1 min voice data can also be used to train a good TTS model! (few shot voice cloning `Python` `Batchfile` `Shell`
-- [UpSnap](https://github.com/seriousm4x/UpSnap "seriousm4x/UpSnap") - ⭐5726 📅2026-05-26 📖A simple wake on lan web app written with SvelteKit, Go and PocketBase `HTML` `JavaScript` `Svelte`
+- [cli](https://github.com/urfave/cli "urfave/cli") - ⭐24097 📅2026-05-28 📖A declarative, simple, fast, and fun package for building command line tools in Go `Go` `Makefile` `PowerShell`
+- [awesome-tuis](https://github.com/rothgar/awesome-tuis "rothgar/awesome-tuis") - ⭐19108 📅2026-05-29 📖List of projects that provide terminal user interfaces
+- [yazi](https://github.com/sxyazi/yazi "sxyazi/yazi") - ⭐38799 📅2026-05-29 📖Blazing fast terminal file manager written in Rust, based on async I/O `Rust` `Shell` `Nix`
+- [cobra](https://github.com/spf13/cobra "spf13/cobra") - ⭐44020 📅2026-04-25 📖A Commander for modern Go CLI interactions `Go` `Makefile`
+- [lancet](https://github.com/duke-git/lancet "duke-git/lancet") - ⭐5291 📅2026-03-07 📖A comprehensive, efficient, and reusable util function library of Go `Go`
+- [go-tools](https://github.com/dominikh/go-tools "dominikh/go-tools") - ⭐6806 📅2026-05-24 📖Staticcheck - The advanced Go linter `Go` `Emacs Lisp` `Shell`
+- [bubbletea](https://github.com/charmbracelet/bubbletea "charmbracelet/bubbletea") - ⭐42772 📅2026-05-18 📖A powerful little TUI framework `Go`
+- [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx "paperless-ngx/paperless-ngx") - ⭐41716 📅2026-05-30 📖A community-supported supercharged document management system: scan, index and archive all your documents `CSS` `HTML` `JavaScript`
+- [v2rayN](https://github.com/2dust/v2rayN "2dust/v2rayN") - ⭐107256 📅2026-05-29 📖A GUI client for Windows, Linux and macOS, support Xray and sing-box and others `C#` `Shell`
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template "othneildrew/Best-README-Template") - ⭐16089 📅2026-04-18 📖An awesome README template to jumpstart your projects
+- [excalidraw](https://github.com/excalidraw/excalidraw "excalidraw/excalidraw") - ⭐124262 📅2026-05-25 📖Virtual whiteboard for sketching hand-drawn like diagrams `HTML` `TypeScript` `JavaScript`
+- [localsend](https://github.com/localsend/localsend "localsend/localsend") - ⭐82357 📅2026-04-30 📖An open-source cross-platform alternative to AirDrop `Kotlin` `Swift` `Objective-C`
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox "vastsa/FileCodeBox") - ⭐8299 📅2026-02-27 📖文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files `Dockerfile` `Python`
+- [neko](https://github.com/m1k1o/neko "m1k1o/neko") - ⭐21014 📅2026-05-08 📖A self hosted virtual browser that runs in docker and uses WebRTC `Dockerfile` `Shell` `HTML`
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS "RVC-Boss/GPT-SoVITS") - ⭐58190 📅2026-04-30 📖1 min voice data can also be used to train a good TTS model! (few shot voice cloning `Python` `Batchfile` `Shell`
+- [UpSnap](https://github.com/seriousm4x/UpSnap "seriousm4x/UpSnap") - ⭐5734 📅2026-05-26 📖A simple wake on lan web app written with SvelteKit, Go and PocketBase `HTML` `JavaScript` `Svelte`
 - [Picsur](https://github.com/CaramelFur/Picsur "CaramelFur/Picsur") - ⭐1237 📅2025-10-12 📖An easy to use, selfhostable image sharing service like Imgur with built in converting `JavaScript` `TypeScript` `HTML`
-- [immich](https://github.com/immich-app/immich "immich-app/immich") - ⭐102157 📅2026-05-28 📖High performance self-hosted photo and video management solution `HTML` `Makefile` `Shell`
-- [hello-algo](https://github.com/krahets/hello-algo "krahets/hello-algo") - ⭐126458 📅2026-04-18 📖Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 `Java` `C++` `Python`
-- [my-tv](https://github.com/lizongying/my-tv "lizongying/my-tv") - ⭐32090 📅2024-06-20 📖我的电视 电视直播软件，安装即可使用 `Kotlin` `CMake` `Makefile`
-- [halo](https://github.com/halo-dev/halo "halo-dev/halo") - ⭐38807 📅2026-05-28 📖Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求 `Java` `Dockerfile` `Vue`
-- [siyuan](https://github.com/siyuan-note/siyuan "siyuan-note/siyuan") - ⭐44178 📅2026-05-29 📖A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang `Dockerfile` `JavaScript` `HTML`
-- [AFFiNE](https://github.com/toeverything/AFFiNE "toeverything/AFFiNE") - ⭐68851 📅2026-05-29 📖There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use `JavaScript` `TypeScript` `CSS`
-- [ntfy](https://github.com/binwiederhier/ntfy "binwiederhier/ntfy") - ⭐30449 📅2026-05-20 📖Send push notifications to your phone or desktop using PUT/POST `Go` `Dockerfile` `Makefile`
+- [immich](https://github.com/immich-app/immich "immich-app/immich") - ⭐102235 📅2026-05-30 📖High performance self-hosted photo and video management solution `HTML` `Makefile` `Shell`
+- [hello-algo](https://github.com/krahets/hello-algo "krahets/hello-algo") - ⭐126474 📅2026-04-18 📖Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 `Java` `C++` `Python`
+- [my-tv](https://github.com/lizongying/my-tv "lizongying/my-tv") - ⭐32091 📅2024-06-20 📖我的电视 电视直播软件，安装即可使用 `Kotlin` `CMake` `Makefile`
+- [halo](https://github.com/halo-dev/halo "halo-dev/halo") - ⭐38821 📅2026-05-29 📖Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求 `Java` `Dockerfile` `Vue`
+- [siyuan](https://github.com/siyuan-note/siyuan "siyuan-note/siyuan") - ⭐44196 📅2026-05-30 📖A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang `Dockerfile` `JavaScript` `HTML`
+- [AFFiNE](https://github.com/toeverything/AFFiNE "toeverything/AFFiNE") - ⭐68878 📅2026-05-30 📖There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use `JavaScript` `TypeScript` `CSS`
+- [ntfy](https://github.com/binwiederhier/ntfy "binwiederhier/ntfy") - ⭐30470 📅2026-05-20 📖Send push notifications to your phone or desktop using PUT/POST `Go` `Dockerfile` `Makefile`
 - [showdoc](https://github.com/star7th/showdoc "star7th/showdoc") - ⭐12823 📅2026-05-28 📖ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具 `PHP` `HTML` `CSS`
-- [linux-command](https://github.com/jaywcjlove/linux-command "jaywcjlove/linux-command") - ⭐36207 📅2026-05-24 📖Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux `HTML` `Stylus` `JavaScript`
-- [public-apis](https://github.com/public-apis/public-apis "public-apis/public-apis") - ⭐437674 📅2026-05-28 📖A collective list of free APIs `Shell` `Python`
+- [linux-command](https://github.com/jaywcjlove/linux-command "jaywcjlove/linux-command") - ⭐36212 📅2026-05-24 📖Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux `HTML` `Stylus` `JavaScript`
+- [public-apis](https://github.com/public-apis/public-apis "public-apis/public-apis") - ⭐437820 📅2026-05-28 📖A collective list of free APIs `Shell` `Python`
 - [public-apis](https://github.com/toddmotto/public-apis "toddmotto/public-apis") - ⭐2718 📅2024-06-23 📖A collective list of free APIs `Shell` `Python`
-- [tabby](https://github.com/Eugeny/tabby "Eugeny/tabby") - ⭐71717 📅2026-05-20 📖A terminal for a more modern age `CSS` `JavaScript` `TypeScript`
-- [envsubst](https://github.com/a8m/envsubst "a8m/envsubst") - ⭐889 📅2025-12-10 📖Environment variables substitution for Go `Go`
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX "sickcodes/Docker-OSX") - ⭐52534 📅2025-11-11 📖Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers `Dockerfile` `Shell` `Mustache`
-- [RazorEngine](https://github.com/Antaris/RazorEngine "Antaris/RazorEngine") - ⭐2166 📅2021-05-11 📖Open source templating engine based on Microsoft's Razor parsing engine `Shell` `F#` `C#`
-- [fluid](https://github.com/sebastienros/fluid "sebastienros/fluid") - ⭐1745 📅2026-05-26 📖Fluid is an open-source .NET template engine based on the Liquid template language `C#` `Liquid` `Mustache`
-- [Etl.Net](https://github.com/paillave/Etl.Net "paillave/Etl.Net") - ⭐798 📅2026-05-20 📖Mass processing data with a complete ETL for .net developers `C#` `HTML` `TSQL`
+- [tabby](https://github.com/Eugeny/tabby "Eugeny/tabby") - ⭐71737 📅2026-05-20 📖A terminal for a more modern age `CSS` `JavaScript` `TypeScript`
+- [envsubst](https://github.com/a8m/envsubst "a8m/envsubst") - ⭐890 📅2025-12-10 📖Environment variables substitution for Go `Go`
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX "sickcodes/Docker-OSX") - ⭐52538 📅2025-11-11 📖Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers `Dockerfile` `Shell` `Mustache`
+- [RazorEngine](https://github.com/Antaris/RazorEngine "Antaris/RazorEngine") - ⭐2165 📅2021-05-11 📖Open source templating engine based on Microsoft's Razor parsing engine `Shell` `F#` `C#`
+- [fluid](https://github.com/sebastienros/fluid "sebastienros/fluid") - ⭐1744 📅2026-05-26 📖Fluid is an open-source .NET template engine based on the Liquid template language `C#` `Liquid` `Mustache`
+- [Etl.Net](https://github.com/paillave/Etl.Net "paillave/Etl.Net") - ⭐799 📅2026-05-20 📖Mass processing data with a complete ETL for .net developers `C#` `HTML` `TSQL`
 - [package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings "comwrg/package-manager-proxy-settings") - ⭐1006 📅2022-10-09 📖记录各个包管理器代理设置坑点
-- [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy "dqzboy/Docker-Proxy") - ⭐4256 📅2026-04-22 📖自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb `Shell` `HTML` `Dockerfile`
+- [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy "dqzboy/Docker-Proxy") - ⭐4257 📅2026-04-22 📖自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb `Shell` `HTML` `Dockerfile`
 - [Thanks-Mirror](https://github.com/opsre/Thanks-Mirror "opsre/Thanks-Mirror") - ⭐3043 📅2026-05-18 📖整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞
-- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher "Flow-Launcher/Flow.Launcher") - ⭐14813 📅2026-05-26 📖mag: Quick file search & app launcher for Windows with community-made plugins `PowerShell` `Python` `C#`
-- [SukiUI](https://github.com/kikipoulet/SukiUI "kikipoulet/SukiUI") - ⭐2556 📅2026-05-19 📖UI Theme for AvaloniaUI `C#`
-- [lazydocker](https://github.com/jesseduffield/lazydocker "jesseduffield/lazydocker") - ⭐51199 📅2026-04-19 📖The lazier way to manage everything docker `Dockerfile` `Go` `Shell`
-- [dive](https://github.com/wagoodman/dive "wagoodman/dive") - ⭐54015 📅2025-12-15 📖A tool for exploring each layer in a docker image `Go` `Makefile` `Dockerfile`
+- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher "Flow-Launcher/Flow.Launcher") - ⭐14824 📅2026-05-29 📖mag: Quick file search & app launcher for Windows with community-made plugins `PowerShell` `Python` `C#`
+- [SukiUI](https://github.com/kikipoulet/SukiUI "kikipoulet/SukiUI") - ⭐2557 📅2026-05-19 📖UI Theme for AvaloniaUI `C#`
+- [lazydocker](https://github.com/jesseduffield/lazydocker "jesseduffield/lazydocker") - ⭐51208 📅2026-04-19 📖The lazier way to manage everything docker `Dockerfile` `Go` `Shell`
+- [dive](https://github.com/wagoodman/dive "wagoodman/dive") - ⭐54054 📅2025-12-15 📖A tool for exploring each layer in a docker image `Go` `Makefile` `Dockerfile`
 - [SJTUThesis](https://github.com/sjtug/SJTUThesis "sjtug/SJTUThesis") - ⭐3787 📅2026-05-20 📖上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template `TeX` `Makefile` `Batchfile`
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts "massgravel/Microsoft-Activation-Scripts") - ⭐176618 📅2026-05-07 📖Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting `Batchfile` `HTML`
-- [fastfetch](https://github.com/fastfetch-cli/fastfetch "fastfetch-cli/fastfetch") - ⭐22953 📅2026-05-28 📖A maintained, feature-rich and performance oriented, neofetch like system information tool `CMake` `Shell` `C`
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts "massgravel/Microsoft-Activation-Scripts") - ⭐176719 📅2026-05-07 📖Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting `Batchfile` `HTML`
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch "fastfetch-cli/fastfetch") - ⭐22978 📅2026-05-30 📖A maintained, feature-rich and performance oriented, neofetch like system information tool `CMake` `Shell` `C`
 - [wavedrom](https://github.com/wavedrom/wavedrom "wavedrom/wavedrom") - ⭐3411 📅2026-04-03 📖ocean: Digital timing diagram rendering engine `JavaScript` `HTML` `Perl`
-- [wpfui](https://github.com/lepoco/wpfui "lepoco/wpfui") - ⭐9405 📅2026-05-16 📖WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly `C#` `Batchfile` `PowerShell`
-- [IoTSharp](https://github.com/IoTSharp/IoTSharp "IoTSharp/IoTSharp") - ⭐1335 📅2026-05-24 📖IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management `C#` `JavaScript` `Dockerfile`
-- [sh](https://github.com/mvdan/sh "mvdan/sh") - ⭐8779 📅2026-05-10 📖A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt `Go` `Shell` `Dockerfile`
-- [shellcheck](https://github.com/koalaman/shellcheck "koalaman/shellcheck") - ⭐39487 📅2026-05-16 📖ShellCheck, a static analysis tool for shell scripts `Haskell` `Shell` `Dockerfile`
+- [wpfui](https://github.com/lepoco/wpfui "lepoco/wpfui") - ⭐9406 📅2026-05-16 📖WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly `C#` `Batchfile` `PowerShell`
+- [IoTSharp](https://github.com/IoTSharp/IoTSharp "IoTSharp/IoTSharp") - ⭐1337 📅2026-05-24 📖IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management `C#` `JavaScript` `Dockerfile`
+- [sh](https://github.com/mvdan/sh "mvdan/sh") - ⭐8780 📅2026-05-10 📖A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt `Go` `Shell` `Dockerfile`
+- [shellcheck](https://github.com/koalaman/shellcheck "koalaman/shellcheck") - ⭐39496 📅2026-05-16 📖ShellCheck, a static analysis tool for shell scripts `Haskell` `Shell` `Dockerfile`
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible "dylanaraps/pure-bash-bible") - ⭐41617 📅2023-11-28 📖A collection of pure bash alternatives to external processes `Shell`
-- [code-server](https://github.com/coder/code-server "coder/code-server") - ⭐77754 📅2026-05-29 📖VS Code in the browser `TypeScript` `HTML` `CSS`
+- [code-server](https://github.com/coder/code-server "coder/code-server") - ⭐77764 📅2026-05-29 📖VS Code in the browser `TypeScript` `HTML` `CSS`
 - [is.sh](https://github.com/qzb/is.sh "qzb/is.sh") - ⭐174 📅2019-11-20 📖Human readable conditions for bash `Shell`
-- [oh-my-bash](https://github.com/ohmybash/oh-my-bash "ohmybash/oh-my-bash") - ⭐7518 📅2026-05-04 📖A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community `Shell`
+- [oh-my-bash](https://github.com/ohmybash/oh-my-bash "ohmybash/oh-my-bash") - ⭐7520 📅2026-05-04 📖A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community `Shell`
 - [bashly](https://github.com/bashly-framework/bashly "bashly-framework/bashly") - ⭐2413 📅2026-05-24 📖Bash command line framework and CLI generator `Ruby` `Shell` `Dockerfile`
-- [gum](https://github.com/charmbracelet/gum "charmbracelet/gum") - ⭐23743 📅2026-05-11 📖A tool for glamorous shell scripts `Go` `Dockerfile` `Nix`
-- [tabler](https://github.com/tabler/tabler "tabler/tabler") - ⭐41098 📅2026-05-25 📖Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap `HTML` `JavaScript` `SCSS`
-- [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager "NginxProxyManager/nginx-proxy-manager") - ⭐32963 📅2026-05-28 📖Docker container for managing Nginx proxy hosts with a simple, powerful interface `Shell` `JavaScript` `HTML`
-- [webhookd](https://github.com/ncarlier/webhookd "ncarlier/webhookd") - ⭐1086 📅2026-02-03 📖A very simple webhook server launching shell scripts `Shell` `Go` `Makefile`
-- [webhook](https://github.com/adnanh/webhook "adnanh/webhook") - ⭐11851 📅2026-02-12 📖webhook is a lightweight incoming webhook server to run shell commands `Go` `Makefile` `Go Template`
+- [gum](https://github.com/charmbracelet/gum "charmbracelet/gum") - ⭐23750 📅2026-05-11 📖A tool for glamorous shell scripts `Go` `Dockerfile` `Nix`
+- [tabler](https://github.com/tabler/tabler "tabler/tabler") - ⭐41099 📅2026-05-25 📖Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap `HTML` `JavaScript` `SCSS`
+- [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager "NginxProxyManager/nginx-proxy-manager") - ⭐32985 📅2026-05-28 📖Docker container for managing Nginx proxy hosts with a simple, powerful interface `Shell` `JavaScript` `HTML`
+- [webhookd](https://github.com/ncarlier/webhookd "ncarlier/webhookd") - ⭐1087 📅2026-02-03 📖A very simple webhook server launching shell scripts `Shell` `Go` `Makefile`
+- [webhook](https://github.com/adnanh/webhook "adnanh/webhook") - ⭐11853 📅2026-02-12 📖webhook is a lightweight incoming webhook server to run shell commands `Go` `Makefile` `Go Template`
 - [awesome-ansible](https://github.com/ansible-community/awesome-ansible "ansible-community/awesome-ansible") - ⭐1883 📅2026-05-20 📖Awesome Ansible List
-- [scriban](https://github.com/scriban/scriban "scriban/scriban") - ⭐3893 📅2026-05-28 📖A fast, powerful, safe and lightweight scripting language and engine for .NET `C#`
-- [dockge](https://github.com/louislam/dockge "louislam/dockge") - ⭐23334 📅2026-04-25 📖A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager `JavaScript` `TypeScript` `Dockerfile`
-- [1Panel](https://github.com/1Panel-dev/1Panel "1Panel-dev/1Panel") - ⭐35639 📅2026-05-28 📖1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface `Go` `Vue` `Makefile`
-- [ddns-go](https://github.com/jeessy2/ddns-go "jeessy2/ddns-go") - ⭐16845 📅2026-05-22 📖Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo `Go` `CSS` `HTML`
-- [DDNS](https://github.com/NewFuture/DDNS "NewFuture/DDNS") - ⭐4672 📅2026-05-07 📖自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM `Python` `Batchfile` `Shell`
-- [ScottPlot](https://github.com/ScottPlot/ScottPlot "ScottPlot/ScottPlot") - ⭐6606 📅2026-05-05 📖Interactive plotting library for .NET `C#` `Batchfile` `Python`
-- [acme.sh](https://github.com/acmesh-official/acme.sh "acmesh-official/acme.sh") - ⭐46720 📅2026-05-24 📖A pure Unix shell script ACME client for SSL / TLS certificate automation `Shell` `Dockerfile`
-- [docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy "Tecnativa/docker-socket-proxy") - ⭐2527 📅2026-02-25 📖Proxy over your Docker socket to restrict which requests it accepts `Dockerfile` `Python` `Shell`
+- [scriban](https://github.com/scriban/scriban "scriban/scriban") - ⭐3894 📅2026-05-29 📖A fast, powerful, safe and lightweight scripting language and engine for .NET `C#`
+- [dockge](https://github.com/louislam/dockge "louislam/dockge") - ⭐23340 📅2026-04-25 📖A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager `JavaScript` `TypeScript` `Dockerfile`
+- [1Panel](https://github.com/1Panel-dev/1Panel "1Panel-dev/1Panel") - ⭐35663 📅2026-05-29 📖1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface `Go` `Vue` `Makefile`
+- [ddns-go](https://github.com/jeessy2/ddns-go "jeessy2/ddns-go") - ⭐16848 📅2026-05-22 📖Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo `Go` `CSS` `HTML`
+- [DDNS](https://github.com/NewFuture/DDNS "NewFuture/DDNS") - ⭐4673 📅2026-05-07 📖自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM `Python` `Batchfile` `Shell`
+- [ScottPlot](https://github.com/ScottPlot/ScottPlot "ScottPlot/ScottPlot") - ⭐6612 📅2026-05-05 📖Interactive plotting library for .NET `C#` `Batchfile` `Python`
+- [acme.sh](https://github.com/acmesh-official/acme.sh "acmesh-official/acme.sh") - ⭐46731 📅2026-05-24 📖A pure Unix shell script ACME client for SSL / TLS certificate automation `Shell` `Dockerfile`
+- [docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy "Tecnativa/docker-socket-proxy") - ⭐2534 📅2026-02-25 📖Proxy over your Docker socket to restrict which requests it accepts `Dockerfile` `Python` `Shell`
 - [Costura](https://github.com/Fody/Costura "Fody/Costura") - ⭐2534 📅2026-05-28 📖Embed references as resources `C#` `C++` `PowerShell`
 - [CliFx](https://github.com/Tyrrrz/CliFx "Tyrrrz/CliFx") - ⭐1604 📅2026-05-03 📖Class-first framework for building command-line interfaces `C#`
 - [FluentDocker](https://github.com/mariotoffia/FluentDocker "mariotoffia/FluentDocker") - ⭐1386 📅2026-05-11 📖Use docker/podman, compose local and remote via a FluentAPI `C#` `Dockerfile` `Batchfile`
-- [vs-streamjsonrpc](https://github.com/microsoft/vs-streamjsonrpc "microsoft/vs-streamjsonrpc") - ⭐924 📅2026-05-26 📖The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more `C#` `PowerShell` `Batchfile`
-- [TouchSocket](https://github.com/RRQM/TouchSocket "RRQM/TouchSocket") - ⭐1238 📅2026-05-23 📖TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues and enables quick implementation of custom data message parsing using protocol templates `C#` `MDX` `PowerShell`
-- [MoreLINQ](https://github.com/morelinq/MoreLINQ "morelinq/MoreLINQ") - ⭐3830 📅2025-11-25 📖Extensions to LINQ to Objects `C#` `Batchfile` `Shell`
-- [homepage](https://github.com/gethomepage/homepage "gethomepage/homepage") - ⭐30393 📅2026-05-29 📖A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations `Dockerfile` `JavaScript` `CSS`
-- [prompts.chat](https://github.com/f/prompts.chat "f/prompts.chat") - ⭐162988 📅2026-05-28 📖f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy `JavaScript` `CSS` `TypeScript`
-- [apprise](https://github.com/caronc/apprise "caronc/apprise") - ⭐16649 📅2026-05-29 📖Apprise - Push Notifications that work with just about every platform `Python` `Roff` `Shell`
-- [ILSpy](https://github.com/icsharpcode/ILSpy "icsharpcode/ILSpy") - ⭐25287 📅2026-05-26 📖NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform `C#` `Batchfile` `F#`
-- [Avalonia](https://github.com/AvaloniaUI/Avalonia "AvaloniaUI/Avalonia") - ⭐30875 📅2026-05-28 📖Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI `C#` `PowerShell` `Shell`
-- [diff-match-patch](https://github.com/google/diff-match-patch "google/diff-match-patch") - ⭐8123 📅2024-05-22 📖Diff Match Patch is a high-performance library in multiple languages that manipulates plain text `C++` `QMake` `C#`
-- [EPPlus](https://github.com/EPPlusSoftware/EPPlus "EPPlusSoftware/EPPlus") - ⭐2021 📅2026-05-28 📖EPPlus-Excel spreadsheets for .NET `C#`
+- [vs-streamjsonrpc](https://github.com/microsoft/vs-streamjsonrpc "microsoft/vs-streamjsonrpc") - ⭐926 📅2026-05-26 📖The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more `C#` `PowerShell` `Batchfile`
+- [TouchSocket](https://github.com/RRQM/TouchSocket "RRQM/TouchSocket") - ⭐1240 📅2026-05-23 📖TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues and enables quick implementation of custom data message parsing using protocol templates `C#` `MDX` `PowerShell`
+- [MoreLINQ](https://github.com/morelinq/MoreLINQ "morelinq/MoreLINQ") - ⭐3829 📅2025-11-25 📖Extensions to LINQ to Objects `C#` `Batchfile` `Shell`
+- [homepage](https://github.com/gethomepage/homepage "gethomepage/homepage") - ⭐30405 📅2026-05-30 📖A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations `Dockerfile` `JavaScript` `CSS`
+- [prompts.chat](https://github.com/f/prompts.chat "f/prompts.chat") - ⭐163036 📅2026-05-29 📖f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy `JavaScript` `CSS` `TypeScript`
+- [apprise](https://github.com/caronc/apprise "caronc/apprise") - ⭐16655 📅2026-05-29 📖Apprise - Push Notifications that work with just about every platform `Python` `Roff` `Shell`
+- [ILSpy](https://github.com/icsharpcode/ILSpy "icsharpcode/ILSpy") - ⭐25292 📅2026-05-26 📖NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform `C#` `Batchfile` `F#`
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia "AvaloniaUI/Avalonia") - ⭐30883 📅2026-05-29 📖Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI `C#` `PowerShell` `Shell`
+- [diff-match-patch](https://github.com/google/diff-match-patch "google/diff-match-patch") - ⭐8121 📅2024-05-22 📖Diff Match Patch is a high-performance library in multiple languages that manipulates plain text `C++` `QMake` `C#`
+- [EPPlus](https://github.com/EPPlusSoftware/EPPlus "EPPlusSoftware/EPPlus") - ⭐2022 📅2026-05-29 📖EPPlus-Excel spreadsheets for .NET `C#`
 - [virtual-dsm](https://github.com/vdsm/virtual-dsm "vdsm/virtual-dsm") - ⭐3833 📅2026-05-29 📖Virtual DSM in a Docker container `Shell` `Dockerfile` `HTML`
 - [csharp-jmespath](https://github.com/jmespath-community/csharp-jmespath "jmespath-community/csharp-jmespath") - ⭐143 📅2026-03-05 📖A fully compliant implementation of JMESPATH for .NET `C#` `Yacc` `Lex`
 - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet "graphql-dotnet/graphql-dotnet") - ⭐5984 📅2026-05-24 📖GraphQL for .NET `C#` `JavaScript` `CSS`
@@ -449,38 +450,38 @@ Each repository information contains name, url, star count, last push date, a sh
 - [Flurl](https://github.com/tmenier/Flurl "tmenier/Flurl") - ⭐4403 📅2025-01-01 📖Fluent URL builder and testable HTTP client for .NET `C#`
 - [RestSharp](https://github.com/restsharp/RestSharp "restsharp/RestSharp") - ⭐9825 📅2026-05-05 📖Simple REST and HTTP API Client for .NET `C#` `Dockerfile`
 - [aws-signature-version-4](https://github.com/FantasticFiasco/aws-signature-version-4 "FantasticFiasco/aws-signature-version-4") - ⭐91 📅2026-05-27 📖The buttoned-up and boring, but deeply analyzed, implementation of SigV4 in .NET `C#` `TypeScript` `JavaScript`
-- [aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples "awsdocs/aws-doc-sdk-examples") - ⭐10416 📅2026-05-27 📖Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below `Shell` `Java` `Ruby`
+- [aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples "awsdocs/aws-doc-sdk-examples") - ⭐10417 📅2026-05-29 📖Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below `Shell` `Java` `Ruby`
 - [interactive](https://github.com/dotnet/interactive "dotnet/interactive") - ⭐3200 📅2026-04-27 📖NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before `Dockerfile` `F#` `C#`
-- [spectre.console](https://github.com/spectreconsole/spectre.console "spectreconsole/spectre.console") - ⭐11461 📅2026-05-26 📖A .NET library that makes it easier to create beautiful console applications `C#` `PowerShell`
+- [spectre.console](https://github.com/spectreconsole/spectre.console "spectreconsole/spectre.console") - ⭐11465 📅2026-05-26 📖A .NET library that makes it easier to create beautiful console applications `C#` `PowerShell`
 - [dotnet-script](https://github.com/dotnet-script/dotnet-script "dotnet-script/dotnet-script") - ⭐3000 📅2026-05-28 📖Run C# scripts from the .NET CLI `C#` `Batchfile` `Shell`
-- [harbor](https://github.com/goharbor/harbor "goharbor/harbor") - ⭐28574 📅2026-05-29 📖An open source trusted cloud native registry project that stores, signs, and scans content `Shell` `Python` `Go`
-- [LinuxMirrors](https://github.com/SuperManito/LinuxMirrors "SuperManito/LinuxMirrors") - ⭐7524 📅2026-05-20 📖GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 `Shell`
-- [FluentValidation](https://github.com/FluentValidation/FluentValidation "FluentValidation/FluentValidation") - ⭐9717 📅2026-05-08 📖A popular .NET validation library for building strongly-typed validation rules `PowerShell` `C#` `Batchfile`
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt "LiLittleCat/awesome-free-chatgpt") - ⭐21086 📅2025-06-23 📖免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated `Python`
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp "TheAlgorithms/C-Sharp") - ⭐8131 📅2025-11-16 📖All algorithms implemented in C `C#`
+- [harbor](https://github.com/goharbor/harbor "goharbor/harbor") - ⭐28583 📅2026-05-29 📖An open source trusted cloud native registry project that stores, signs, and scans content `Shell` `Python` `Go`
+- [LinuxMirrors](https://github.com/SuperManito/LinuxMirrors "SuperManito/LinuxMirrors") - ⭐7531 📅2026-05-20 📖GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 `Shell`
+- [FluentValidation](https://github.com/FluentValidation/FluentValidation "FluentValidation/FluentValidation") - ⭐9718 📅2026-05-08 📖A popular .NET validation library for building strongly-typed validation rules `PowerShell` `C#` `Batchfile`
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt "LiLittleCat/awesome-free-chatgpt") - ⭐21083 📅2025-06-23 📖免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated `Python`
+- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp "TheAlgorithms/C-Sharp") - ⭐8130 📅2025-11-16 📖All algorithms implemented in C `C#`
 - [SuperSocket](https://github.com/kerryjiang/SuperSocket "kerryjiang/SuperSocket") - ⭐4221 📅2026-04-04 📖SuperSocket is a high-performance, extensible socket server application framework for .NET. It provides a robust architecture for building custom network communication applications with support for multiple protocols including TCP, UDP, and WebSocket `C#` `Shell`
-- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms "aalhour/C-Sharp-Algorithms") - ⭐6159 📅2026-05-28 📖books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C `C#` `Batchfile`
+- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms "aalhour/C-Sharp-Algorithms") - ⭐6157 📅2026-05-28 📖books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C `C#` `Batchfile`
 - [CliWrap](https://github.com/Tyrrrz/CliWrap "Tyrrrz/CliWrap") - ⭐4964 📅2026-05-03 📖Library for interacting with command-line interfaces `C#`
 - [commandline](https://github.com/commandlineparser/commandline "commandlineparser/commandline") - ⭐4815 📅2024-02-29 📖The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support `C#`
-- [awesome-dotnet](https://github.com/quozd/awesome-dotnet "quozd/awesome-dotnet") - ⭐21375 📅2026-03-26 📖A collection of awesome .NET libraries, tools, frameworks and software
-- [LiveCharts2](https://github.com/Live-Charts/LiveCharts2 "Live-Charts/LiveCharts2") - ⭐5262 📅2026-05-28 📖Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework `C#` `HTML` `CSS`
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet "quozd/awesome-dotnet") - ⭐21377 📅2026-03-26 📖A collection of awesome .NET libraries, tools, frameworks and software
+- [LiveCharts2](https://github.com/Live-Charts/LiveCharts2 "Live-Charts/LiveCharts2") - ⭐5262 📅2026-05-29 📖Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework `C#` `HTML` `CSS`
 - [s7netplus](https://github.com/S7NetPlus/s7netplus "S7NetPlus/s7netplus") - ⭐1588 📅2025-06-02 📖S7.NET+ -- A .NET library to connect to Siemens Step7 devices `C#`
 - [Sharp7](https://github.com/fbarresi/Sharp7 "fbarresi/Sharp7") - ⭐253 📅2023-05-11 📖Nuget package for Sharp7 `C#`
-- [serilog](https://github.com/serilog/serilog "serilog/serilog") - ⭐7975 📅2026-05-11 📖Simple .NET logging with fully-structured events `PowerShell` `C#`
-- [HandyControl](https://github.com/HandyOrg/HandyControl "HandyOrg/HandyControl") - ⭐7071 📅2026-05-28 📖Contains some simple and commonly used WPF controls `C#` `HLSL`
-- [awesome-actions](https://github.com/sdras/awesome-actions "sdras/awesome-actions") - ⭐27841 📅2024-09-01 📖A curated list of awesome actions to use on GitHub
-- [gfwlist](https://github.com/gfwlist/gfwlist "gfwlist/gfwlist") - ⭐25351 📅2026-05-27 📖The one and only one gfwlist here
-- [openai-cookbook](https://github.com/openai/openai-cookbook "openai/openai-cookbook") - ⭐73839 📅2026-05-29 📖Examples and guides for using the OpenAI API `MDX` `Jupyter Notebook`
-- [weekly](https://github.com/ruanyf/weekly "ruanyf/weekly") - ⭐92315 📅2026-05-29 📖科技爱好者周刊，每周五发布
-- [gitea](https://github.com/go-gitea/gitea "go-gitea/gitea") - ⭐55992 📅2026-05-29 📖Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD `Makefile` `Go` `Shell`
+- [serilog](https://github.com/serilog/serilog "serilog/serilog") - ⭐7977 📅2026-05-11 📖Simple .NET logging with fully-structured events `PowerShell` `C#`
+- [HandyControl](https://github.com/HandyOrg/HandyControl "HandyOrg/HandyControl") - ⭐7073 📅2026-05-28 📖Contains some simple and commonly used WPF controls `C#` `HLSL`
+- [awesome-actions](https://github.com/sdras/awesome-actions "sdras/awesome-actions") - ⭐27844 📅2024-09-01 📖A curated list of awesome actions to use on GitHub
+- [gfwlist](https://github.com/gfwlist/gfwlist "gfwlist/gfwlist") - ⭐25352 📅2026-05-29 📖The one and only one gfwlist here
+- [openai-cookbook](https://github.com/openai/openai-cookbook "openai/openai-cookbook") - ⭐73857 📅2026-05-29 📖Examples and guides for using the OpenAI API `MDX` `Jupyter Notebook`
+- [weekly](https://github.com/ruanyf/weekly "ruanyf/weekly") - ⭐92478 📅2026-05-29 📖科技爱好者周刊，每周五发布
+- [gitea](https://github.com/go-gitea/gitea "go-gitea/gitea") - ⭐56015 📅2026-05-30 📖Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD `Makefile` `Go` `Shell`
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust "shadowsocks/shadowsocks-rust") - ⭐10650 📅2026-05-29 📖A Rust port of shadowsocks `Rust` `Shell` `Makefile`
 - [next-terminal](https://github.com/dushixiang/next-terminal "dushixiang/next-terminal") - ⭐5539 📅2026-05-23 📖Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪 `HTML` `CSS` `JavaScript`
-- [awesome](https://github.com/sindresorhus/awesome "sindresorhus/awesome") - ⭐470947 📅2026-05-05 📖Awesome lists about all kinds of interesting topics
-- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps "agarrharr/awesome-cli-apps") - ⭐19672 📅2026-05-25 📖A curated list of command line apps `Shell`
-- [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core "thangchung/awesome-dotnet-core") - ⭐21252 📅2026-02-27 📖honeybee: A collection of awesome .NET core libraries, tools, frameworks and software `C#`
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker "veggiemonk/awesome-docker") - ⭐36104 📅2026-05-18 📖whale: A curated list of Docker resources and projects
-- [awesome-shell](https://github.com/alebcay/awesome-shell "alebcay/awesome-shell") - ⭐36983 📅2025-08-28 📖A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted "awesome-selfhosted/awesome-selfhosted") - ⭐295822 📅2026-05-28 📖A list of Free Software network services and web applications which can be hosted on your own servers
-- [memos](https://github.com/usememos/memos "usememos/memos") - ⭐60201 📅2026-05-27 📖Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours `Go` `HTML` `TypeScript`
-- [awesome-programming-books](https://github.com/jobbole/awesome-programming-books "jobbole/awesome-programming-books") - ⭐15374 📅2021-08-26 📖经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [awesome](https://github.com/sindresorhus/awesome "sindresorhus/awesome") - ⭐471235 📅2026-05-05 📖Awesome lists about all kinds of interesting topics
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps "agarrharr/awesome-cli-apps") - ⭐19678 📅2026-05-25 📖A curated list of command line apps `Shell`
+- [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core "thangchung/awesome-dotnet-core") - ⭐21251 📅2026-02-27 📖honeybee: A collection of awesome .NET core libraries, tools, frameworks and software `C#`
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker "veggiemonk/awesome-docker") - ⭐36112 📅2026-05-18 📖whale: A curated list of Docker resources and projects
+- [awesome-shell](https://github.com/alebcay/awesome-shell "alebcay/awesome-shell") - ⭐36988 📅2025-08-28 📖A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted "awesome-selfhosted/awesome-selfhosted") - ⭐296039 📅2026-05-29 📖A list of Free Software network services and web applications which can be hosted on your own servers
+- [memos](https://github.com/usememos/memos "usememos/memos") - ⭐60225 📅2026-05-27 📖Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours `Go` `HTML` `TypeScript`
+- [awesome-programming-books](https://github.com/jobbole/awesome-programming-books "jobbole/awesome-programming-books") - ⭐15376 📅2021-08-26 📖经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [less.js](https://github.com/less/less.js "less/less.js") - ⭐17024 📅2026-03-24 📖Less. The dynamic stylesheet language `JavaScript` `CSS` `HTML`
